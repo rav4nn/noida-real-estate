@@ -4,7 +4,7 @@ Housing.com full enrichment — 754 RERA projects
 Strategy:
   1. DuckDuckGo HTML endpoint  → find Housing.com project URL (no site: filter needed)
   2. curl_cffi (Chrome TLS)    → fetch project page (bypasses Akamai 406)
-  3. Regex + JSON-LD           → extract buildings, units, BHK areas, status, price, RERA
+  3. Regex + JSON-LD           → extract buildings, units, BHK areas, price, RERA
   4. Incremental save          → resume-safe, saves every project
   5. Second pass               → retries all URL-not-found after 5-min cooldown
 
@@ -16,6 +16,10 @@ Output files:
 import re, json, time, sys, os
 from collections import Counter
 from curl_cffi import requests as cf
+
+# Force UTF-8 stdout so ₹ and other non-ASCII chars don't crash on Windows
+if sys.stdout.encoding != "utf-8":
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
 BASE   = os.path.dirname(os.path.abspath(__file__))
@@ -41,6 +45,10 @@ DDG_HEADERS = {
 # ── URL discovery ──────────────────────────────────────────────────────────────
 def clean_project_name(name: str) -> str:
     """Remove boilerplate phase/tower suffixes for a cleaner search query."""
+    # Special handling for authority schemes (BHS, RHS, etc.)
+    if re.search(r'\bBHS[-\s]\d+', name, re.I):
+        name = "GNIDA Authority " + name
+    
     name = re.sub(r'\(.*?\)', '', name)            # remove parentheses
     name = re.sub(r'\bphase[-\s]?\w+\b', '', name, flags=re.IGNORECASE)
     name = re.sub(r'\btower\s+[A-Z\s&,]+$', '', name, flags=re.IGNORECASE)
@@ -386,8 +394,8 @@ def main():
     # ── Pass 3: RERA-ID retry for existing mismatches ────────────────────
     rera_mismatches = [
         p for p in projects_raw
-        if progress.get(p["rera_id"], {}).get("housing_url")
-        and progress.get(p["rera_id"], {}).get("rera_match") is False
+        if (progress.get(p["rera_id"], {}).get("housing_url") and progress.get(p["rera_id"], {}).get("rera_match") is False)
+        or (progress.get(p["rera_id"], {}).get("error") == "URL not found")
     ]
     if rera_mismatches:
         print(f"\n=== Pass 3: {len(rera_mismatches)} RERA-mismatch retries (RERA-ID search) ===")
