@@ -4,5 +4,6 @@ __pycache__/
 # Raw scrape dumps
 noida_housing_scraped.md
 greater_noida_housing_scraped.md
-gemini_housing_prompt.md
-gemini_housing_full_prompt.md
+
+# Scraping scripts and prompts (separate project)
+scraping_scripts/
