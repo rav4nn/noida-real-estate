@@ -1,0 +1,2256 @@
+project_name,rera_id,promoter_name,district,project_type,developer_name,locality,city,land_area,number_of_towers,number_of_floors,total_units,unit_types,unit_sizes,project_status,possession_date,price_range,is_high_rise,source_url_99acres,faq_url_99acres,extraction_source
+ATS ALLURE,UPRERAPRJ918,ATS Realty Private Limited,Gautam Buddha Nagar,Residential,,,,8.48 acres,,,,,,,,,,https://www.99acres.com/ats-allure-yamuna-expressway-greater-noida-npxid-r16380,https://www.99acres.com/ats-faqs-allure-yamuna-expressway-greater-noida-npxid-r16380,DDG Snippet
+ATS RHAPSODY,UPRERAPRJ4115,ATS Township Private Limited,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ats-rhapsody-sector-1-greater-noida-west-greater-noida-npxid-r270729,https://www.99acres.com/ats-faqs-rhapsody-sector-1-greater-noida-west-greater-noida-npxid-r270729,
+Supertech Czar,UPRERAPRJ9414,SUPERTECH LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+1st - A Park View,UPRERAPRJ574384,Gaursons Realtech Private Limited,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/gaur-yamuna-city-16th-park-view-yamuna-expressway-greater-noida-npxid-r64448,https://www.99acres.com/gaur-faqs-yamuna-city-16th-park-view-yamuna-expressway-greater-noida-npxid-r64448,
+1st - B Park View,UPRERAPRJ235739,Gaursons Realtech Private Limited,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/gaur-yamuna-city-16th-park-view-yamuna-expressway-greater-noida-npxid-r64448,https://www.99acres.com/gaur-faqs-yamuna-city-16th-park-view-yamuna-expressway-greater-noida-npxid-r64448,
+14th Avenue,UPRERAPRJ6742,Gaursons Promoters Private Limited,Gautam Buddha Nagar,Residential,,,,15.77 acres,21,30,4953,,,,,,,https://www.99acres.com/gaur-city-2-14th-avenue-sector-16c-greater-noida-npxid-r20882,https://www.99acres.com/gaur-faqs-city-2-14th-avenue-sector-16c-greater-noida-npxid-r20882,DDG Snippet
+168Xaviers - Cambridge and Crystal,UPRERAPRJ8242,OPULENT INFRADEVELOPERS PRIVATE LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+168Xaviers - MARIOTT TOWER,UPRERAPRJ6754,OPULENT INFRADEVELOPERS PRIVATE LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+16th Parkview - Gaur Yamuna City,UPRERAPRJ6801,Gaursons Realtech Private Limited,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/gaur-yamuna-city-16th-park-view-yamuna-expressway-greater-noida-npxid-r64448,https://www.99acres.com/gaur-faqs-yamuna-city-16th-park-view-yamuna-expressway-greater-noida-npxid-r64448,
+2nd Parkview,UPRERAPRJ4464,Gaursons Realtech Private Limited,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/gaur-yamuna-city-7th-parkview-yamuna-expressway-greater-noida-npxid-r306777,https://www.99acres.com/gaur-faqs-yamuna-city-7th-parkview-yamuna-expressway-greater-noida-npxid-r306777,
+32nd Parkview,UPRERAPRJ4193,Gaursons Realtech Private Limited,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/gaur-yamuna-city-7th-parkview-yamuna-expressway-greater-noida-npxid-r306777,https://www.99acres.com/gaur-faqs-yamuna-city-7th-parkview-yamuna-expressway-greater-noida-npxid-r306777,
+3rd PARK VIEW - GAUR YAMUNA CITY,UPRERAPRJ16103,Gaursons Realtech Private Limited,Gautam Buddha Nagar,Residential,,,,,,,,,,Ready to move,,,,https://www.99acres.com/gaur-yamuna-city-krishn-vilas-yamuna-expressway-greater-noida-npxid-r319511,https://www.99acres.com/gaur-faqs-yamuna-city-krishn-vilas-yamuna-expressway-greater-noida-npxid-r319511,DDG Snippet
+6th Parkview (Gaur Yamuna City),UPRERAPRJ15838,Gaursons Realtech Private Limited,Gautam Buddha Nagar,Residential,,,,250 acres,,,,,,,,,,https://www.99acres.com/gaur-yamuna-city-yamuna-expressway-greater-noida-npxid-r9918,https://www.99acres.com/gaur-faqs-yamuna-city-yamuna-expressway-greater-noida-npxid-r9918,DDG Snippet
+73 AVENUE,UPRERAPRJ15358,M.L.Infratech,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/maasters-capitol-avenue-sector-62-noida-npxid-c382600,https://www.99acres.com/maasters-faqs-capitol-avenue-sector-62-noida-npxid-c382600,
+7th Avenue - Gaur City,UPRERAPRJ6695,Gaursons Hi-Tech Infrastructure Private Limited,Gautam Buddha Nagar,Residential,,,,,,,,"2,3 BHK",,Ready to move,,,,https://www.99acres.com/gaur-city-7th-avenue-sector-4-greater-noida-npxid-r130119,https://www.99acres.com/gaur-faqs-city-7th-avenue-sector-4-greater-noida-npxid-r130119,DDG Snippet
+8th Avenue - Gaur City,UPRERAPRJ8648,Gaursons Hi-Tech Infrastructure Private Limited,Gautam Buddha Nagar,Residential,,,,,,,,"2,3,4 BHK",,Ready to move,,,,https://www.99acres.com/gaur-city-sector-4-greater-noida-npxid-r8796,https://www.99acres.com/gaur-faqs-city-sector-4-greater-noida-npxid-r8796,DDG Snippet
+AASHIYANA GLORY,UPRERAPRJ16558,INVESTORS INN INFRASTRUCTURE PVT LTD,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/investors-inn-aashiyana-glory-sarfabad-village-noida-npxid-r309721,https://www.99acres.com/investors-faqs-inn-aashiyana-glory-sarfabad-village-noida-npxid-r309721,
+AASTHA GREENS,UPRERAPRJ1050,AASTHA INFRACITY LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AASTHA MIG ZONE I (M4 TO M6),UPRERAPRJ9325,ANSAL HI-TECH TOWNSHIPS LTD,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/aastha-greens-floor-plan-sector-4-greater-noida-npxid-r13750,https://www.99acres.com/aastha-faqs-greens-floor-plan-sector-4-greater-noida-npxid-r13750,
+AASTHA MIG ZONE II,UPRERAPRJ5670,ANSAL HI-TECH TOWNSHIPS LTD,Gautam Buddha Nagar,Residential,,,,,,,,3 BHK,,Ready to move,,,,https://www.99acres.com/aastha-greens-sector-4-greater-noida-npxid-r13750,https://www.99acres.com/aastha-faqs-greens-sector-4-greater-noida-npxid-r13750,DDG Snippet
+ACE ASPIRE,UPRERAPRJ6032,ACE INFRACITY PRIVATE LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ACE CITY,UPRERAPRJ6486,ACE INFRACITY PRIVATE LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/twin-city-walk-ambesten-homes-noida-extension-noida-npxid-c404259,https://www.99acres.com/twin-faqs-city-walk-ambesten-homes-noida-extension-noida-npxid-c404259,
+ACE GOLFSHIRE,UPRERAPRJ6238,ACE INFRACITY PRIVATE LIMITED,Gautam Buddha Nagar,Residential,,,,6.25 acres,,,,,,,,,,https://www.99acres.com/ace-golfshire-sector-150-noida-npxid-r24862,https://www.99acres.com/ace-faqs-golfshire-sector-150-noida-npxid-r24862,DDG Snippet
+ACE PLATINUM,UPRERAPRJ9101,ACE INFRACITY PRIVATE LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/irish-platinum-greater-noida-west-greater-noida-npxid-r403945,https://www.99acres.com/irish-faqs-platinum-greater-noida-west-greater-noida-npxid-r403945,
+ACE STELLA,UPRERAPRJ8828,ACE INFRACITY PRIVATE LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ACE STUDIO,UPRERAPRJ4487,ACE INFRACITY PRIVATE LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ACE WOODLANDS,UPRERAPRJ6455,ACE INFRACITY PRIVATE LIMITED,Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+ADITYA CELEBRITY HOMES,UPRERAPRJ4287,ADITYA CELEBRITY HOMES PRIVATE LIMITED,Gautam Buddha Nagar,Residential,,,,8 acres,,,,,,,,,,https://www.99acres.com/aditya-celebrity-homes-sector-76-noida-npxid-r772,https://www.99acres.com/aditya-faqs-celebrity-homes-sector-76-noida-npxid-r772,DDG Snippet
+ADORNIA,UPRERAPRJ5520,SUPERTECH LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AGARWAL HEIGHTS,UPRERAPRJ15643,AGARWAL INFRATECH,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/aggarwal-heights-raj-nagar-extension-ghaziabad-npxid-r128357,https://www.99acres.com/aggarwal-faqs-heights-raj-nagar-extension-ghaziabad-npxid-r128357,
+Ajnara Panorama (Phase-1),UPRERAPRJ8704,AJNARA INDIA LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ajnara Panorama (Phase-2),UPRERAPRJ8725,AJNARA INDIA LIMITED,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AJNARA THE BELVEDERE,UPRERAPRJ8437,AJNARA INDIA LIMITED,Gautam Buddha Nagar,Residential,,,,4.78 acres,,,,,,,,,,https://www.99acres.com/ajnara-the-belvedere-sector-79-noida-npxid-r61681,https://www.99acres.com/ajnara-faqs-the-belvedere-sector-79-noida-npxid-r61681,DDG Snippet
+Alstonia Apartments,UPRERAPRJ4783,ANS APARTMENTS PVT LTD,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AMAATRA HOMES,UPRERAPRJ9195,NANDI INFRATECH PVT LTD,Gautam Buddha Nagar,Residential,,,,5.01 acres,,,,,,,,,,https://www.99acres.com/amaatra-homes-sector-10-greater-noida-west-greater-noida-npxid-r10822,https://www.99acres.com/amaatra-faqs-homes-sector-10-greater-noida-west-greater-noida-npxid-r10822,DDG Snippet
+AMADEUS,UPRERAPRJ10111,SAHA INFRATECH PVT LTD,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ambience Tiverton,UPRERAPRJ8847,Ambience Projects and Infrastructure Private Limited,Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Aims Green Avenue (Phase-1),UPRERAPRJ7473,Aims Golf Town Developers Private Limited,Gautam Buddha Nagar,Residential,,,,4.94 acres,,,,,,,,,,https://www.99acres.com/aims-golf-avenue-2-sector-75-noida-npxid-r23142,https://www.99acres.com/aims-faqs-golf-avenue-2-sector-75-noida-npxid-r23142,DDG Snippet
+Aims GREEN Avenue (Phase-2),UPRERAPRJ7136,Aims Golf Town Developers Private Limited,Gautam Buddha Nagar,Residential,,,,4.94 acres,,,,,,,,,,https://www.99acres.com/aims-golf-avenue-2-sector-75-noida-npxid-r23142,https://www.99acres.com/aims-faqs-golf-avenue-2-sector-75-noida-npxid-r23142,DDG Snippet
+7th PARK VIEW - GAUR YAMUNA CITY,UPRERAPRJ16087,"Promoter
+
+Gaursons Realtech Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/gaur-yamuna-city-16th-park-view-yamuna-expressway-greater-noida-npxid-r64448,https://www.99acres.com/gaur-faqs-yamuna-city-16th-park-view-yamuna-expressway-greater-noida-npxid-r64448,
+"AASTHA MIG ZONE III (M3, M7-M11)",UPRERAPRJ5685,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AASTHA UDAY,UPRERAPRJ9841,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ACE ACREVILLE,UPRERAPRJ248777/03/2025,"Promoter
+
+THREE C HOMES PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ace-acreville-sector-22a-yamuna-expressway-greater-noida-npxid-r440690,https://www.99acres.com/ace-faqs-acreville-sector-22a-yamuna-expressway-greater-noida-npxid-r440690,
+Ace Divino,UPRERAPRJ6734,"Promoter
+
+STARCITY REAL ESTATES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ace Estate,UPRERAPRJ442226/10/2024,"Promoter
+
+LOGIX BUILDESTATE PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ace Parkway,UPRERAPRJ4514,"Promoter
+
+ACE INFRACITY DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,11.26 acres,,,,,,,,,,https://www.99acres.com/ace-parkway-sector-150-noida-npxid-r123445,https://www.99acres.com/ace-faqs-parkway-sector-150-noida-npxid-r123445,DDG Snippet
+Ace Starlit,UPRERAPRJ677294,"Promoter
+
+Star Landcraft Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ace-starlit-location-map-sector-152-noida-npxid-r378409,https://www.99acres.com/ace-faqs-starlit-location-map-sector-152-noida-npxid-r378409,
+Ace Terra,UPRERAPRJ683816/04/2024,"Promoter
+
+AJAY REALCON INDIA LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ace-terra-sector-22d-yamuna-expressway-greater-noida-npxid-r425033,https://www.99acres.com/ace-faqs-terra-sector-22d-yamuna-expressway-greater-noida-npxid-r425033,
+ACE VERDE,UPRERAPRJ913692/03/2025,"Promoter
+
+THREE C HOMES PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ace-verde-sector-22a-yamuna-expressway-greater-noida-npxid-r441720,https://www.99acres.com/ace-faqs-verde-sector-22a-yamuna-expressway-greater-noida-npxid-r441720,
+Affordable Housing Sector-22D YEIDA,UPRERAPRJ8647,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/yeida-affordable-housing-yeida-greater-noida-npxid-r293505,https://www.99acres.com/yeida-faqs-affordable-housing-yeida-greater-noida-npxid-r293505,
+AIG IN ROYAL ( PHASE 3),UPRERAPRJ902517,"Promoter
+
+ALPINE INFRAPROJECTS PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AIG ROYAL ( PHASE-2),UPRERAPRJ958972,"Promoter
+
+ALPINE INFRAPROJECTS PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AIG ROYAL (PHASE 1),UPRERAPRJ17394,"Promoter
+
+ALPINE INFRAPROJECTS PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AIGIN ROYAL PHASE 4,UPRERAPRJ309036,"Promoter
+
+ALPINE INFRAPROJECTS PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/purvanchal-royal-city-sector-chi-5-greater-noida-npxid-r10412,https://www.99acres.com/purvanchal-faqs-royal-city-sector-chi-5-greater-noida-npxid-r10412,
+Aims Golf Avenue (Phase -1),UPRERAPRJ6895,"Promoter
+
+Aims Promoters Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Aims Golf Avenue (Phase -2),UPRERAPRJ6952,"Promoter
+
+Aims Promoters Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Aims Golf Avenue (Phase-3),UPRERAPRJ7002,"Promoter
+
+Aims Promoters Private Limited",Gautam Buddha Nagar,Residential,,,,4.94 acres,,,,,,,,,,https://www.99acres.com/aims-golf-avenue-2-sector-75-noida-npxid-r23142,https://www.99acres.com/aims-faqs-golf-avenue-2-sector-75-noida-npxid-r23142,DDG Snippet
+Aims Green Aenue (Phase-3),UPRERAPRJ7262,"Promoter
+
+Aims Golf Town Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AISHWARYAM,UPRERAPRJ10333,"Promoter
+
+Wall Rock Infratech Pvt Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/aishwaryam-courtyard-gold-chikhali-pune-npxid-r265661,https://www.99acres.com/aishwaryam-faqs-courtyard-gold-chikhali-pune-npxid-r265661,
+AJNARA CITY VILLA (Phase - 1),UPRERAPRJ4999,"Promoter
+
+AJNARA INDIA LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+Ajnara Homes (Phase-1 Tower: I J K L & M),UPRERAPRJ4207,"Promoter
+
+APV Realty Limited",Gautam Buddha Nagar,Residential,,,,18.4 acres,,,,,,,,,,https://www.99acres.com/rg-luxury-homes-sector-16-b-greater-noida-npxid-r4006,https://www.99acres.com/rg-faqs-luxury-homes-sector-16-b-greater-noida-npxid-r4006,DDG Snippet
+Ajnara Homes (Phase-2 Tower N & O),UPRERAPRJ4273,"Promoter
+
+APV Realty Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ajnara Homes (Phase-3 PLAZIO Convinient Shops),UPRERAPRJ4539,"Promoter
+
+APV Realty Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Ajnara Panorama (Phase-1: Twr A, B C & G)",UPRERAPRJ2605,"Promoter
+
+AJNARA INDIA LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ajnara Panorama (Phase-2 Villas),UPRERAPRJ2990,"Promoter
+
+AJNARA INDIA LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+Ajnara Panorama (Phase-3 Studio & Convinient Shops,UPRERAPRJ3058,"Promoter
+
+AJNARA INDIA LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Amara Residences,UPRERAPRJ913592/01/2026,"Promoter
+
+Elegant IT Solutions Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ambarbyarihant,UPRERAPRJ4569,"Promoter
+
+CITYCON BUILDWEL PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ambience Tiverton,UPRERAPRJ4249,"Promoter
+
+Ambience Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ambience-tiverton-sector-50-noida-npxid-r33206,https://www.99acres.com/ambience-faqs-tiverton-sector-50-noida-npxid-r33206,
+AMBROSIA (Phase-1: Tower A B C D & E),UPRERAPRJ5814,"Promoter
+
+IVR PRIME DEVELOPERS (AVADI) PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,32,2032,,,,,,,https://www.99acres.com/ajnara-ambrosia-sector-118-noida-npxid-r3116,https://www.99acres.com/ajnara-faqs-ambrosia-sector-118-noida-npxid-r3116,DDG Snippet
+AMBROSIA (Phase-2: Tower F G H J & K),UPRERAPRJ5823,"Promoter
+
+IVR PRIME DEVELOPERS (AVADI) PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,18 acres,,,,,,,,,,https://www.99acres.com/ajnara-ambrosia-sector-118-noida-npxid-r3116,https://www.99acres.com/ajnara-faqs-ambrosia-sector-118-noida-npxid-r3116,DDG Snippet
+AMBROSIA (Phase-3: Convinient Shops),UPRERAPRJ5833,"Promoter
+
+IVR PRIME DEVELOPERS (AVADI) PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,18 acres,,,,3 BHK,,Ready to move,,,,https://www.99acres.com/ajnara-ambrosia-sector-118-noida-npxid-r3116,https://www.99acres.com/ajnara-faqs-ambrosia-sector-118-noida-npxid-r3116,DDG Snippet
+"AMBROSIA PHASE 04 (TOWER N1,N2,N3,N4,COMMERCIAL 5 & 6)",UPRERAPRJ888243,"Promoter
+
+IVR PRIME DEVELOPERS (AVADI) PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,32,2032,,,,,,,https://www.99acres.com/ajnara-ambrosia-sector-118-noida-npxid-r3116,https://www.99acres.com/ajnara-faqs-ambrosia-sector-118-noida-npxid-r3116,DDG Snippet
+ANANT BEST HOMES,UPRERAPRJ16440,"Promoter
+
+SAJID KHAN",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ANMOL RESIDENCY,UPRERAPRJ15168,"Promoter
+
+ASHOKA BUILDERS",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/anmol-residency-kharghar-navi-mumbai-npxid-r194103,https://www.99acres.com/anmol-faqs-residency-kharghar-navi-mumbai-npxid-r194103,
+ANTARA NOIDA PHASE 1,UPRERAPRJ745377,"Promoter
+
+CONTEND BUILDERS PVT.LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/eureka-park-by-tata-value-homes-sector-150-noida-npxid-r270000,https://www.99acres.com/eureka-faqs-park-by-tata-value-homes-sector-150-noida-npxid-r270000,
+ANTRIKSH GOLF CITY ( PHASE II ),UPRERAPRJ6971,"Promoter
+
+CONTEND INFRASTRUCTURE PRIVATE LIMITED ( ANTRIKSH",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ANTRIKSH GOLF CITY ( PHASE III ),UPRERAPRJ6978,"Promoter
+
+CONTEND INFRASTRUCTURE PRIVATE LIMITED ( ANTRIKSH",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ANTRIKSH GOLF CITY ( PHASE IV ),UPRERAPRJ6984,"Promoter
+
+CONTEND INFRASTRUCTURE PRIVATE LIMITED ( ANTRIKSH",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/twin-city-walk-ambesten-homes-noida-extension-noida-npxid-r401983,https://www.99acres.com/twin-faqs-city-walk-ambesten-homes-noida-extension-noida-npxid-r401983,
+ANTRIKSH GOLF CITY ( PHASE V),UPRERAPRJ6994,"Promoter
+
+CONTEND INFRASTRUCTURE PRIVATE LIMITED ( ANTRIKSH",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ANTRIKSH GOLF CITY ( PHASE-1),UPRERAPRJ6911,"Promoter
+
+CONTEND INFRASTRUCTURE PRIVATE LIMITED ( ANTRIKSH",Gautam Buddha Nagar,Residential,,,,4.94 acres,,,,,,,,,,https://www.99acres.com/aims-golf-avenue-2-sector-75-noida-npxid-r23142,https://www.99acres.com/aims-faqs-golf-avenue-2-sector-75-noida-npxid-r23142,DDG Snippet
+Antriksh Golf Link (Phase 3),UPRERAPRJ10913,"Promoter
+
+M/S ANTRIKSH ENGINEERS PRIVATE LIMITED ( ANTRIKSH",Gautam Buddha Nagar,Residential,,,,4.94 acres,,,,,,,,,,https://www.99acres.com/aims-golf-avenue-2-sector-75-noida-npxid-r23142,https://www.99acres.com/aims-faqs-golf-avenue-2-sector-75-noida-npxid-r23142,DDG Snippet
+Antriksh Golf Link Phase 2,UPRERAPRJ10510,"Promoter
+
+M/S ANTRIKSH ENGINEERS PRIVATE LIMITED ( ANTRIKSH",Gautam Buddha Nagar,Residential,,,,4.94 acres,,,,,,,,,,https://www.99acres.com/aims-golf-avenue-2-sector-75-noida-npxid-r23142,https://www.99acres.com/aims-faqs-golf-avenue-2-sector-75-noida-npxid-r23142,DDG Snippet
+ANTRIKSH GOLF LINKS (PHASE-1),UPRERAPRJ10360,"Promoter
+
+M/S ANTRIKSH ENGINEERS PRIVATE LIMITED ( ANTRIKSH",Gautam Buddha Nagar,Residential,,,,15 acres,,,,"2,3,4 BHK",,Ready to move,,,,https://www.99acres.com/antriksh-golf-links-noida-extension-noida-npxid-r27762,https://www.99acres.com/antriksh-faqs-golf-links-noida-extension-noida-npxid-r27762,DDG Snippet
+Antriksh Golf View - I (Phase - II),UPRERAPRJ10944,"Promoter
+
+ANTRIKSH DEVELOPERS & PROMOTERS PVT LTD ( ANTRIKSH",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Antriksh Golf View I,UPRERAPRJ10343,"Promoter
+
+ANTRIKSH DEVELOPERS & PROMOTERS PVT LTD ( ANTRIKSH",Gautam Buddha Nagar,Residential,,,,4.94 acres,,,,,,,,,,https://www.99acres.com/aims-golf-avenue-2-sector-75-noida-npxid-r23142,https://www.99acres.com/aims-faqs-golf-avenue-2-sector-75-noida-npxid-r23142,DDG Snippet
+Antriksh Golf View II - Phase I,UPRERAPRJ10857,"Promoter
+
+COLORFUL ESTATES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ANTRIKSH GOLF VIEW II ( PHASE II),UPRERAPRJ7097,"Promoter
+
+COLORFUL ESTATES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,2 BHK,,Ready to move,,,,https://www.99acres.com/antriksh-golf-view-sector-78-noida-npxid-r54618,https://www.99acres.com/antriksh-faqs-golf-view-sector-78-noida-npxid-r54618,DDG Snippet
+ANTRIKSH GOLF VIEW II- COMMERCIAL,UPRERAPRJ11308,"Promoter
+
+COLORFUL ESTATES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ANTRIKSH GRAND VIEW,UPRERAPRJ7509,"Promoter
+
+CONSORTIUM INFRASTRUCTURE PVT LTD (ANTRIKSH INDIA",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/eureka-park-by-tata-value-homes-reviews-ratings-sector-150-noida-npxid-r270000,https://www.99acres.com/eureka-faqs-park-by-tata-value-homes-reviews-ratings-sector-150-noida-npxid-r270000,
+ANTRIKSH GRAND VIEW (ANTRIKSH INDIA GROUP),UPRERAPRJ6048,"Promoter
+
+KAILASHPURI BULIDTECH PRIVATE LIMITED (ANTRIKSH IN",Gautam Buddha Nagar,Residential,,,,,15,22,1597,,,,,,,https://www.99acres.com/antriksh-golf-view-sector-78-noida-npxid-r54618,https://www.99acres.com/antriksh-faqs-golf-view-sector-78-noida-npxid-r54618,DDG Snippet
+ANTRIKSH KANBALL 3G & FOREST(1),UPRERAPRJ10833,"Promoter
+
+PERFECT PROPBUILD PVT LTD (ANTRIKSH GROUP)",Gautam Buddha Nagar,Residential,,,,8.89 acres,,,,2 BHK,,,,,,https://www.99acres.com/antriksh-kanball-3g-sector-77-noida-npxid-r3506,https://www.99acres.com/antriksh-faqs-kanball-3g-sector-77-noida-npxid-r3506,DDG Snippet
+ANTRIKSH VALLEY,UPRERAPRJ5929,"Promoter
+
+DILIGENT BUILDERS PVT. LTD. (ANTRIKSH GROUP)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/antriksh-kanball-3g-sector-77-noida-npxid-r3506,https://www.99acres.com/antriksh-faqs-kanball-3g-sector-77-noida-npxid-r3506,
+APEX ALPHABET (Formerly MISTY HEIGHTS),UPRERAPRJ7818,"Promoter
+
+ALPHABET HEIGHTS PVT LTD (Formerly MAPLE REALCON PVT LTD)",Gautam Buddha Nagar,Residential,,,,0.62 acres,5,,550,"3,4 BHK",,,,,,https://www.99acres.com/apex-alphabet-sector-1-greater-noida-west-greater-noida-npxid-r373410,https://www.99acres.com/apex-faqs-alphabet-sector-1-greater-noida-west-greater-noida-npxid-r373410,DDG Snippet
+APEX ATHENA,UPRERAPRJ10394,"Promoter
+
+Apex Dream Homes Private Limited",Gautam Buddha Nagar,Residential,,,,7 acres,,,,,,,,,,https://www.99acres.com/apex-athena-sector-75-noida-npxid-r15402,https://www.99acres.com/apex-faqs-athena-sector-75-noida-npxid-r15402,DDG Snippet
+Apex Court,UPRERAPRJ8960,"Promoter
+
+Apex Infraventures Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,1.73 acres,,,287,,,,,,,https://www.99acres.com/apex-park-square-sector-16-b-greater-noida-npxid-c9887,https://www.99acres.com/apex-faqs-park-square-sector-16-b-greater-noida-npxid-c9887,DDG Snippet
+APEX GOLF AVENUE,UPRERAPRJ8585,"Promoter
+
+FLORAL REALCON PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/aims-golf-avenue-2-sector-75-noida-npxid-r23142,,
+ARIHANT ABODE,UPRERAPRJ15792,"Promoter
+
+PROSPER BUILDTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"arihant arden phase 3( towers K,L,M,N)",UPRERAPRJ8415,"Promoter
+
+ARIHANT INFRRA REALTORS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ARIHANT ONE,UPRERAPRJ723911,"Promoter
+
+ARHAM ESCON PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/arihant-one-sector-1-greater-noida-west-greater-noida-npxid-r399106,https://www.99acres.com/arihant-faqs-one-sector-1-greater-noida-west-greater-noida-npxid-r399106,
+ARIHANT SEASONS,UPRERAPRJ974543/02/2026,"Promoter
+
+Arihant Urban Space Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ashtech Presidential Towers,UPRERAPRJ746615/10/2025,"Promoter
+
+Ashtech Industries Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ashtech-presidential-towers-sector-12-greater-noida-west-greater-noida-npxid-r443521,https://www.99acres.com/ashtech-faqs-presidential-towers-sector-12-greater-noida-west-greater-noida-npxid-r443521,
+Assotech Celeste Towers,UPRERAPRJ6098,"Promoter
+
+ASSOTECHLIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Assotech Windsor Court Phase-I & II,UPRERAPRJ6078,"Promoter
+
+ASSOTECHLIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ATS DESTINAIRE,UPRERAPRJ417134,"Promoter
+
+ATS Grand Realtors Private Limited
+STARCITY BUILDCON PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ATS DOLCE,UPRERAPRJ3774,"Promoter
+
+Domus Greens Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ats-dolce-reviews-ratings-sector-zeta-1-greater-noida-npxid-r20086,https://www.99acres.com/ats-faqs-dolce-reviews-ratings-sector-zeta-1-greater-noida-npxid-r20086,
+ATS Kingston Heath,UPRERAPRJ180413,"Promoter
+
+CELERITY INFRASTRUCTURE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ATS Knightsbridge,UPRERAPRJ3574,"Promoter
+
+ATS HEIGHTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ATS LE GRANDIOSE PHASE-2,UPRERAPRJ14316,"Promoter
+
+Nobility Estates Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ats-le-grandiose-sector-150-noida-npxid-r173041,https://www.99acres.com/ats-faqs-le-grandiose-sector-150-noida-npxid-r173041,
+ATS LE GRANDIOSE -PHASE-I,UPRERAPRJ3250,"Promoter
+
+Nobility Estates Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ATS Picturesque Reprieves Phase 2,UPRERAPRJ396176,"Promoter
+
+ATS HOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ats-picturesque-reprieves-facilities-sector-152-noida-npxid-r269397,https://www.99acres.com/ats-faqs-picturesque-reprieves-facilities-sector-152-noida-npxid-r269397,
+ATS Picturesque Reprieves Phase 1,UPRERAPRJ631,"Promoter
+
+ATS HOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ats-picturesque-reprieves-sector-152-noida-npxid-r269397,https://www.99acres.com/ats-faqs-picturesque-reprieves-sector-152-noida-npxid-r269397,
+ATS PRISTINE GOLF VILLAS ( Phase -1 ),UPRERAPRJ3796,"Promoter
+
+CELERITY INFRASTRUCTURE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+ATS PRISTINE-PHASE-II,UPRERAPRJ2875,"Promoter
+
+ATS Housing Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AVS ORCHARD,UPRERAPRJ7336,"Promoter
+
+AVP BUILDTECH (P) LTD.",Gautam Buddha Nagar,Residential,,,,,,,,"2,3 BHK",,Ready to move,,,,https://www.99acres.com/avs-orchard-sector-77-noida-npxid-r35394,https://www.99acres.com/avs-faqs-orchard-sector-77-noida-npxid-r35394,DDG Snippet
+AVS ORCHID (H Tower),UPRERAPRJ11260,"Promoter
+
+PERFECT PROPBUILD PVT LTD (ANTRIKSH GROUP)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+AWHO GURJINDER VIHAR PHASE-IV,UPRERAPRJ4197,"Promoter
+
+ARMY WELFARE HOUSING ORGANISATION",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"aypee Greens Pavilion Courts & Heights (Phase II),",UPRERAPRJ3914,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Bally Hai,UPRERAPRJ6312,"Promoter
+
+SEIKOM INFRACOM PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BEETLE LAP (PHASE I),UPRERAPRJ6938,"Promoter
+
+ROYAL HOMETOWN PLANNERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BEETLE LAP (PHASE II),UPRERAPRJ7022,"Promoter
+
+ROYAL HOMETOWN PLANNERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,2 BHK,,Ready to move,,,,https://www.99acres.com/royal-hometown-beetle-lap-yamuna-expressway-greater-noida-npxid-r32210,https://www.99acres.com/royal-faqs-hometown-beetle-lap-yamuna-expressway-greater-noida-npxid-r32210,DDG Snippet
+"BEETLE ORCHID
+- This project has been completed.",UPRERAPRJ14205,"Promoter
+
+Yuvraj Infra Venture Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BELVEDERE (Phase - 2: Tower E F & G),UPRERAPRJ4480,"Promoter
+
+Sequel Buildcon Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BELVEDERE (Phase-1: Tower A B C & D),UPRERAPRJ4397,"Promoter
+
+Sequel Buildcon Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BHS-12/13 ETA-II GH-1A/1,UPRERAPRJ9728,"Promoter
+
+GREATER NOIDA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BHS-14 EWS XU-3,UPRERAPRJ10006,"Promoter
+
+GREATER NOIDA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BHS-16 MU-II,UPRERAPRJ9651,"Promoter
+
+GREATER NOIDA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BHS-16 SECTOR-10,UPRERAPRJ9684,"Promoter
+
+GREATER NOIDA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BHS-17 LOHIYA ENCLAVE OMICRON-1A,UPRERAPRJ9632,"Promoter
+
+GREATER NOIDA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BHS-17 LOHIYA ENCLAVE SECTOR-12,UPRERAPRJ9565,"Promoter
+
+GREATER NOIDA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"BHS-17, LOHIYA ENCLAVE, PLOT NO-GH-03A, OMICRON-1",UPRERAPRJ8764,"Promoter
+
+GREATER NOIDA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+Bhutani 18,UPRERAPRJ335396/01/2026,"Promoter
+
+Goodliving Infrastructure Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BLESSINGS,UPRERAPRJ8301,"Promoter
+
+GEOTECH PROMOTERS PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"BLOSSOM COUNTY ( PHASE-4 TOWER -L,M,A & C)",UPRERAPRJ4466,"Promoter
+
+LOGIX INFRASTRUCTURE PVT.LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"BLOSSOM COUNTY(PHASE-3TOWER-J1, K ,N & CLUB )",UPRERAPRJ4411,"Promoter
+
+LOGIX INFRASTRUCTURE PVT.LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"BLOSSOM GREENS ( PHASE- 4 TOWERS - E , F & G)",UPRERAPRJ4243,"Promoter
+
+LOGIX INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"BLOSSOM GREENS ( PHASE- 5 TOWERS - B , C & D )",UPRERAPRJ4264,"Promoter
+
+LOGIX INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"BLOSSOM GREENS (PHASE-2 TOWER- H, I &J)",UPRERAPRJ4186,"Promoter
+
+LOGIX INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"BLOSSOM GREENS (PHASE-3 TOWER A , K & CLUB HOUSE)",UPRERAPRJ4218,"Promoter
+
+LOGIX INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,2 BHK,,,,,,https://www.99acres.com/logix-blossom-greens-sector-143-noida-npxid-r921,https://www.99acres.com/logix-faqs-blossom-greens-sector-143-noida-npxid-r921,DDG Snippet
+"BLOSSOM GREENS(PHASE-6 TOWER -U,V,W & SHOP)",UPRERAPRJ4766,"Promoter
+
+LOGIX INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,25 acres,,,,2 BHK,,,,,,https://www.99acres.com/logix-blossom-greens-sector-143-noida-npxid-r921,https://www.99acres.com/logix-faqs-blossom-greens-sector-143-noida-npxid-r921,DDG Snippet
+"BLOSSOM ZEST (PHASE -1 TOWER- A ,B,C,& SAT-1 &2 )",UPRERAPRJ5597,"Promoter
+
+LOGIX CITY DEVELOPERS PVT.LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"BLOSSOM ZEST (PHASE 2 TOWER- D,E,F & CLUB)",UPRERAPRJ4834,"Promoter
+
+LOGIX CITY DEVELOPERS PVT.LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"BLOSSOM ZEST(PHASE -3 TOWER- SAT- 3,4,&7)",UPRERAPRJ4870,"Promoter
+
+LOGIX CITY DEVELOPERS PVT.LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"BLOSSOM ZEST(PHASE- 4,TOWER- SAT-8,9 &10)",UPRERAPRJ4903,"Promoter
+
+LOGIX CITY DEVELOPERS PVT.LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BUILTUPS ZONE I,UPRERAPRJ5771,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BUILTUPS ZONE II,UPRERAPRJ5838,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+BULLAND CALISTO,UPRERAPRJ5548,"Promoter
+
+BULLAND REALTORS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+BULLAND CALISTO PHASE-II,UPRERAPRJ16402,"Promoter
+
+BULLAND REALTORS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+BULLAND CALISTO PHASE-III,UPRERAPRJ16437,"Promoter
+
+BULLAND REALTORS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+BULLAND ELEVATES,UPRERAPRJ4967,"Promoter
+
+BULLAND BUILDTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+Capital Athena (Phase-1),UPRERAPRJ6310,"Promoter
+
+CAPITAL INFRATECHOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+CAPITAL ATHENA (Phase-2),UPRERAPRJ6377,"Promoter
+
+CAPITAL INFRATECHOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+CASA GRANDE,UPRERAPRJ10265,"Promoter
+
+EARTHCON CONSTRUCTIONS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/casagrand-vogue-arasankalani-chennai-south-npxid-r35116,https://www.99acres.com/casagrand-faqs-vogue-arasankalani-chennai-south-npxid-r35116,
+CASA GRANDE-2,UPRERAPRJ4491,"Promoter
+
+EARTHCON CONSTRUCTIONS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+CASA GRANDE2-TOWERA1,UPRERAPRJ391718/03/2026,"Promoter
+
+EARTHCON CONSTRUCTIONS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+CASA GREENS1,UPRERAPRJ3708,"Promoter
+
+RADHEY KRISHNA TECHNO BUILD PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+CASA ROYALE & SANSKRITI,UPRERAPRJ4689,"Promoter
+
+EARTHCON UNIVERSAL INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+CASA WOODSTOCK,UPRERAPRJ2855,"Promoter
+
+ANGELS INFRAHEIGHT PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,Ready to move,,,,https://www.99acres.com/casa-woodstock-sector-16c-greater-noida-npxid-r5960,https://www.99acres.com/casa-faqs-woodstock-sector-16c-greater-noida-npxid-r5960,DDG Snippet
+CIRCUIT HEIGHTS,UPRERAPRJ13904,"Promoter
+
+MSA DEVELOPERS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,Under Construction,,,,https://www.99acres.com/circuit-heights-yamuna-expressway-greater-noida-npxid-r24334,https://www.99acres.com/circuit-faqs-heights-yamuna-expressway-greater-noida-npxid-r24334,DDG Snippet
+Civitech Strings,UPRERAPRJ646272,"Promoter
+
+SA.G.Realtech Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,Under Construction,,,,https://www.99acres.com/civitech-strings-sector-12-greater-noida-west-greater-noida-npxid-r373839,https://www.99acres.com/civitech-faqs-strings-sector-12-greater-noida-west-greater-noida-npxid-r373839,DDG Snippet
+"Cleo County ,Phase -2,(Comprising towers A-3,A-4,A",UPRERAPRJ2369,"Promoter
+
+IV COUNTY PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Cleo County ,Phase -3,(Comprising towers E1,E2,E3,",UPRERAPRJ2437,"Promoter
+
+IV COUNTY PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Cleo County, Ph 1 ( comprising of tower D1 D2 C1 C",UPRERAPRJ5931,"Promoter
+
+IV County Pvt Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Clove County,UPRERAPRJ696539/11/2025,"Promoter
+
+Shirja Real Estate Solutions Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Coco County,UPRERAPRJ958386,"Promoter
+
+Shirja Real Estate Solutions Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+County One O Seven,UPRERAPRJ837374,"Promoter
+
+Countyconcept Developers LLP
+ACE INRACITY DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+CRC Joyous,UPRERAPRJ613747,"Promoter
+
+CRC Homes Private Limited
+HABITECH INFRASTRUCTURE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+CRC MAESTA,UPRERAPRJ724518/07/2024,"Promoter
+
+CRC Homes Private Limited
+COMELY BUILDTECH INDIA PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+CRC SUBLIMIS,UPRERAPRJ15180,"Promoter
+
+Enticement Infrastructure Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Crossroad,UPRERAPRJ10126,"Promoter
+
+anil gupta",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Curio City,UPRERAPRJ14041,"Promoter
+
+ORRIS INFRASTRUCTURE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+DAFFODIL TOWER L (ELEMENTS & CONVINIENT SHOPS),UPRERAPRJ11424,"Promoter
+
+MPG REALTY PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+DEVIKA GOLD HOMZ,UPRERAPRJ5398,"Promoter
+
+DEVIKA GOLD HOMZ PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Divyansh Flora,UPRERAPRJ3601,"Promoter
+
+Divyansh Infraheight Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Divyansh Flora,UPRERAPRJ8174,"Promoter
+
+Divyansh Infraheight Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+DIVYANSH GREEN HEIGHTS,UPRERAPRJ120773/08/2025,"Promoter
+
+PRASU DIVYANSH INFRAHEIGHT LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Dream Homes-2,UPRERAPRJ13810,"Promoter
+
+MAAN PROPERTIES AND DEVELOPERS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+DURVA GREENS,UPRERAPRJ1440,"Promoter
+
+KAMRUP HOUSING PROJECT PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,Ready to move,,,,https://www.99acres.com/kamrup-durva-greens-sector-chi-5-greater-noida-npxid-r8286,https://www.99acres.com/kamrup-faqs-durva-greens-sector-chi-5-greater-noida-npxid-r8286,DDG Snippet
+Earth Gracia,UPRERAPRJ9893,"Promoter
+
+EARTH GRACIA BUILDCON PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,Under Construction,,,,https://www.99acres.com/earth-gracia-sector-1-greater-noida-west-greater-noida-npxid-r6868,https://www.99acres.com/earth-faqs-gracia-sector-1-greater-noida-west-greater-noida-npxid-r6868,DDG Snippet
+Earth Towne,UPRERAPRJ10012,"Promoter
+
+EARTH INFRASTRUCTURES LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ECO VILLAGE-II (PHASE-I),UPRERAPRJ4112,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+EKANAM,UPRERAPRJ510056/09/2025,"Promoter
+
+GreatValue Projects India Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Eldeco 7 Peaks Residences,UPRERAPRJ106523/01/2026,"Promoter
+
+Eldeco Homes Developers Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"ELDECO AAMANTRAN(INSPIRE & EDGE
+- This project has been completed.",UPRERAPRJ1916,"Promoter
+
+Eldeco Infrastructure and Properties Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Eldeco Ballads of Bliss,UPRERAPRJ921261/05/2025,"Promoter
+
+Eldeco Goodliving Properties Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ELDECO ECHOES OF EDEN,UPRERAPRJ125342/02/2026,"Promoter
+
+Eldeco Sohna Projects Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Eldeco La Vida Bella,UPRERAPRJ136219/04/2024,"Promoter
+
+Eldeco Real Estate Limited",Gautam Buddha Nagar,Residential,,,,,,,,"2,3,4 BHK",,,,,,https://www.99acres.com/eldeco-la-vida-bella-sector-12-greater-noida-west-greater-noida-npxid-r415650,https://www.99acres.com/eldeco-faqs-la-vida-bella-sector-12-greater-noida-west-greater-noida-npxid-r415650,DDG Snippet
+ELDECO LIVE BY THE GREENS (PHASE I),UPRERAPRJ15172,"Promoter
+
+Wondrous Buildmart Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Eldeco Live By The Greens Phase -III,UPRERAPRJ575706,"Promoter
+
+Wondrous Buildmart Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Eldeco Live By the Greens Phase-II,UPRERAPRJ121123,"Promoter
+
+Wondrous Buildmart Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/eldeco-live-by-the-greens-sector-150-noida-npxid-r300125,https://www.99acres.com/eldeco-faqs-live-by-the-greens-sector-150-noida-npxid-r300125,
+Eldeco Whispers of Wonder,UPRERAPRJ752382/09/2025,"Promoter
+
+Eldeco Sohna Projects Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ELEGANT SPLENDOUR PHASE-1,UPRERAPRJ10243,"Promoter
+
+ELEGANT INFRACON PVT LTD
+FLORAL REALTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ELEGANT SPLENDOUR PHASE-3,UPRERAPRJ10279,"Promoter
+
+ELEGANT INFRACON PVT LTD
+FLORAL REALTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ELEGANT VILLE PHASE-1,UPRERAPRJ10120,"Promoter
+
+ELEGANT INFRACON PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ELEGANT VILLE PHASE-3,UPRERAPRJ10224,"Promoter
+
+ELEGANT INFRACON PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ELEGANT VILLE PHASE-4,UPRERAPRJ10234,"Promoter
+
+ELEGANT INFRACON PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ELITE GOLF GREENS,UPRERAPRJ4654,"Promoter
+
+GOLFGREEN MANSIONS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Elite X,UPRERAPRJ916631/02/2024,"Promoter
+
+GOLFGREEN MANSIONS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Emerald Court Phase II (Apex & Ceyane)
+- Demolished as per the order of Hon'ble Superme Court",UPRERAPRJ11486,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+EMINENCE - PHASE 1,UPRERAPRJ11733,"Promoter
+
+ABET BUILDCON PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Eminence Phase-2,UPRERAPRJ828955,"Promoter
+
+ELICIT REALTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Eros Sampoornam 2,UPRERAPRJ301564,"Promoter
+
+AJAY ENTERPRISES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Eros Sampoornam 3,UPRERAPRJ512436/07/2024,"Promoter
+
+AJAY ENTERPRISES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+EROS SAMPOORNAM I,UPRERAPRJ972907,"Promoter
+
+AJAY ENTERPRISES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/eros-sampoornam-sector-2-greater-noida-npxid-r5452,https://www.99acres.com/eros-faqs-sampoornam-sector-2-greater-noida-npxid-r5452,
+Estate 128,UPRERAPRJ446459,"Promoter
+
+Max Estates 128 Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,Under Construction,,,,https://www.99acres.com/max-estates-128-sector-128-noida-npxid-r410958,https://www.99acres.com/max-faqs-estates-128-sector-128-noida-npxid-r410958,DDG Snippet
+Estate 128 - II,UPRERAPRJ294911/12/2024,"Promoter
+
+Max Estates 128 Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,Under Construction,,,,https://www.99acres.com/max-estates-128-sector-128-noida-npxid-r410958,https://www.99acres.com/max-faqs-estates-128-sector-128-noida-npxid-r410958,DDG Snippet
+Eureka Park - Phase 2,UPRERAPRJ469983,"Promoter
+
+Land Kart Builders Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/eureka-park-by-tata-value-homes-floor-plan-sector-150-noida-npxid-r270000,https://www.99acres.com/eureka-faqs-park-by-tata-value-homes-floor-plan-sector-150-noida-npxid-r270000,
+EUREKA PARK-PHASE 1,UPRERAPRJ5448,"Promoter
+
+Land Kart Builders Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+EWS AASRA ZONE I (E01- E16),UPRERAPRJ5563,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ansal-aasra-avom-bharosa-chamrawali-bodaki-greater-noida-npxid-r224205,https://www.99acres.com/ansal-faqs-aasra-avom-bharosa-chamrawali-bodaki-greater-noida-npxid-r224205,
+EWS Aasra ZONE II (E17-E32),UPRERAPRJ5561,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+EWS AASRA ZONE III (E33- E80),UPRERAPRJ5606,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Exotica Dreamville Phase-III (Tower T-1 & T-2),UPRERAPRJ9577,"Promoter
+
+Exotica Housing & Infrastructure Projects Pvt Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Exotica Dreamville Phase-IV (Tower T-14 &T-15),UPRERAPRJ5545,"Promoter
+
+Exotica Housing & Infrastructure Projects Pvt Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Experion Elements Phase-1,UPRERAPRJ120027/04/2024,"Promoter
+
+Experion Developers Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Experion Elements Phase-2,UPRERAPRJ953234/04/2024,"Promoter
+
+Experion Developers Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Experion SAATORI,UPRERAPRJ747628/01/2026,"Promoter
+
+Experion Developers Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Express Astra (Phase-1),UPRERAPRJ479698,"Promoter
+
+Express Projects Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Express Astra (Phase-II),UPRERAPRJ229234,"Promoter
+
+Express Projects Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Express Zenith (Phase 2, Tower B and C)",UPRERAPRJ3393,"Promoter
+
+Express Builders & Promoters Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+EXPRESS ZENITH (TOWER A),UPRERAPRJ980703/04/2024,"Promoter
+
+Express Builders & Promoters Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+F PREMIERE (PHASE 1),UPRERAPRJ7115,"Promoter
+
+HOME AND SOUL INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+F PREMIERE (PHASE 2),UPRERAPRJ7173,"Promoter
+
+HOME AND SOUL INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+F PREMIERE (PHASE 3),UPRERAPRJ7195,"Promoter
+
+HOME AND SOUL INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+FAIRWAY ZONE-1,UPRERAPRJ3983,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+FAIRWAY ZONE-2 (Tower F & K),UPRERAPRJ4526,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+FAIRWAY ZONE-3 (Tower E & L),UPRERAPRJ4814,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"FAIRWAY ZONE-4 (Tower A, G, H, J & I)",UPRERAPRJ4863,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+FAIRWAY ZONE-5 (TOWER C&D),UPRERAPRJ5677,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+FLORA HERITAGE,UPRERAPRJ13277,"Promoter
+
+SOLARIS REALTECH PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"FORESTE, PHASE-I (COMPRISING TOWERS T1, T2, T3,T8,",UPRERAPRJ3680,"Promoter
+
+AURA BUILDWELL PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"FORESTE, PHASE-II (COMPRISING TOWERS T4, T5,T9)",UPRERAPRJ3777,"Promoter
+
+AURA BUILDWELL PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+FRENCH APARTMENTS,UPRERAPRJ2744,"Promoter
+
+ANTHEM INFRASTRUCTURE PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,"2,3 BHK",,,,,,https://www.99acres.com/anthem-french-apartments-sector-16-b-greater-noida-npxid-r7450,https://www.99acres.com/anthem-faqs-french-apartments-sector-16-b-greater-noida-npxid-r7450,DDG Snippet
+Fusion Homes,UPRERAPRJ3302,"Promoter
+
+Fusion Buildtech Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Future estate (Phase-fe-1),UPRERAPRJ7361,"Promoter
+
+FUTUREWORLD GREENHOMES PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Future Estate (Phase -fe-4),UPRERAPRJ7399,"Promoter
+
+FUTUREWORLD GREENHOMES PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Future Estate (Phase-fe-3),UPRERAPRJ7386,"Promoter
+
+FUTUREWORLD GREENHOMES PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Future Estate(Phase-Fe-2),UPRERAPRJ7369,"Promoter
+
+FUTUREWORLD GREENHOMES PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"G.H. Scheme (Omaxe Riyaasat) on Plot No. GH-I,II,",UPRERAPRJ6157,"Promoter
+
+Omaxe Buildhome Private Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+Galaxy North Avenue (Tower G),UPRERAPRJ5458,"Promoter
+
+Galaxy International Realtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Galaxy North Avenue II - Towers A,B & D",UPRERAPRJ4506,"Promoter
+
+Galaxy Dream Home Developers pvt ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GALAXY ROYALE Ph1 Towers A Keshav/B Gokul/CSC,UPRERAPRJ5806,"Promoter
+
+PRITHVEELINK BUILDWELL PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"GALAXY ROYALE ,Phase-2(Tower C Vrindavan,Club)",UPRERAPRJ5836,"Promoter
+
+PRITHVEELINK BUILDWELL PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Galaxy Vega - Tower F&G and CSC Green Arcade,UPRERAPRJ4890,"Promoter
+
+PANCH TATVA PROMOTERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Gardenia Gateway,UPRERAPRJ7346,"Promoter
+
+FUTEC SHELTERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Gardenia Gateway (Phase-I),UPRERAPRJ11023,"Promoter
+
+GARDENIA INDIA LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Gardenia Gateway (Phase-II),UPRERAPRJ11037,"Promoter
+
+GARDENIA INDIA LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Gaur Atulyam,UPRERAPRJ6838,"Promoter
+
+UP Township Infrastructure Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GAUR CHRYSALIS (PHASE 1),UPRERAPRJ622344/11/2025,"Promoter
+
+Gaursons Promoters Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Gaur Mulberry Mansions - FH-02,UPRERAPRJ7057,"Promoter
+
+Gaursons India Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Gaur Mulberry Mansions - FH-03,UPRERAPRJ4897,"Promoter
+
+Gaursons Hi-Tech Infrastructure Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Gaur Saundaryam (Phase-2),UPRERAPRJ6335,"Promoter
+
+Gaursons Realty Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Gaur Sportswood,UPRERAPRJ3528,"Promoter
+
+Gaursons Sportswood Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GAYATRI AURA,UPRERAPRJ7084,"Promoter
+
+GAYATRI HOSPITALITY AND REAL CON LIMITED
+FLORAL HOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GAYATRI LIFE,UPRERAPRJ7360,"Promoter
+
+GAYATRI INFRA PLANNER PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"GH-06, SEC-22A, YEIDA, PHASE 1 (YAMUNOTRI)",UPRERAPRJ9384,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"GH06, Sec-22D, YEIDA",UPRERAPRJ8947,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GH-07/75 GOLF CITY,UPRERAPRJ7234,"Promoter
+
+Aims Max Gardenia Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GH-08/75 (PHASE-1) GOLF CITY,UPRERAPRJ11463,"Promoter
+
+Aims Max Gardenia Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GH-08/75 (PHASE-2) GOLF CITY,UPRERAPRJ11479,"Promoter
+
+Aims Max Gardenia Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GH-08/75 (PHASE-3) GOLF CITY,UPRERAPRJ11481,"Promoter
+
+Aims Max Gardenia Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GH-11/75 (PHASE-1) GOLF CITY,UPRERAPRJ11485,"Promoter
+
+Aims Max Gardenia Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GH-11/75 (PHASE-2) GOLF CITY,UPRERAPRJ11547,"Promoter
+
+Aims Max Gardenia Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GH-11/75 (PHASE-3) GOLF CITY,UPRERAPRJ11557,"Promoter
+
+Aims Max Gardenia Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GH-11/75 (PHASE-4) GOLF CITY,UPRERAPRJ11563,"Promoter
+
+Aims Max Gardenia Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GLORY 46 (PHASE-1),UPRERAPRJ11573,"Promoter
+
+Gardenia Aims Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GLORY 46 (PHASE-2),UPRERAPRJ11594,"Promoter
+
+Gardenia Aims Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GLORY 46 (PHASE-3),UPRERAPRJ11598,"Promoter
+
+Gardenia Aims Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GLORY 46 (PHASE-4),UPRERAPRJ11608,"Promoter
+
+Gardenia Aims Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GLORY 46 (PHASE-5),UPRERAPRJ11614,"Promoter
+
+Gardenia Aims Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GLORY 46 (PHASE-6),UPRERAPRJ11626,"Promoter
+
+Gardenia Aims Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GLORY 46 (PHASE-7),UPRERAPRJ11633,"Promoter
+
+Gardenia Aims Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Glory Apartments,UPRERAPRJ6586,"Promoter
+
+Unibera Hospitality Services Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Godrej Arden,UPRERAPRJ110163/08/2025,"Promoter
+
+Godrej Properties Limited",Gautam Buddha Nagar,Residential,,,,9.58 acres,9,,956,4 BHK,,,,,,https://www.99acres.com/godrej-arden-faqs-sigma-3-greater-noida-npxid-r441943,https://www.99acres.com/godrej-faqs-arden-faqs-sigma-3-greater-noida-npxid-r441943,DDG Snippet
+GODREJ NEST PHASE-1,UPRERAPRJ13521,"Promoter
+
+BRICK RISE DEVELOPERS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GODREJ NEST PHASE-2,UPRERAPRJ14252,"Promoter
+
+BRICK RISE DEVELOPERS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Godrej Nurture Phase-1,UPRERAPRJ17861,"Promoter
+
+BRICK RISE DEVELOPERS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Godrej Palm Retreat 1,UPRERAPRJ745601,"Promoter
+
+ACE INFRACITY DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,1 BHK,,Under Construction,,,,https://www.99acres.com/godrej-palm-retreat-sector-150-noida-npxid-r333137,https://www.99acres.com/godrej-faqs-palm-retreat-sector-150-noida-npxid-r333137,DDG Snippet
+Godrej Palm Retreat 2,UPRERAPRJ124632,"Promoter
+
+ACE INFRACITY DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Godrej Woods Phase-1
+- This project has been completed.",UPRERAPRJ704730,"Promoter
+
+Roseberry Estate LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Godrej Woods Phase-3,UPRERAPRJ773536,"Promoter
+
+Roseberry Estate LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Golf Avenue II (Phase II),UPRERAPRJ10635,"Promoter
+
+AIMS RG ANGEL PROMOTERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Golf country Phase-P2,UPRERAPRJ403642,"Promoter
+
+SUPERTECH TOWNSHIP PROJECT LIMITED",Gautam Buddha Nagar,Residential,,,,100 acres,,,,2 BHK,,Ready to move,,,,https://www.99acres.com/supertech-golf-country-yamuna-expressway-greater-noida-npxid-r8874,https://www.99acres.com/supertech-faqs-golf-country-yamuna-expressway-greater-noida-npxid-r8874,DDG Snippet
+GOLF GREEN AVENUE,UPRERAPRJ9984,"Promoter
+
+Krishan Chand Bansal",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GRANDPRIX APARTMENTS,UPRERAPRJ12358,"Promoter
+
+S.K. CONTRACTS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Great Value Sharanam,UPRERAPRJ9966,"Promoter
+
+GreatValue Projects India Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Greatvalue Anandam,UPRERAPRJ874478,"Promoter
+
+GreatValue Projects India Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Green Avenue,UPRERAPRJ3606,"Promoter
+
+J.B.K. DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Green Reserve Tower 1 and 2,UPRERAPRJ459796/09/2025,"Promoter
+
+Larsen & Toubro Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Green Reserve Tower 3 and 4,UPRERAPRJ794300/09/2025,"Promoter
+
+Larsen & Toubro Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GREEN RESIDENCY,UPRERAPRJ17009,"Promoter
+
+deepak gupta",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Green View- II Sahakari Awas Samiti Limited,UPRERAPRJ9720,"Promoter
+
+Green View-II Sahakari Awas Samiti Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Greenarch Phase-1,UPRERAPRJ7198,"Promoter
+
+NEW WAY HOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/saviour-greenarch-floor-plan-techzone-4-greater-noida-west-greater-noida-npxid-r23256,https://www.99acres.com/saviour-faqs-greenarch-floor-plan-techzone-4-greater-noida-west-greater-noida-npxid-r23256,
+Greenarch Phase-2,UPRERAPRJ7289,"Promoter
+
+NEW WAY HOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Greenarch Phase-3,UPRERAPRJ7342,"Promoter
+
+NEW WAY HOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,"2,3 BHK",,,,,,https://www.99acres.com/saviour-greenarch-techzone-4-greater-noida-west-greater-noida-npxid-r23256,https://www.99acres.com/saviour-faqs-greenarch-techzone-4-greater-noida-west-greater-noida-npxid-r23256,DDG Snippet
+Greenbay Golf Village,UPRERAPRJ9320,"Promoter
+
+Green Bay Infrastructure Private Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+GROUP HOUSING CGEWHO PHASE I,UPRERAPRJ1005,"Promoter
+
+CENTRAL GOVERNMENT EMPLOYEES WELFARE HOUSING ORGAN",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GROUP HOUSING CGEWHO PHASE II,UPRERAPRJ674438/02/2024,"Promoter
+
+CENTRAL GOVERNMENT EMPLOYEES WELFARE HOUSING ORGAN",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GULSHAN AVANTE,UPRERAPRJ860880,"Promoter
+
+Gulshan Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GULSHAN BELLINA,UPRERAPRJ6332,"Promoter
+
+GULSHAN HOMZ PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,7.01 acres,13,,1167,2 BHK,,Ready to move,,,,https://www.99acres.com/gulshan-bellina-sector-16-greater-noida-npxid-r5012,https://www.99acres.com/gulshan-faqs-bellina-sector-16-greater-noida-npxid-r5012,DDG Snippet
+Gulshan Botnia,UPRERAPRJ5857,"Promoter
+
+GULSHAN HOMES AND INFRASTRUCTURE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+GULSHAN DYNASTY,UPRERAPRJ950870,"Promoter
+
+GULSHAN HOMZ PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"GULSHAN IKEBANA -TOWERS L,M,N,O,P & Q",UPRERAPRJ8806,"Promoter
+
+GULSHAN HOMES AND INFRASTRUCTURE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+HAPPY TRAILS,UPRERAPRJ15574,"Promoter
+
+SHRIDHARA INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"HAWELIA VALENCIA HOMES PHASE-I (TOWER D, E, F, G,",UPRERAPRJ9299,"Promoter
+
+Valencia Homes (Hawelia Group)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+HAWELIA VALENCIA HOMES PHASE-II (TOWER-C & COMMERC,UPRERAPRJ8973,"Promoter
+
+Valencia Homes (Hawelia Group)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+HAWELIA VALENOVA PARK,UPRERAPRJ8479,"Promoter
+
+Hawelia Builders Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+HBA TECHZONE RESIDENCY,UPRERAPRJ9750,"Promoter
+
+HBA INFRASTRUCTURE PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Heritage Skyward,UPRERAPRJ848586,"Promoter
+
+VRINDA HOMES PRIVATE LIMITED
+RAJ HANS INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+HERITAGE TOWER K (Clock Tower & Central Plazza),UPRERAPRJ5655,"Promoter
+
+AJNARA INDIA LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Hi Castle,UPRERAPRJ17726,"Promoter
+
+HI CASTLE REALTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Hillston By URBTech- Phase 1-Tower E&F,UPRERAPRJ6819,"Promoter
+
+GOLFGREEN BUILDCON PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Hilston by URBTECH - TOWER G,UPRERAPRJ11498,"Promoter
+
+GOLFGREEN BUILDCON PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+HIMALAYA PRIDE (PHASE 1 : TOWER A & B),UPRERAPRJ8836,"Promoter
+
+Himalaya Realestate Pvt Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+HIMALAYA PRIDE (PHASE 2 : TOWER C),UPRERAPRJ8888,"Promoter
+
+Himalaya Realestate Pvt Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+HIMALAYA PRIDE (PHASE 3 : TOWER D),UPRERAPRJ8898,"Promoter
+
+Himalaya Realestate Pvt Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/himalaya-pride-techzone-4-greater-noida-west-greater-noida-npxid-r50058,https://www.99acres.com/himalaya-faqs-pride-techzone-4-greater-noida-west-greater-noida-npxid-r50058,
+I N@XT,UPRERAPRJ14516,"Promoter
+
+CEREBRUM BUSINESS PARK PVT. LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"IITL NIMBUS THE EXPRESS PARK VIEW (TOWER I1, J1, K1)",UPRERAPRJ10246,"Promoter
+
+IITL-NIMBUS THE EXPRESS PARK VIEW",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"IITL NIMBUS THE EXPRESS PARK VIEW (TOWER L,L1,M,M1",UPRERAPRJ10096,"Promoter
+
+IITL-NIMBUS THE EXPRESS PARK VIEW",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"IITL-NIMBUS THE EXPRESS PARK VIEW (TOWER I,J & K)",UPRERAPRJ9947,"Promoter
+
+IITL-NIMBUS THE EXPRESS PARK VIEW",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"IITL-NIMBUS THE HYDE PARK (TOWER S,T,U)",UPRERAPRJ9689,"Promoter
+
+IITL-NIMBUS THE HYDE PARK,NOIDA",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+IITL-NIMBUS THE HYDE PARK NOIDA (COMMERCIAL -HYDE,UPRERAPRJ10533,"Promoter
+
+IITL-NIMBUS THE HYDE PARK,NOIDA",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"IITL-NIMBUS THE HYDE PARK, NOIDA (TOWER Y,Q,R)",UPRERAPRJ9214,"Promoter
+
+IITL-NIMBUS THE HYDE PARK,NOIDA",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Imperial Heights (Phase 1),UPRERAPRJ504323,"Promoter
+
+RAMPRASTHA URBAN DEVELOPMENT PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"INDIVIDUAL RESIDENTIAL PLOTS, SEC-17,YEIDA",UPRERAPRJ9318,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+INDOSAM75,UPRERAPRJ10087,"Promoter
+
+Indosam Infra Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+INTELLICITY @Phase 4 (Occi & Cerebrum),UPRERAPRJ11522,"Promoter
+
+Intellicity Business Park Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+INTELLICITY @PHASE-3 Spine (Tower-A & B),UPRERAPRJ11493,"Promoter
+
+Intellicity Business Park Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Intellicity@Phase-1,UPRERAPRJ11448,"Promoter
+
+Intellicity Business Park Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+IRIDIA,UPRERAPRJ6473,"Promoter
+
+Horizon Buildcon Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+IRISH PEARLS,UPRERAPRJ494753,"Promoter
+
+IRISH INFRASTRUCTURE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Irish Platinum,UPRERAPRJ503189/03/2024,"Promoter
+
+Irish Buildcon Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ivory County Phase-1,UPRERAPRJ256314,"Promoter
+
+Themecounty Private Limited
+AMBIENCE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ivory County Phase-2,UPRERAPRJ115902,"Promoter
+
+Themecounty Private Limited
+AMBIENCE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Ivory County Phase-3,UPRERAPRJ507062,"Promoter
+
+Themecounty Private Limited
+AMBIENCE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+IVY County,UPRERAPRJ757529,"Promoter
+
+Perfect Megastructure Pvt Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Jade County Phase-1,UPRERAPRJ267958/06/2025,"Promoter
+
+Themecounty Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Jade County Phase-2,UPRERAPRJ639770/06/2025,"Promoter
+
+Themecounty Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+JAIN X CYBER CITY RESIDENTIAL,UPRERAPRJ479060/09/2025,"Promoter
+
+POOJA INFOTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+JANHIT AWAS YOJNA-AFFORDAVAL HOMES,UPRERAPRJ6753,"Promoter
+
+AARADHYAM DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Aman -III, Mirzapur",UPRERAPRJ4895,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Aman, Noida",UPRERAPRJ3824,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Boomerang Residences, Noida",UPRERAPRJ3872,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Bougainvilleas, SDZ, YEW",UPRERAPRJ5436,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Buddh Circuit Studios - I, SDZ, YEW",UPRERAPRJ4818,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Buddh Circuit Studios - II, Mirzapur",UPRERAPRJ4848,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Country Homes-I, SDZ, YEW",UPRERAPRJ5440,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Country Homes-II, SDZ, YEW",UPRERAPRJ5443,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Garden Isles, Noida",UPRERAPRJ3784,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Greencrest Homes, SDZ, YEW",UPRERAPRJ5446,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kalypso Court (Phase II), Noida",UPRERAPRJ4695,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kasa Isles, Noida",UPRERAPRJ3843,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kasablanca, Noida",UPRERAPRJ3879,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kassia I, SDZ, YEW",UPRERAPRJ4716,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kassia II,III, SDZ, YEW",UPRERAPRJ4751,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kensignton Boulevard Apartments, Noi",UPRERAPRJ4668,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kensington Park Apartments, Noida",UPRERAPRJ4954,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Klassic - A (Phase II), Noida",UPRERAPRJ3901,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Klassic - D, Noida",UPRERAPRJ3683,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Klassic Corporate, Noida",UPRERAPRJ3618,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Knight Court, Noida",UPRERAPRJ3890,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kosmos - A (Phase II), Noida",UPRERAPRJ3853,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kosmos - B (Phase II), Noida",UPRERAPRJ3900,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kosmos - C, Noida",UPRERAPRJ3894,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kove, SDZ, YEW",UPRERAPRJ4777,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Krescent Homes, Noida",UPRERAPRJ3709,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Kristal, Noida",UPRERAPRJ3876,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Krowns, SDZ, YEW",UPRERAPRJ5445,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,Ready to move,,,,https://www.99acres.com/jaypee-the-krowns-yamuna-expressway-greater-noida-npxid-r52106,https://www.99acres.com/jaypee-faqs-the-krowns-yamuna-expressway-greater-noida-npxid-r52106,DDG Snippet
+"Jaypee Greens Kube, Noida",UPRERAPRJ3571,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Naturvue Apartments, Mirzapur",UPRERAPRJ4875,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Orchards, Noida",UPRERAPRJ3820,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Sportsville, SDZ, YEW",UPRERAPRJ5424,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,Ready to move,,,,https://www.99acres.com/jaypee-greens-sportsville-yamuna-expressway-greater-noida-npxid-r72943,https://www.99acres.com/jaypee-faqs-greens-sportsville-yamuna-expressway-greater-noida-npxid-r72943,DDG Snippet
+"Jaypee Greens Sun Court - B, Greater Noida",UPRERAPRJ4358,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Sunnyvale Homes, Mirzapur",UPRERAPRJ5428,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Town Homes, Noida",UPRERAPRJ5447,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Udaan & Boulevard Court, Mirzapur",UPRERAPRJ4921,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens Villa Country Homes - II, SDZ, YEW",UPRERAPRJ5415,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens Villa GreencrestHomes,SDZ YEW",UPRERAPRJ5048,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens Villa Sunnyvale Homes, Mirzapur",UPRERAPRJ5431,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens Yamuna Vihar, Mirzapur",UPRERAPRJ5435,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Jaypee Greens, E-1/14 Land 2, Greater Noida",UPRERAPRJ5742,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, E-1/3 Land 1, Greater Noida",UPRERAPRJ5600,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, E-10 Land 1, Greater Noida",UPRERAPRJ5495,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, E-12 Land 1, Greater Noida",UPRERAPRJ5549,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, E-3/12a Land 2, Greater Noida",UPRERAPRJ5751,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, E-4/12a Land 2, Greater Noida",UPRERAPRJ5760,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, E-4/7 Land 2, Greater Noida",UPRERAPRJ5722,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, E-6 Land2, Greater Noida",UPRERAPRJ5679,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, E-6/4 Land 2, Greater Noida",UPRERAPRJ5694,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, E-6/7 Land 2, Greater Noida",UPRERAPRJ5743,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, E-9 Land 1, Greater Noida",UPRERAPRJ5014,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, SV-14 Land 2, Greater Noida",UPRERAPRJ5605,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, SV-24 Land 2, Greater Noida",UPRERAPRJ5565,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, V-04 Land 2, Greater Noida",UPRERAPRJ15897,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, V-07 Land 2, Greater Noida",UPRERAPRJ5662,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, V-08 Land 2, Greater Noida",UPRERAPRJ15914,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, V-2/7 Land 1, Greater Noida",UPRERAPRJ5609,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, V-4/7 Land 1, Greater Noida",UPRERAPRJ5665,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, V-5 Land 2, Greater Noida",UPRERAPRJ5699,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Jaypee Greens, V-5/9 Land 2, Greater Noida",UPRERAPRJ5638,"Promoter
+
+Jaiprakash Associates Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+JKG PALM COURT PHASE-I,UPRERAPRJ6966,"Promoter
+
+JKG CONSTRUCTION PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+JKG PALM COURT PHASE-II,UPRERAPRJ7088,"Promoter
+
+JKG CONSTRUCTION PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,2 BHK,,Ready to move,,,,https://www.99acres.com/jkg-palm-court-sector-16c-greater-noida-npxid-r7498,https://www.99acres.com/jkg-faqs-palm-court-sector-16c-greater-noida-npxid-r7498,DDG Snippet
+JM FLORENCE,UPRERAPRJ8757,"Promoter
+
+J.M. HOUSING LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+JMDR Arihant Green,UPRERAPRJ5617,"Promoter
+
+BLISS TOWN DEVELOPERS PRIVATE LIMITED
+JMDR INFRA PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/jmdr-arihant-green-sector-1-greater-noida-west-greater-noida-npxid-r134529,https://www.99acres.com/jmdr-faqs-arihant-green-sector-1-greater-noida-west-greater-noida-npxid-r134529,
+JNC THE PARK,UPRERAPRJ9204,"Promoter
+
+J.N.C. CONSTRUCTIONS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,Ready to move,,,,https://www.99acres.com/jnc-park-plaza-sector-16c-greater-noida-npxid-c4432,https://www.99acres.com/jnc-faqs-park-plaza-sector-16c-greater-noida-npxid-c4432,DDG Snippet
+K D HOUSING,UPRERAPRJ13401,"Promoter
+
+K.D. HOUSING",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Kalpataru Vista,UPRERAPRJ14980,"Promoter
+
+Kalpataru Urbanscape LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/kalpataru-matru-ashish-matunga-south-mumbai-npxid-r324293,https://www.99acres.com/kalpataru-faqs-matru-ashish-matunga-south-mumbai-npxid-r324293,
+KBNOWS APARTMENT,UPRERAPRJ4527,"Promoter
+
+RUDRA BUILDWELL CONSTRUCTIONS PVT LTD",Gautam Buddha Nagar,Residential,,,,4.94 acres,,,,4 BHK,,,,,,https://www.99acres.com/rudra-kbnows-apartments-sector-16-greater-noida-npxid-r31570,https://www.99acres.com/rudra-faqs-kbnows-apartments-sector-16-greater-noida-npxid-r31570,DDG Snippet
+KHELGAON (Phase -1: Tower A B C & D),UPRERAPRJ4752,"Promoter
+
+AJNARA INDIA LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+KHELGAON (Phase -2: Tower P Q & R),UPRERAPRJ4934,"Promoter
+
+AJNARA INDIA LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+KINGS PARK,UPRERAPRJ3149,"Promoter
+
+TODAY HOMES AND INFRASTRUCTURE PVT. LTD.",Gautam Buddha Nagar,Residential,,,,5.18 acres,11,,678,"2,3 BHK",,,,,,https://www.99acres.com/today-kings-park-sector-omega-1-greater-noida-npxid-r584,https://www.99acres.com/today-faqs-kings-park-sector-omega-1-greater-noida-npxid-r584,DDG Snippet
+Kumar Imperial Greens,UPRERAPRJ3375,"Promoter
+
+Keltech Infrastructure Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+KVD WINDPARK,UPRERAPRJ3122,"Promoter
+
+KV Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+La Galaxia,UPRERAPRJ6050,"Promoter
+
+Newtech Promoters and Developers Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+La Palacia,UPRERAPRJ6069,"Promoter
+
+Newtech La Palacia Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+La Residentia,UPRERAPRJ9357,"Promoter
+
+LA RESIDENTIA DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"La Solara,Phase-1 (Tower B & C)",UPRERAPRJ2733,"Promoter
+
+Belgravia Projects Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"La Solara,Phase-2 (Tower A & D)",UPRERAPRJ4460,"Promoter
+
+Belgravia Projects Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Le Garden (Phase-1, Tower D E F & G)",UPRERAPRJ3817,"Promoter
+
+Ajnara Realtech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Le Garden (Phase-2, Tower H I J O & Q)",UPRERAPRJ3828,"Promoter
+
+Ajnara Realtech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Le Garden (Phase-3, Tower K L M & N)",UPRERAPRJ3852,"Promoter
+
+Ajnara Realtech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Le Garden (Phase-4, LE MART Convinient Shops)",UPRERAPRJ4600,"Promoter
+
+Ajnara Realtech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Le Garden (Tower A B & C),UPRERAPRJ7486,"Promoter
+
+Ajnara Realtech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+LEGACY BY GAURS,UPRERAPRJ688396/10/2024,"Promoter
+
+GOLF HORIZON LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/legacy-by-gaurs-jaypee-greens-greater-noida-npxid-r434532,https://www.99acres.com/legacy-faqs-by-gaurs-jaypee-greens-greater-noida-npxid-r434532,
+LIG ZONE I(L01 - LO6),UPRERAPRJ5490,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+LIG ZONE-3 (Tower L-19 to L-36),UPRERAPRJ5578,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+LIG ZONE-II(L07 - L18),UPRERAPRJ5491,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+LORDS,UPRERAPRJ10636,"Promoter
+
+KINDLE DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/shri-durga-lords-residency-engineers-enclave-dehradun-npxid-r121627,https://www.99acres.com/shri-faqs-durga-lords-residency-engineers-enclave-dehradun-npxid-r121627,
+"LOTUS 300 (TOWER 3-6, CLUB AND COMMERCIAL BUILDING",UPRERAPRJ6828,"Promoter
+
+HACIENDA PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Lotus Arena,UPRERAPRJ5409,"Promoter
+
+ARENA SUPERSTRUCTURES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Lotus Arena II,UPRERAPRJ5388,"Promoter
+
+Piyush IT Solutions Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"LOTUS BOULEVARD ESPACIA (TOWER 37-38, CLUB AND COM",UPRERAPRJ9290,"Promoter
+
+CLOUD 9 PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+LOTUS BOULEVARD ESPACIA TOWER 31,UPRERAPRJ9295,"Promoter
+
+CLOUD 9 PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"LOTUS BOULEVARD T-28, T-29 AND T-30",UPRERAPRJ6450,"Promoter
+
+GRANITE GATE PROPERTIES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+LOTUS CITY (PLOTTED TOWNSHIP),UPRERAPRJ9679,"Promoter
+
+THREE C HOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+LOTUS ISLE (RESIDENTIAL),UPRERAPRJ5442,"Promoter
+
+THREE C PROPERTIES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"LOTUS PANACHE (TOWER 1-4, 14-31, CLUB AND COMMERCI",UPRERAPRJ9275,"Promoter
+
+GRANITE GATE PROPERTIES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+LOTUS YARDSCAPE PHASE I,UPRERAPRJ5968,"Promoter
+
+Three C Green Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"LOTUS ZING (TOWER 3-14), CLUB AND COMMERCIAL BUILD",UPRERAPRJ7064,"Promoter
+
+THREE C PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Mahagun Manorial,UPRERAPRJ2051,"Promoter
+
+MAHAGUN (INDIA) PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MAHAGUN MANTRA 1,UPRERAPRJ1846,"Promoter
+
+DHANYA PROMOTERS PRIVATE LIMITED (MAHAGUN GROUP)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MAHAGUN MANTRA II,UPRERAPRJ1870,"Promoter
+
+Hebe Infrastructure Private Limited (MAHAGUN GROU",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Mahagun Meadows,UPRERAPRJ1670,"Promoter
+
+LOGIX HEIGHTS PVT. LTD (MAHAGUN GROUP)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Mahagun Medalleo,UPRERAPRJ125561,"Promoter
+
+Mahagun Infratech Private Limited
+MAHAGUN INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Mahagun Mezzaria,UPRERAPRJ3306,"Promoter
+
+NEXGEN INFRACON PVT. LTD (MAHAGUN GROUP)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Mahagun Mirabella,UPRERAPRJ1866,"Promoter
+
+Golfgreen Infra Pvt. Ltd.(MAHAGUN GROUP)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Mahagun My Laagoon Phase 1,UPRERAPRJ999197/09/2024,"Promoter
+
+Aura Infrabiz LLP
+LOTUS SRS BUILDTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MAHAGUN MYWOODS,UPRERAPRJ3330,"Promoter
+
+MAHAGUN (INDIA) PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Mangalya Ophira,UPRERAPRJ6418,"Promoter
+
+MANGALYA BUILDTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MANORATH,UPRERAPRJ6258,"Promoter
+
+MASCOT HOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MAXBLIS GRAND KINGISTON,UPRERAPRJ4737,"Promoter
+
+MAXBLIS CONSTRUCTION PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MAXBLIS GRAND WELLINGTON,UPRERAPRJ4675,"Promoter
+
+MAXBLIS CONSTRUCTION PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MAXBLIS WHITE HOUSE (PHASE III),UPRERAPRJ7418,"Promoter
+
+MAXBLIS CONSTRUCTION PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MAXBLIS WHITE HOUSE II,UPRERAPRJ9906,"Promoter
+
+MAXBLIS CONSTRUCTION PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Mayfair Residency,UPRERAPRJ852,"Promoter
+
+SUPER CITY DEVELOPERS PVT LTD
+AVINYA REALTECH INDIA PVT LIMITED-MILAN GROUP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Meghdutam Encore,UPRERAPRJ8057,"Promoter
+
+PALM DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MIGSUN GREEN MANSION,UPRERAPRJ9784,"Promoter
+
+MAHALUXMI BUILDTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Migsun Jorbagh (Formerly The Hemisphere_Phase-2_Expa Villas),UPRERAPRJ15474,"Promoter
+
+Royalgolf link city projects private limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+MIGSUN TWIINZ (Formerly know as MIGSUN WYNN),UPRERAPRJ2769,"Promoter
+
+S. J. P. HOTELS & RESORTS PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MIGSUN ULTIMO,UPRERAPRJ2679,"Promoter
+
+MAHALUXMI INFRAHOME PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+MIGSUN VILAASA,UPRERAPRJ16612,"Promoter
+
+YAMUNA BUILTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Mirage Phase I,UPRERAPRJ3142,"Promoter
+
+Imperia Structures Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Mirage Phase II,UPRERAPRJ4008,"Promoter
+
+Imperia Structures Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Morpheus Bluebell,UPRERAPRJ11705,"Promoter
+
+Morpheus Prodevelopers Pvt Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Morpheus Pratiksha,UPRERAPRJ7881,"Promoter
+
+MorpheusDevelopers Pvt Ltd
+SRK BUILDWELL PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+NCR MONARCH,UPRERAPRJ4790,"Promoter
+
+M/S JSS BUILDCON PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+NEOTOWN PHASE-1,UPRERAPRJ7003,"Promoter
+
+PATEL ADVANCE JV",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+NEOTOWN PHASE-2,UPRERAPRJ7256,"Promoter
+
+PATEL ADVANCE JV",Gautam Buddha Nagar,Residential,,,,24 acres,,,3500,3 BHK,,Ready to move,,,,https://www.99acres.com/patel-neotown-techzone-4-greater-noida-west-greater-noida-npxid-r14592,https://www.99acres.com/patel-faqs-neotown-techzone-4-greater-noida-west-greater-noida-npxid-r14592,DDG Snippet
+NEOTOWN PHASE-3,UPRERAPRJ7327,"Promoter
+
+PATEL ADVANCE JV",Gautam Buddha Nagar,Residential,,,,24 acres,,,3500,3 BHK,,Ready to move,,,,https://www.99acres.com/patel-neotown-techzone-4-greater-noida-west-greater-noida-npxid-r14592,https://www.99acres.com/patel-faqs-neotown-techzone-4-greater-noida-west-greater-noida-npxid-r14592,DDG Snippet
+"NEOWORLD ( PHASE-1 TOWER-D, E &F)",UPRERAPRJ4124,"Promoter
+
+LOGIX INFRA DEVELOPERS PVT.LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"NEOWORLD ( PHASE-2 TOWER- A , B & G)",UPRERAPRJ4612,"Promoter
+
+LOGIX INFRA DEVELOPERS PVT.LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+NIMBUS THE PALM VILLAGE,UPRERAPRJ558356/04/2024,"Promoter
+
+IITL- NIMBUS THE PALM VILLAGE",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+NIRALA ASPIRE PH1 (A1 TO A8 & D1 TO D5),UPRERAPRJ4730,"Promoter
+
+NIRALA HOUSING PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"NIRALA ASPIRE PHASE-II (B1 TO B10, B12 , B14)",UPRERAPRJ783018,"Promoter
+
+G3 ASPIRE NIRALA GOLD LLP
+NIRALA HOUSING PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"NIRALA ASPIRE PH-IV (B11, B15 to B23)",UPRERAPRJ508551,"Promoter
+
+IRESH NIRALA GOLD PROJECTS LLP
+NIRALA HOUSING PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,18,,,3 BHK,,Ready to move,,,,https://www.99acres.com/nirala-aspire-sector-16-greater-noida-npxid-r1149,https://www.99acres.com/nirala-faqs-aspire-sector-16-greater-noida-npxid-r1149,DDG Snippet
+"Nirala Estate Phase-II
+- This project has been completed.",UPRERAPRJ519100,"Promoter
+
+NIRALA INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"NIRALA ESTATE PHASE-III
+- This project has been completed.",UPRERAPRJ265789,"Promoter
+
+NIRALA INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"NIRALA ESTATE PHASE-IV
+- This project has been completed.",UPRERAPRJ617209,"Promoter
+
+NIRALA INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+NIRALA ESTATE PHASE-V,UPRERAPRJ788191,"Promoter
+
+NIRALA INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"NIRALA GREENSHIRE PH-1 (G6-G12,G14)",UPRERAPRJ4975,"Promoter
+
+NIRALA PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,2 BHK,,Ready to move,,,,https://www.99acres.com/nirala-greenshire-sector-2-greater-noida-npxid-r6408,https://www.99acres.com/nirala-faqs-greenshire-sector-2-greater-noida-npxid-r6408,DDG Snippet
+NIRALA GREENSHIRE PH-II,UPRERAPRJ120088,"Promoter
+
+NIRALA PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,2 BHK,,Ready to move,,,,https://www.99acres.com/nirala-greenshire-phase-2-sector-2-greater-noida-npxid-r419796,https://www.99acres.com/nirala-faqs-greenshire-phase-2-sector-2-greater-noida-npxid-r419796,DDG Snippet
+Nirala Trio,UPRERAPRJ707952,"Promoter
+
+NIRALA WORLD RESIDENCY PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Nobility,UPRERAPRJ284035,"Promoter
+
+Homekraft Infra Private Limited
+VTECH BUILDCON PVT. LTD.",Gautam Buddha Nagar,Residential,,,,4.94 acres,,,,,,,,,,https://www.99acres.com/ats-nobility-sector-4-greater-noida-npxid-r333811,https://www.99acres.com/ats-faqs-nobility-sector-4-greater-noida-npxid-r333811,DDG Snippet
+NOIDA WORLD ONE - PHASE 5,UPRERAPRJ11643,"Promoter
+
+CBS INTERNATIONAL PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"NORTHWIND SANCTUARY Plot No. 7, Sector-PI, Gr. Noida",UPRERAPRJ798312/05/2025,"Promoter
+
+NORTHWIND ESTATES PRIVATE LIMITED
+ASSOTECH INFRASTRUCTURE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+NOVENA GREEN,UPRERAPRJ8646,"Promoter
+
+D S D HOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+NXONE - HIVE,UPRERAPRJ199977/02/2025,"Promoter
+
+S.P.SAI.IT.PVT. LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+OASIS GRANDSTAND ( PHASE 1),UPRERAPRJ6908,"Promoter
+
+OASIS REALTECH PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+OASIS GRANDSTAND PHASE-2,UPRERAPRJ585804/01/2025,"Promoter
+
+OASIS REALTECH PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+OASIS VENETIA HEIGHTS,UPRERAPRJ1646,"Promoter
+
+OASIS BUILDMART INDIA PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+OPULENCE PHASE A,UPRERAPRJ483588,"Promoter
+
+SAHA ESTATE DEVELOPERS PRIVATE LIMITED
+WISH LAND BUILD ZONE PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+OPULENCE PHASE-I,UPRERAPRJ376920,"Promoter
+
+SAHA ESTATE DEVELOPERS PRIVATE LIMITED
+WISH LAND BUILD ZONE PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ORIZZONTE (RESIDENTIAL),UPRERAPRJ12539,"Promoter
+
+Concept Horizon Infra Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Page 3 Noida,UPRERAPRJ819615/01/2026,"Promoter
+
+PAGE3 BUILDTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"PAGE THREE RESIDENCES
+- This project has been completed.",UPRERAPRJ16264,"Promoter
+
+HOME AND SOUL INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PALM AASHIYANA,UPRERAPRJ15563,"Promoter
+
+ADR HOMES",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PALM OLYMPIA PH 2,UPRERAPRJ308567,"Promoter
+
+Sam India Abhimanyu Housing",Gautam Buddha Nagar,Residential,,,,,,,,"2,3,4 BHK",,Under Construction,,,,https://www.99acres.com/sam-palm-olympia-phase-2-and-3-sector-16c-greater-noida-npxid-r414540,https://www.99acres.com/sam-faqs-palm-olympia-phase-2-and-3-sector-16c-greater-noida-npxid-r414540,DDG Snippet
+Palm Olympia PH 3,UPRERAPRJ409115/09/2024,"Promoter
+
+Sam India Abhimanyu Housing",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PALM VALLEY,UPRERAPRJ15466,"Promoter
+
+LUCKY WEALTH CONSTRUCTION PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Panchsheel Greens,UPRERAPRJ4386,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"PANCHSHEEL GREENS - II (TOWER - D1,D2& E5)",UPRERAPRJ8592,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,26 acres,,,,3 BHK,,,,,,"https://www.99acres.com/panchsheel-greens-2-greater-noida-west-npxid-r1084?advertiserIds=49226636,12865529,7181503,40424621,69632842","https://www.99acres.com/panchsheel-faqs-greens-2-greater-noida-west-npxid-r1084?advertiserIds=49226636,12865529,7181503,40424621,69632842",DDG Snippet
+"PANCHSHEEL GREENS - II (TOWER - E6,E7,D3 &D4)",UPRERAPRJ8595,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,26 acres,,,,"2,3,4 BHK",,Ready to move,,,,"https://www.99acres.com/panchsheel-greens-2-greater-noida-west-npxid-r1084?advertiserIds=49226636,12865529,7181503,40424621,69632842","https://www.99acres.com/panchsheel-faqs-greens-2-greater-noida-west-npxid-r1084?advertiserIds=49226636,12865529,7181503,40424621,69632842",DDG Snippet
+"PANCHSHEEL GREENS - II (TOWER-C1 TO C4,188 VILLAS)",UPRERAPRJ8574,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"PANCHSHEEL GREENS -II (TOWER - A1 TO A6,B1 TO B7)",UPRERAPRJ8547,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"PANCHSHEEL GREENS PHASE - 1 (B1 TO B3,F4 TO F6 & C",UPRERAPRJ8832,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"PANCHSHEEL GREENS-II(TOWER - E1 TO E4,COMMERCIAL,N",UPRERAPRJ8584,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PANCHSHEEL HYNISH PHASE -1 (TOWER-T8 &T9),UPRERAPRJ8533,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PANCHSHEEL HYNISH PHASE -3 (TOWER - T12),UPRERAPRJ8545,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PANCHSHEEL HYNISH PHASE-2(TOWER- T10 & T11),UPRERAPRJ8538,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PANCHSHEEL PINNACLE PHASE - 1 (TOWER - F2 & F3) PA,UPRERAPRJ8845,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PANCHSHEEL PINNACLE PHASE-2 (TOWER F1)PART OF PANC,UPRERAPRJ8855,"Promoter
+
+Panchsheel Buildtech Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PANCHSHEEL PRATISTHA PHASE - 1(TOWER - T4 TO T7),UPRERAPRJ8603,"Promoter
+
+Valuent Infradevelopers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"PANCHSHEEL PRATISTHA PHASE - 2 (TOWER T1 TO T3 , C",UPRERAPRJ8612,"Promoter
+
+Valuent Infradevelopers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PANCHSHEEL PRATISTHA PHASE - 3 (TOWER - T8),UPRERAPRJ8614,"Promoter
+
+Valuent Infradevelopers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PANCHTATVA PHASE-1,UPRERAPRJ6339,"Promoter
+
+SANJEEV KUMAR",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Paradise Crystal Zone I (N&O),UPRERAPRJ4884,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Paradise Crystal Zone II (A, M, P & Q)",UPRERAPRJ5001,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Paramount Emotions,UPRERAPRJ3950,"Promoter
+
+Paramount Propbuild Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+park avenue,UPRERAPRJ6511,"Promoter
+
+AIG INFRATECH INDIA PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PARSVNATH PALACIA PHASE-I,UPRERAPRJ6091,"Promoter
+
+PARSVNATH DEVELOPERS LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PARSVNATH PALACIA PHASE-II,UPRERAPRJ6095,"Promoter
+
+PARSVNATH DEVELOPERS LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PARSVNATH PRIVILEGE PHASE-1,UPRERAPRJ6060,"Promoter
+
+PARSVNATH DEVELOPERS LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PARSVNATH PRIVILEGE PHASE-II,UPRERAPRJ6067,"Promoter
+
+PARSVNATH DEVELOPERS LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PARSVNATH PRIVILEGE PHASE-III,UPRERAPRJ6076,"Promoter
+
+PARSVNATH DEVELOPERS LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PARSVNATH PRIVILEGE PHASE-IV,UPRERAPRJ6081,"Promoter
+
+PARSVNATH DEVELOPERS LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PARX LAUREATE,UPRERAPRJ5998,"Promoter
+
+LAUREATE BUILDWELL PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PATHWAY HOMES,UPRERAPRJ16444,"Promoter
+
+MAYANK JAIN",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Pebble Court,UPRERAPRJ2623,"Promoter
+
+Jaypee Infratech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PEBBLES PROLEASE PVT LTD (HEARTBEAT CITY,UPRERAPRJ13913,"Promoter
+
+ASHISH BAJPAI",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PEBBLES PROLEASE PVT. LTD. ( HEARTBEAT CITY-II),UPRERAPRJ12190,"Promoter
+
+DEVENDER KUMAR JAIN",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PIOUS HIDEAWAYS,UPRERAPRJ442430,"Promoter
+
+Homekraft Infra Private Limited
+FEST HOMES DEVELOPERS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Pious Orchards,UPRERAPRJ183246,"Promoter
+
+Homekraft Infra Private Limited
+FEST HOMES DEVELOPERS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"PLOT ZONE I (3B, 4A, 4B)",UPRERAPRJ10475,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+PLOT ZONE II (3A 3C 4C),UPRERAPRJ11035,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"PLOT ZONE III(2A,2B)",UPRERAPRJ11033,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"PLOT ZONE IV(5,6,1A)",UPRERAPRJ10851,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+PLOT ZONE V (1B),UPRERAPRJ10825,"Promoter
+
+M/s Uttam Steels & Associates { Consortium) throug
+ANSAL HI-TECH TOWNSHIPS LTD",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+PRATEEK CANARY,UPRERAPRJ591510,"Promoter
+
+STRONGBIZ PROPBUILD PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PRATEEK EDIFICE,UPRERAPRJ2683,"Promoter
+
+PRATEEK INFRAPROJECTS INDIA PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Presithum Phase II,UPRERAPRJ17502,"Promoter
+
+PRESIDENCY INFRAHEIGHTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PRESITHUM-PRESIDENCY HEIGHTS (Ph-I),UPRERAPRJ10984,"Promoter
+
+PRESIDENCY INFRAHEIGHTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PRIDEVILLE,UPRERAPRJ545875,"Promoter
+
+Imperia Structures Ltd
+IMPERIA STRUCTURES LTD",Gautam Buddha Nagar,Residential,,,,,,,,4 BHK,,,,,,https://www.99acres.com/imperia-prideville-jalvayu-vihar-greater-noida-npxid-r341641,https://www.99acres.com/imperia-faqs-prideville-jalvayu-vihar-greater-noida-npxid-r341641,DDG Snippet
+"PRIME TOWER, LE GARDEN (Tower P)",UPRERAPRJ14530,"Promoter
+
+Ajnara Realtech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Pristine Avenue,UPRERAPRJ6684,"Promoter
+
+M/s Geotech Homz Pvt. ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PROVINCE D OLYMPIA,UPRERAPRJ556048/03/2025,"Promoter
+
+ATS Realty Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Purvanchal Royal City,UPRERAPRJ3137,"Promoter
+
+PURVANCHAL PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PURVANCHAL ROYAL CITY (PHASE-II),UPRERAPRJ295195,"Promoter
+
+PURVANCHAL PROJECTS PRIVATE LIMITED
+PURVANCHAL PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+PURVANCHAL SUNBLISS PLOT NO. GH-1A/1 SECTOR 22D YEIDA,UPRERAPRJ746863/04/2025,"Promoter
+
+PURVANCHAL PROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+Raj Hans Residency (Phase-1),UPRERAPRJ6440,"Promoter
+
+Raj Hans infratech Private Limited",Gautam Buddha Nagar,Residential,,,,5.45 acres,,,,3 BHK,,,,,,https://www.99acres.com/rajhans-residency-sector-1-greater-noida-west-greater-noida-npxid-r8444,https://www.99acres.com/rajhans-faqs-residency-sector-1-greater-noida-west-greater-noida-npxid-r8444,DDG Snippet
+Raj Residency / Raksha Addela,UPRERAPRJ6497,"Promoter
+
+JINDAL PROMOTERS PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RATAN PEARLS (PHASE-I),UPRERAPRJ8629,"Promoter
+
+RATAN BUILDTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,2 BHK,,Ready to move,,,,https://www.99acres.com/ratan-pearls-sector-16-greater-noida-npxid-r34948,https://www.99acres.com/ratan-faqs-pearls-sector-16-greater-noida-npxid-r34948,DDG Snippet
+RATAN PEARLS (PHASE-II),UPRERAPRJ15192,"Promoter
+
+RATAN BUILDTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"REGENCY PARK, GREATER NOIDA, West PHASE-I (COMPRIS",UPRERAPRJ4182,"Promoter
+
+AARCITY INFRASTRUCTURE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"REGENCY PARK, GREATER NOIDA, West PHASE-II (COMPRI",UPRERAPRJ4363,"Promoter
+
+AARCITY INFRASTRUCTURE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,3 BHK,,Ready to move,,,,https://www.99acres.com/aarcity-regency-park-sector-16-greater-noida-npxid-r35306,https://www.99acres.com/aarcity-faqs-regency-park-sector-16-greater-noida-npxid-r35306,DDG Snippet
+Renox Thrive,UPRERAPRJ742692/09/2024,"Promoter
+
+Nivas Promoters Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"RG Luxury Homes - Tower A, F & M",UPRERAPRJ4815,"Promoter
+
+Rajesh Projects (India) Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"RG Luxury Homes - Tower B, C, D & E",UPRERAPRJ4723,"Promoter
+
+Rajesh Projects (India) Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,"2,3 BHK",,Under Construction,,,,https://www.99acres.com/rg-luxury-homes-phase-2-sector-16-b-greater-noida-npxid-r394131,https://www.99acres.com/rg-faqs-luxury-homes-phase-2-sector-16-b-greater-noida-npxid-r394131,DDG Snippet
+RG Luxury Homes (Tower G & H),UPRERAPRJ4850,"Promoter
+
+Rajesh Projects (India) Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RG Luxury Homes-4 (Tower J K & L),UPRERAPRJ4909,"Promoter
+
+Rajesh Projects (India) Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RG Mirage Tower L,UPRERAPRJ766232,"Promoter
+
+RG Residency Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/rg-mirage-floor-plan-sector-120-noida-npxid-r384794,https://www.99acres.com/rg-faqs-mirage-floor-plan-sector-120-noida-npxid-r384794,
+RG Mirage Tower M,UPRERAPRJ158423,"Promoter
+
+RG Residency Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/rg-mirage-floor-plan-sector-120-noida-npxid-r384794,https://www.99acres.com/rg-faqs-mirage-floor-plan-sector-120-noida-npxid-r384794,
+RG Residency Tower - P (RG Square ),UPRERAPRJ6255,"Promoter
+
+RG Residency Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RG Square Phae-2,UPRERAPRJ17786,"Promoter
+
+Rajesh Projects (India) Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,Under Construction,,,,https://www.99acres.com/svg-town-square-1-alpha-2-greater-noida-npxid-r443871,https://www.99acres.com/svg-faqs-town-square-1-alpha-2-greater-noida-npxid-r443871,DDG Snippet
+RG Square Phase-1,UPRERAPRJ17776,"Promoter
+
+Rajesh Projects (India) Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RGs PLEIADDES Phase-1,UPRERAPRJ124816/09/2025,"Promoter
+
+KVIR TOWERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RGs PLEIADDES Phase-3,UPRERAPRJ415309/09/2025,"Promoter
+
+KVIR TOWERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RGs PLEIADDES Phase-4,UPRERAPRJ357325/09/2025,"Promoter
+
+KVIR TOWERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/rg-pleiaddes-sector-1-greater-noida-west-greater-noida-npxid-r435881,https://www.99acres.com/rg-faqs-pleiaddes-sector-1-greater-noida-west-greater-noida-npxid-r435881,
+RGs PLEIADDES Phase-5,UPRERAPRJ374938/09/2025,"Promoter
+
+KVIR TOWERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RHYTHM COUNTY (PHASE RC-2),UPRERAPRJ7347,"Promoter
+
+FUTUREWORLD GREENHOMES PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/rhythm-ccounty-photos-sector-1-greater-noida-west-greater-noida-npxid-r28956,https://www.99acres.com/rhythm-faqs-ccounty-photos-sector-1-greater-noida-west-greater-noida-npxid-r28956,
+RHYTHM COUNTY (PHASE RC-3),UPRERAPRJ7371,"Promoter
+
+FUTUREWORLD GREENHOMES PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RHYTHM COUNTY(PHASE RC-1),UPRERAPRJ7321,"Promoter
+
+FUTUREWORLD GREENHOMES PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RIDGE RESIDENCY,UPRERAPRJ3075,"Promoter
+
+Today Homes Noida Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RISE GOLF VILLAS,UPRERAPRJ343832,"Promoter
+
+RISE PROJECTS PVT LTD
+EUPHORIA SPORTS CITY PVT LTD",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+Rise Resort Residences Phase-I,UPRERAPRJ7561,"Promoter
+
+RISE PROJECTS PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Rise Sports Villas,UPRERAPRJ295718,"Promoter
+
+RISE PROJECTS PVT LTD
+EUPHORIA SPORTS CITY PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"Rise Sports Villas , Super 30 Villas",UPRERAPRJ621633,"Promoter
+
+RISE PROJECTS PVT LTD
+EUPHORIA SPORTS CITY PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+ROYAL AVENUE,UPRERAPRJ15115,"Promoter
+
+Royal Avenue",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/dream-home-royal-avenue-noida-greater-noida-expressway-npxid-r33200,https://www.99acres.com/dream-faqs-home-royal-avenue-noida-greater-noida-expressway-npxid-r33200,
+ROYAL COURT,UPRERAPRJ3386,"Promoter
+
+Strategic Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/royal-blue-city-jharsa-gurgaon-npxid-r382114,https://www.99acres.com/royal-faqs-blue-city-jharsa-gurgaon-npxid-r382114,
+ROYAL GREEN,UPRERAPRJ11617,"Promoter
+
+MITRA SAHKARI AWAS SAMITI",Gautam Buddha Nagar,Residential,,,,,,,,,,Ready to move,,,,https://www.99acres.com/e3-royal-greens-deri-skaner-greater-noida-npxid-r274941,https://www.99acres.com/e3-faqs-royal-greens-deri-skaner-greater-noida-npxid-r274941,DDG Snippet
+Royal Nest,UPRERAPRJ9608,"Promoter
+
+M/S OMKAR NESTS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+ROYAL RESIDENCY,UPRERAPRJ7023,"Promoter
+
+RAKESH YADAV",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/omaxe-royal-residency-facilities-pakhowal-road-ludhiana-npxid-r68,https://www.99acres.com/omaxe-faqs-royal-residency-facilities-pakhowal-road-ludhiana-npxid-r68,
+RPS 05/2021,UPRERAPRJ146610,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RPS-01 SECTOR-2,UPRERAPRJ10056,"Promoter
+
+GREATER NOIDA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"RPS01,RRPS01 AND RRPS02 (SECTOR 18 AND 20) ,YEIDA",UPRERAPRJ282078,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RPS-02 ZETA-2,UPRERAPRJ10826,"Promoter
+
+GREATER NOIDA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"RPS-02, SEC-22D",UPRERAPRJ8756,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RPS-04/2021,UPRERAPRJ552003,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RPS-06/2022,UPRERAPRJ985835,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RPS07/2023,UPRERAPRJ563740,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RPS08/2024,UPRERAPRJ653132/10/2024,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RPS09/2025,UPRERAPRJ103634/04/2025,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RPS10/2025,UPRERAPRJ307764/03/2026,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RRPS -04/2020,UPRERAPRJ205883,"Promoter
+
+Yamuna Expressway Industrial devlopment Authority",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RUDRA AQUACASA,UPRERAPRJ6649,"Promoter
+
+RUDRA BUILDWELL HOMES PRIVATE LIMITED
+STARARENA BUILDERS LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RUDRA PALACE HEIGHTS,UPRERAPRJ7895,"Promoter
+
+RUDRA BUILDWELL PROJECTS PRIVATE LIMITED
+MILAN INFRASTRUCTURES AND DEVELOPERS PRIVATE LIMIT",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RUDRA UNO,UPRERAPRJ7180,"Promoter
+
+APACE BUILDTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+RYNE,UPRERAPRJ7228,"Promoter
+
+PRIMROSE INFRATECH P LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SAI HOME II,UPRERAPRJ16456,"Promoter
+
+SAIDRISHTI HOMES LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Samajwadi Awas Yojana/ Mukhyamantri Awas Yojana,UPRERAPRJ6740,"Promoter
+
+NEW OKHLA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Samridhi Daksh Avenue,UPRERAPRJ155408,"Promoter
+
+SAMRIDHI BUILDMART PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"SAMRIDHI GRAND AVENUE
+- This project has been completed.",UPRERAPRJ2634,"Promoter
+
+SAMRIDHI REALTY HOMES PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SAMRIDHI LUXURIYA AVENUE,UPRERAPRJ1746,"Promoter
+
+SAMRIDHI INFRA SQUARE PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Saya Zion,UPRERAPRJ869,"Promoter
+
+Saya Buildcon Consortium Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"SETHI VENICE PHASE I (TOWER A , B , L , M , CONVEN",UPRERAPRJ6357,"Promoter
+
+ESTHETIC BUILDTECH PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SHIVALIK HOMES 2,UPRERAPRJ5819,"Promoter
+
+COSMOS INFRAESTATE PVT. LTD.
+EELEVATES INFRATECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Shri Radha Aqua Gardens,UPRERAPRJ7477,"Promoter
+
+Decent Buildwell Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Shri Radha Sky Gardens Phase-1,UPRERAPRJ7482,"Promoter
+
+SJP Infracon Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SHRI RADHA SKY PARK (SKY GARDENS PHASE-2),UPRERAPRJ12851,"Promoter
+
+SJP Infracon Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Shubhkamna City,UPRERAPRJ12436,"Promoter
+
+SHUBHKAMNA BUILDTECH PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Shubhkamna tecHOMES,UPRERAPRJ12432,"Promoter
+
+SHUBHKAMNA BUILDTECH PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SIKKA KAAMNA GREENS,UPRERAPRJ5596,"Promoter
+
+KINDLE INFRAHEIGHTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SIKKA KAAMYA GREENS,UPRERAPRJ5790,"Promoter
+
+ECO GREEN BUILDTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SIKKA KARMIC GREENS,UPRERAPRJ4452,"Promoter
+
+G S PROMOTERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SIKKA KARNAM GREENS,UPRERAPRJ5764,"Promoter
+
+SIKKA INFRASTRUCTURE PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SIKKA KIMANTRA GREENS,UPRERAPRJ5697,"Promoter
+
+Pinnacle Superstructures Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SINGAPORE RESIDENCY,UPRERAPRJ7474,"Promoter
+
+R S BUILTWELL PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SKA DESTINY ONE,UPRERAPRJ783951/04/2024,"Promoter
+
+PRASU DEVELOPERS LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SKA DIVYA TOWERS,UPRERAPRJ658704,"Promoter
+
+JRS CONBUILD PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SKA ESTATE,UPRERAPRJ768147/03/2025,"Promoter
+
+PRASU HOME LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SKA metro Ville,UPRERAPRJ16460,"Promoter
+
+KAMROOP INFRABUILD PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/ska-metro-ville-facilities-eta-2-greater-noida-npxid-r313093,https://www.99acres.com/ska-faqs-metro-ville-facilities-eta-2-greater-noida-npxid-r313093,
+SKA ORION,UPRERAPRJ186008,"Promoter
+
+Provence Developers Pvt Ltd",Gautam Buddha Nagar,Residential,,,,,,,,3 BHK,,Under Construction,,,,https://www.99acres.com/ska-orion-sector-143b-noida-npxid-r375353,https://www.99acres.com/ska-faqs-orion-sector-143b-noida-npxid-r375353,DDG Snippet
+SKAGREENARCH,UPRERAPRJ3377,"Promoter
+
+PRASU INFRABUILD PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Skytech Colours Avenue (Towers A-B-D-E & shops),UPRERAPRJ6664,"Promoter
+
+Jatasya promoters Pvt ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Sobha Aurum,UPRERAPRJ361748/06/2025,"Promoter
+
+SOBHA LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/sobha-aurum-sector-36-greater-noida-npxid-r439304,https://www.99acres.com/sobha-faqs-aurum-sector-36-greater-noida-npxid-r439304,
+SOBHA RIVANA,UPRERAPRJ313638/03/2026,"Promoter
+
+SOBHA LIMITED
+ATLASPUR CONSTRUCTION AND DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SOLITAIRIAN CITY - (PARY) PHASE-1,UPRERAPRJ6811,"Promoter
+
+PARY DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SOLITAIRIAN CITY - (PARY) PHASE-2,UPRERAPRJ6856,"Promoter
+
+PARY DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SOLITAIRIAN CITY - (PARY) PHASE-3,UPRERAPRJ6887,"Promoter
+
+PARY DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SOLITAIRIAN CITY - (SOLI-)PHASE-1,UPRERAPRJ6634,"Promoter
+
+SOLITAIRE REALINFRA PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SOLITAIRIAN CITY - (SOLI-)PHASE-2,UPRERAPRJ6721,"Promoter
+
+SOLITAIRE REALINFRA PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SOLITAIRIAN CITY - (SOLI-)PHASE-3,UPRERAPRJ6766,"Promoter
+
+SOLITAIRE REALINFRA PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SPEEDWAY AVENUE,UPRERAPRJ12103,"Promoter
+
+PYRAMID TOWNSHIPS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SPEEDWAY AVENUE,UPRERAPRJ12128,"Promoter
+
+PYRAMID TOWNSHIPS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SPORTS VILLAGE (PHASE-I),UPRERAPRJ408,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+"SPORTS VILLAGE (PHASE-II, VILLA)",UPRERAPRJ565,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SPORTSHOME,UPRERAPRJ6815,"Promoter
+
+DEVSAI CONSTRUCTION PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SPORTSHOME PHASE II,UPRERAPRJ743918,"Promoter
+
+DEVSAI CONSTRUCTION PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SPRING HOMES,UPRERAPRJ742412,"Promoter
+
+Clover Probuild Private Limited",Gautam Buddha Nagar,Residential,,,,2.47 acres,,21,310,3 BHK,,,,,,https://www.99acres.com/clover-spring-homes-sector-1-greater-noida-west-greater-noida-npxid-r379097,https://www.99acres.com/clover-faqs-spring-homes-sector-1-greater-noida-west-greater-noida-npxid-r379097,DDG Snippet
+SPRING MEADOWS,UPRERAPRJ6831,"Promoter
+
+Pigeon Buildhome Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Stellar One Phase 1,UPRERAPRJ6209,"Promoter
+
+Stellar Spring Projects Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+STELLAR ONE PHASE II,UPRERAPRJ923780,"Promoter
+
+Stellar Spring Projects Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/stellar-one-phase-2-floor-plan-noida-extension-npxid-r420795,https://www.99acres.com/stellar-faqs-one-phase-2-floor-plan-noida-extension-npxid-r420795,
+STELLAR ONE PHASE III,UPRERAPRJ564504/08/2024,"Promoter
+
+Stellar Spring Projects Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,Under Construction,,,,https://www.99acres.com/stellar-one-phase-3-sector-1-greater-noida-west-greater-noida-npxid-r420795,https://www.99acres.com/stellar-faqs-one-phase-3-sector-1-greater-noida-west-greater-noida-npxid-r420795,DDG Snippet
+SUNSHINE SOLARIS,UPRERAPRJ9345,"Promoter
+
+GOLFGREEN RESIDENCY PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,2.5 acres,,,,4 BHK,,,,,,https://www.99acres.com/sunshine-solaris-sector-79-noida-npxid-r46576,https://www.99acres.com/sunshine-faqs-solaris-sector-79-noida-npxid-r46576,DDG Snippet
+SUNTWILIGHT - RECREATIONAL - PHASE - I,UPRERAPRJ7280,"Promoter
+
+SUNRISE STRUCTURES & DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUNTWILIGHT - RECREATIONAL - PHASE-II,UPRERAPRJ7325,"Promoter
+
+SUNRISE STRUCTURES & DEVELOPERS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Sunworld Arista,UPRERAPRJ6444,"Promoter
+
+Sunworld Residency Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"SUNWORLD ARISTA (PH-1 T-1,2,3,4,6,10)",UPRERAPRJ11587,"Promoter
+
+Sunworld Residency Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"SUNWORLD ARISTA (PH-2 T-5,7,8,9), CLUB",UPRERAPRJ11625,"Promoter
+
+Sunworld Residency Private Limited
+NIMBUS PROJECTS LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Sunworld Vanalika Phase-II,UPRERAPRJ11577,"Promoter
+
+Sunworld Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Super Avenue,UPRERAPRJ14910,"Promoter
+
+SUPER BUILDCON",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUPERNOVA PHASE-I (NOVA EAST AND NOVA WEST),UPRERAPRJ7223,"Promoter
+
+SUPERTECH REALTORS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUPERNOVA PHASE-II (SPIRA),UPRERAPRJ5720,"Promoter
+
+SUPERTECH REALTORS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUPERTECH CAPETOWN (PHASE-I),UPRERAPRJ5017,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUPERTECH CAPETOWN (PHASE-V),UPRERAPRJ17551,"Promoter
+
+SUPERTECH ORB PROJECT PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Supertech Eco Village-3 Phase-3,UPRERAPRJ8319,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECO VILLAGE-I (PHASE-I),UPRERAPRJ4318,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECO VILLAGE-I (PHASE-II),UPRERAPRJ4830,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECO VILLAGE-I (PHASE-III),UPRERAPRJ4878,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECO VILLAGE-I PHASE I-C,UPRERAPRJ8334,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECO VILLAGE-II (PHASE-II),UPRERAPRJ4917,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECO VILLAGE-II (PHASE-III),UPRERAPRJ4939,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECO VILLAGE-II (PHASE-IV),UPRERAPRJ4968,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECO VILLAGE-II PHASE I-C,UPRERAPRJ8337,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECO VILLAGE-III (PHASE-I),UPRERAPRJ604,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECO VILLAGE-III (PHASE-II),UPRERAPRJ4714,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH ECOCITI - PHASE-1,UPRERAPRJ9744,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUPERTECH GOLF COUNTRY (PHASE-I),UPRERAPRJ5848,"Promoter
+
+SUPERTECH TOWNSHIP PROJECT LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUPERTECH GOLF COUNTRY (PHASE-II),UPRERAPRJ5854,"Promoter
+
+SUPERTECH TOWNSHIP PROJECT LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUPERTECH GOLF COUNTRY (PHASE-III),UPRERAPRJ5863,"Promoter
+
+SUPERTECH TOWNSHIP PROJECT LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUPERTECH NORTHEYE (PHASE-II),UPRERAPRJ5539,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUPERTECH ORB-O AND B (PHASE-IV),UPRERAPRJ7324,"Promoter
+
+SUPERTECH LIMITED & DWEEP INFRA PROJECT PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUPERTECH ORB-R (PHASE-III),UPRERAPRJ5551,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Supertech Upcountry (Plotted),UPRERAPRJ8267,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+SUPERTECH UPCOUNTRY GH-01 (PHASE-I),UPRERAPRJ5582,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Supertech Upcountry GH-01 Phase-02,UPRERAPRJ8249,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Supertech Upcountry GH-02 Phase-01,UPRERAPRJ8263,"Promoter
+
+SUPERTECH LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SURYA APPARTMENT-1,UPRERAPRJ16075,"Promoter
+
+SURYANSH BUILDMART PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUSHANT SERENE RESIDENCY PH1 T7B1 & T6D,UPRERAPRJ8859,"Promoter
+
+ANSAL PROPERTIES & INFRASTRUCTURE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"SUSHANT SERENE RESIDENCY PH2 T3E,T4E,T5D",UPRERAPRJ8951,"Promoter
+
+ANSAL PROPERTIES & INFRASTRUCTURE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUSHANT SERENE RESIDENCY PHASE 3 TOWER 10 (D) & T,UPRERAPRJ4938,"Promoter
+
+ANSAL PROPERTIES & INFRASTRUCTURE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SUSHANT SERENE RESIDENCY PHASE 4 TOWER T8B & T12E&,UPRERAPRJ4969,"Promoter
+
+ANSAL PROPERTIES & INFRASTRUCTURE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+SVG HIGHTES,UPRERAPRJ15276,"Promoter
+
+SHRIVINAYAKA REALTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Tech Park Residential Phase-4,UPRERAPRJ14120,"Promoter
+
+ULTRA HOME CONSTRUCTION PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+The Aranya Phase 1,UPRERAPRJ6846,"Promoter
+
+Unnati Fortune Holdings Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+The Aranya Phase 2,UPRERAPRJ6974,"Promoter
+
+Unnati Fortune Holdings Ltd",Gautam Buddha Nagar,Residential,,,,18 acres,,,,2 BHK,,,,,,https://www.99acres.com/unnati-the-aranya-sector-119-noida-npxid-r7986,https://www.99acres.com/unnati-faqs-the-aranya-sector-119-noida-npxid-r7986,DDG Snippet
+The Brook- Phase 1,UPRERAPRJ228846,"Promoter
+
+Blessings Homz Pvt Ltd
+BLESSINGS HOMZ PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+THE BROOK PHASE-2,UPRERAPRJ535539/09/2024,"Promoter
+
+Blessings Homz Pvt Ltd",Gautam Buddha Nagar,Residential,,,,,,,,4 BHK,,Ready to move,,,,https://www.99acres.com/fusion-the-brook-sector-12-greater-noida-west-greater-noida-npxid-r395716,https://www.99acres.com/fusion-faqs-the-brook-sector-12-greater-noida-west-greater-noida-npxid-r395716,DDG Snippet
+The Elysium,UPRERAPRJ969677/03/2024,"Promoter
+
+Omnis Developers Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/omnis-the-elysium-jewar-greater-noida-npxid-r425337,https://www.99acres.com/omnis-faqs-the-elysium-jewar-greater-noida-npxid-r425337,
+THE EXPRESS PARK VIEW II- LOW RISE APARTMENTS,UPRERAPRJ555694,"Promoter
+
+IITL-NIMBUS THE EXPRESS PARK VIEW",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"THE GOLDEN PALMS (TOWER A,B,L,M,N)",UPRERAPRJ10240,"Promoter
+
+CAPITAL INFRAPROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+THE GOLDEN PALMS (TOWER-O),UPRERAPRJ10275,"Promoter
+
+CAPITAL INFRAPROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,Ready to move,,,,https://www.99acres.com/the-golden-palm-sector-168-noida-npxid-r1125,https://www.99acres.com/the-faqs-golden-palm-sector-168-noida-npxid-r1125,DDG Snippet
+The Golf Address,UPRERAPRJ6522,"Promoter
+
+implex infrastructure pvt. ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/antriksh-the-golf-address-sector-150-noida-npxid-r256891,https://www.99acres.com/antriksh-faqs-the-golf-address-sector-150-noida-npxid-r256891,
+The Hemisphere_Phase-1,UPRERAPRJ4232,"Promoter
+
+Royalgolf link city projects private limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+The Hemisphere_Phase-1_Towers,UPRERAPRJ15465,"Promoter
+
+Royalgolf link city projects private limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+THE ISLANDS,UPRERAPRJ734569,"Promoter
+
+Gaursons India Private Limited",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+The Jewel of Noida (Phase I),UPRERAPRJ4327,"Promoter
+
+E HOMES INFRASTRUCTURE PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+The Jewel of Noida (Phase II),UPRERAPRJ4350,"Promoter
+
+E HOMES INFRASTRUCTURE PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/dasnac-the-jewel-of-noida-floor-plan-sector-75-noida-npxid-r14046,https://www.99acres.com/dasnac-faqs-the-jewel-of-noida-floor-plan-sector-75-noida-npxid-r14046,
+The Jewel of Noida (Phase III) - Burj Noida,UPRERAPRJ498423,"Promoter
+
+E HOMES INFRASTRUCTURE PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+The Monarque,UPRERAPRJ710489/10/2025,"Promoter
+
+Green Bay Infrastructure Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,https://www.99acres.com/greenbay-the-monarque-sector-22d-yamuna-expressway-greater-noida-npxid-r454824,https://www.99acres.com/greenbay-faqs-the-monarque-sector-22d-yamuna-expressway-greater-noida-npxid-r454824,
+THE OASIS,UPRERAPRJ5667,"Promoter
+
+PAN REALTORS PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,Ready to move,,,,https://www.99acres.com/oasis-grandstand-sector-22d-yamuna-expressway-greater-noida-npxid-r10356,https://www.99acres.com/oasis-faqs-grandstand-sector-22d-yamuna-expressway-greater-noida-npxid-r10356,DDG Snippet
+The Peridona C-1 Jaypee Greens,UPRERAPRJ298067/05/2025,"Promoter
+
+CRC Greens Private Limited
+JAIPRAKASH ASSOCIATES LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+The Resident Tower,UPRERAPRJ987428,"Promoter
+
+Hale Realtors Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,3.96 acres,2,,224,3 BHK,,Under Construction,,,,https://www.99acres.com/hale-the-resident-tower-sector-150-noida-npxid-r352439,https://www.99acres.com/hale-faqs-the-resident-tower-sector-150-noida-npxid-r352439,DDG Snippet
+The Rivulet Phase-1,UPRERAPRJ145736,"Promoter
+
+Grand Realtech Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+THE ROMANO (PHASE-I),UPRERAPRJ5748,"Promoter
+
+IVR PRIME DEVELOPERS (AVADI) PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,Ready to move,,,,https://www.99acres.com/supertech-the-romano-sector-118-noida-npxid-r22774,https://www.99acres.com/supertech-faqs-the-romano-sector-118-noida-npxid-r22774,DDG Snippet
+THE ROMANO (PHASE-II),UPRERAPRJ5705,"Promoter
+
+IVR PRIME DEVELOPERS (AVADI) PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+THE SEPHYRA,UPRERAPRJ761382/10/2025,"Promoter
+
+Imperia Structures Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Towers I and J (R G Luxury Homes),UPRERAPRJ513636,"Promoter
+
+Rajesh Projects (India) Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Towers K and L (R G Luxury Homes),UPRERAPRJ448790,"Promoter
+
+Rajesh Projects (India) Pvt. Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+TRECENTO RESIDENCES-A,UPRERAPRJ283531,"Promoter
+
+GOLF LAKE LLP",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Trident Embassy Phase-1 (TOWERS A,B,C,D,E,F)",UPRERAPRJ6457,"Promoter
+
+Trident Infra homes pvt. ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Trident Embassy Phase-2 (Towers G,H, I)",UPRERAPRJ6476,"Promoter
+
+Trident Infra homes pvt. ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Trident Embassy Phase-3 (Towers J,K,L & Comm)",UPRERAPRJ6492,"Promoter
+
+Trident Infra homes pvt. ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Trident Embassy Reso,UPRERAPRJ785019,"Promoter
+
+Trident Infra homes pvt. ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+UCHDPL-Sector-15-Plots,UPRERAPRJ3627,"Promoter
+
+Uppal Chadha Hi-Tech Developers Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+UCHDPL-Sector-16-Plots,UPRERAPRJ3692,"Promoter
+
+Uppal Chadha Hi-Tech Developers Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+UCHDPL-Sector-17-Plots,UPRERAPRJ3703,"Promoter
+
+Uppal Chadha Hi-Tech Developers Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+UCHDPL-Sector-18-Plots,UPRERAPRJ3716,"Promoter
+
+Uppal Chadha Hi-Tech Developers Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,N/A (Plotted),,,,,,,,,,,
+Unibera Elite 70,UPRERAPRJ15830,"Promoter
+
+UNIBERA DEVELOPERS PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Unibera Towers,UPRERAPRJ2537,"Promoter
+
+UNIBERA DEVELOPERS PVT LTD
+SOLARIS INFRAPROJECTS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+unihomes Phase -1,UPRERAPRJ11339,"Promoter
+
+Unitech Limited (Mr.Ramesh Chandra, Mr.Ajay Chandra,Mr.Sanjay Chandra)
+UNITECH HI-TECH DEVELOPERS LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Unihomes Phase-2,UPRERAPRJ11352,"Promoter
+
+Unitech Limited (Mr.Ramesh Chandra, Mr.Ajay Chandra,Mr.Sanjay Chandra)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+unihomes-3,UPRERAPRJ11251,"Promoter
+
+Unitech Limited (Mr.Ramesh Chandra, Mr.Ajay Chandra,Mr.Sanjay Chandra)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+unitech Amber,UPRERAPRJ11280,"Promoter
+
+Unitech Hi-tech Developers Limited",Gautam Buddha Nagar,Residential,,,,,,,,3 BHK,,Ready to move,,,,https://www.99acres.com/unitech-ugcc-amber-sector-96-noida-npxid-r21154,https://www.99acres.com/unitech-faqs-ugcc-amber-sector-96-noida-npxid-r21154,DDG Snippet
+unitech Burgendy,UPRERAPRJ11291,"Promoter
+
+Unitech Hi-tech Developers Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Unitech Cascade,UPRERAPRJ11104,"Promoter
+
+Unitech Limited (Mr.Ramesh Chandra, Mr.Ajay Chandra,Mr.Sanjay Chandra)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Unitech exquisite(phase-4),UPRERAPRJ11471,"Promoter
+
+Unitech Limited (Mr.Ramesh Chandra, Mr.Ajay Chandra,Mr.Sanjay Chandra)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+UNITECH G&H,UPRERAPRJ11443,"Promoter
+
+Unitech Limited (Mr.Ramesh Chandra, Mr.Ajay Chandra,Mr.Sanjay Chandra)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Unitech Habitat,UPRERAPRJ11153,"Promoter
+
+Unitech Limited (Mr.Ramesh Chandra, Mr.Ajay Chandra,Mr.Sanjay Chandra)",Gautam Buddha Nagar,Residential,,,,,,,,"2,3 BHK",,,,,,https://www.99acres.com/unitech-habitat-sector-pi-2-greater-noida-npxid-r5,https://www.99acres.com/unitech-faqs-habitat-sector-pi-2-greater-noida-npxid-r5,DDG Snippet
+Unitech Residences,UPRERAPRJ11368,"Promoter
+
+Unitech Limited (Mr.Ramesh Chandra, Mr.Ajay Chandra,Mr.Sanjay Chandra)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+unitech willows,UPRERAPRJ11300,"Promoter
+
+Unitech Hi-tech Developers Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Uniworld Garden,UPRERAPRJ11357,"Promoter
+
+Unitech Limited (Mr.Ramesh Chandra, Mr.Ajay Chandra,Mr.Sanjay Chandra)",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Unnati Fortune World - Phase 2,UPRERAPRJ10929,"Promoter
+
+IVR PRIME IT. SEZ PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VAIBHAV HERITAGE HEIGHT,UPRERAPRJ2779,"Promoter
+
+B S BUILDTECH",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VARDHMAN ETA RESIDENCY,UPRERAPRJ7416,"Promoter
+
+VARDHMAN REALTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Vedantam Phase 1 (Tower E1, E2, D1, B2 & A)",UPRERAPRJ7699,"Promoter
+
+RADICON INFRASTRUCTURE & HOUSING PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+"Vedantam Phase-2( Tower B1, C2 & C1)",UPRERAPRJ7730,"Promoter
+
+RADICON INFRASTRUCTURE & HOUSING PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Vedantam Phase-3(Tower D2F & G),UPRERAPRJ7738,"Promoter
+
+RADICON INFRASTRUCTURE & HOUSING PVT LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VICTORY ACE,UPRERAPRJ332663,"Promoter
+
+DREAM PROCON PRIVATE LIMITED
+LOGIX CITY DEVELOPERS PVT.LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VICTORYONE AMARA,UPRERAPRJ6187,"Promoter
+
+RUDRA BUILDWELL INFRA PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VICTORYONE CENTRAL,UPRERAPRJ5889,"Promoter
+
+Intellect Projects Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VIHAAN GOLF BAY(Phase 1),UPRERAPRJ14566,"Promoter
+
+EMERALD PROMOTERS PVT. LTD.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VIHAAN GREENS,UPRERAPRJ11932,"Promoter
+
+VIHAAN DEVELOPERS PVT. LTD",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+Viva City,UPRERAPRJ14841,"Promoter
+
+VIVACITY CREATORS PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VR Homes,UPRERAPRJ14359,"Promoter
+
+VR Projects Private Limited",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VVIP ADDRESSES GREATER NOIDA (WEST),UPRERAPRJ600767/11/2024,"Promoter
+
+Vibhor Vaibhav infrahome Pvt. Ltd.
+LOTUS SRS BUILDTECH PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VVIP HOMES PH 1,UPRERAPRJ3390,"Promoter
+
+SOLITAIRE INFRAHOME PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VVIP HOMES PH 2,UPRERAPRJ3977,"Promoter
+
+SOLITAIRE INFRAHOME PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+VVIP YAMUNA,UPRERAPRJ677791/02/2026,"Promoter
+
+VVIP INFRAHOME PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+White House Apartments,UPRERAPRJ7722,"Promoter
+
+Vocational Education Foundation",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+white orchid,UPRERAPRJ4198,"Promoter
+
+TOWN PARK BUILDCON PRIVATE LIMITED",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+WMCC-2B,UPRERAPRJ5489,"Promoter
+
+Wave Megacity Centre Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+WMCC-2D,UPRERAPRJ3011,"Promoter
+
+Wave Megacity Centre Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+WonderHomes,UPRERAPRJ15804,"Promoter
+
+Dreamkraft Infrastructure Pvt Ltd",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+WTC Noida- Quad,UPRERAPRJ3357,"Promoter
+
+WTC Noida Development Company Pvt. Ltd.",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,
+XT01 SECTOR-3,UPRERAPRJ10104,"Promoter
+
+GREATER NOIDA INDUSTRIAL DEVELOPMENT AUTHORITY",Gautam Buddha Nagar,Residential,,,,,,,,,,,,,,,,

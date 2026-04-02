@@ -1,0 +1,100 @@
+[
+  {
+    "rera_id": "UPRERAPRJ3817",
+    "project_name": "Le Garden Phase 1",
+    "error": "URL not found"
+  },
+  {
+    "rera_id": "UPRERAPRJ5662",
+    "project_name": "Jaypee Greens V-07 Greater Noida",
+    "error": "URL not found"
+  },
+  {
+    "rera_ids_found": [
+      "UPRERAPRJ469983",
+      "UPRERAPRJ15172",
+      "UPRERAPRJ17861",
+      "UPRERAPRJ5448"
+    ],
+    "rera_match": true,
+    "buildings": "1",
+    "total_units": "106",
+    "land_area_acres": "40",
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "1137",
+      "3 BHK": "1404",
+      "4 BHK": "2697"
+    },
+    "possession_date": "Sep, 2026",
+    "status": "Ready to Move",
+    "price_range": "1.15 Cr - 1.65 Cr",
+    "developer": "Tata Realty and Infrastructure Limited",
+    "rera_id": "UPRERAPRJ469983",
+    "project_name": "Eureka Park Phase 2",
+    "housing_url": "https://housing.com/in/buy/projects/page/41368-tata-eureka-park-phase-2-by-tata-realty-and-infrastructure-limited-in-sector-150"
+  },
+  {
+    "rera_ids_found": [
+      "UPRERAPRJ783951",
+      "UPRERAPRJ768147",
+      "UPRERAPRJ3774"
+    ],
+    "rera_match": true,
+    "buildings": "5",
+    "total_units": "1059",
+    "land_area_acres": "7",
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "3.5 BHK",
+      "4 BHK",
+      "6 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "1240",
+      "3 BHK": "1253",
+      "4 BHK": "2386",
+      "6 BHK": "4000"
+    },
+    "possession_date": "Jan, 2030",
+    "status": "Ready to Move",
+    "price_range": "1.59 Cr - 2.34 Cr",
+    "developer": "SKA Group",
+    "rera_id": "UPRERAPRJ768147",
+    "project_name": "SKA ESTATE",
+    "housing_url": "https://housing.com/in/buy/projects/page/343778-ska-estate-by-ska-group-in-eta-ii"
+  },
+  {
+    "rera_ids_found": [
+      "UPRERAPRJ125342"
+    ],
+    "rera_match": true,
+    "buildings": "3",
+    "total_units": "540",
+    "land_area_acres": "5",
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "3.5 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "1 BHK": "725"
+    },
+    "possession_date": "Jan, 2031",
+    "status": "Ready to Move",
+    "price_range": null,
+    "developer": "Eldeco",
+    "rera_id": "UPRERAPRJ125342",
+    "project_name": "ELDECO ECHOES OF EDEN",
+    "housing_url": "https://housing.com/in/buy/projects/page/360200-eldeco-echoes-of-eden-by-eldeco-in-yeida"
+  }
+]

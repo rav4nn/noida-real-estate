@@ -1,0 +1,100 @@
+[
+  {
+    "rera_id": "UPRERAPRJ4318",
+    "project_name": "SUPERTECH ECO VILLAGE-I (PHASE-I)",
+    "housing_url": "https://housing.com/in/buy/projects/page/358235-supertech-eco-village-i-phase-i-c-by-supertech-limited-in-noida-extension",
+    "rera_ids_found": [
+      "UPRERAPRJ8334"
+    ],
+    "rera_match": false,
+    "buildings": "13",
+    "total_units": "1261",
+    "land_area_acres": "8",
+    "bhk_types": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "possession_date": "Dec, 2017",
+    "status": "Ready to Move",
+    "price_range": "Price on Request"
+  },
+  {
+    "rera_id": "UPRERAPRJ7336",
+    "project_name": "AVS ORCHARD",
+    "housing_url": "https://housing.com/in/buy/projects/page/27049-avs-orchard-by-avp-buildtech-pvt-ltd-in-sector-77",
+    "rera_ids_found": [
+      "UPRERAPRJ7336",
+      "UPRERAPRJ11260"
+    ],
+    "rera_match": true,
+    "buildings": "8",
+    "total_units": "650",
+    "land_area_acres": "5",
+    "bhk_types": [
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "3.5 BHK",
+      "4 BHK"
+    ],
+    "possession_date": "Jun, 2023",
+    "status": "Ready to Move",
+    "price_range": "₹ 1.21 Cr - 3.04 Cr"
+  },
+  {
+    "rera_id": "UPRERAPRJ4487",
+    "project_name": "ACE STUDIO",
+    "housing_url": "https://housing.com/in/buy/projects/page/5237-invixo-ace-studio-by-invixo-ace-infrastructures-in-dankaur",
+    "rera_ids_found": [],
+    "rera_match": false,
+    "buildings": "3",
+    "total_units": "100",
+    "land_area_acres": "2",
+    "bhk_types": [
+      "1 BHK"
+    ],
+    "possession_date": "Dec, 2016",
+    "status": "Ready to Move",
+    "price_range": "₹ 11.93 L"
+  },
+  {
+    "rera_id": "UPRERAPRJ403642",
+    "project_name": "Golf country Phase-P2",
+    "housing_url": "https://housing.com/in/buy/projects/page/251987-supertech-golf-country-phase-p2-by-supertech-limited-in-sector-142",
+    "rera_ids_found": [
+      "UPRERAPRJ5848",
+      "UPRERAPRJ5854",
+      "UPRERAPRJ5863"
+    ],
+    "rera_match": false,
+    "buildings": "0",
+    "total_units": "518",
+    "land_area_acres": "16.4",
+    "bhk_types": [
+      "Residential Plots"
+    ],
+    "possession_date": "Dec, 2022",
+    "status": "Ready to Move",
+    "price_range": "₹ 50.86 L - 2.54 Cr"
+  },
+  {
+    "rera_id": "UPRERAPRJ6335",
+    "project_name": "Gaur Saundaryam (Phase-2)",
+    "housing_url": "https://housing.com/in/buy/projects/page/355-gaur-saundaryam-phase-2-by-gaurs-group-in-noida-extension",
+    "rera_ids_found": [
+      "UPRERAPRJ6335"
+    ],
+    "rera_match": true,
+    "buildings": "17",
+    "total_units": "1960",
+    "land_area_acres": null,
+    "bhk_types": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "possession_date": "Sep, 2021",
+    "status": "Ready to Move",
+    "price_range": "₹ 1.95 Cr - 3.07 Cr"
+  }
+]
