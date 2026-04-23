@@ -1,0 +1,4496 @@
+[
+  {
+    "rera_id": "UPRERAPRJ918",
+    "lat": 28.287424,
+    "lng": 77.559532,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4115",
+    "lat": 28.567532,
+    "lng": 77.438744,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9414",
+    "lat": 28.459141,
+    "lng": 77.561104,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ574384",
+    "lat": 28.311956,
+    "lng": 77.557983,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ235739",
+    "lat": 28.310009,
+    "lng": 77.559334,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6742",
+    "lat": 28.618151,
+    "lng": 77.424271,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8242",
+    "lat": 28.493563,
+    "lng": 77.409653,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6754",
+    "lat": 28.493563,
+    "lng": 77.409653,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6801",
+    "lat": 28.304701,
+    "lng": 77.563896,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4464",
+    "lat": 28.310999,
+    "lng": 77.562294,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4193",
+    "lat": 28.305004,
+    "lng": 77.567894,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ16103",
+    "lat": 28.309175,
+    "lng": 77.558922,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15838",
+    "lat": 28.304338,
+    "lng": 77.567818,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15358",
+    "lat": 28.580536,
+    "lng": 77.386078,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6695",
+    "lat": 28.608599,
+    "lng": 77.427368,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8648",
+    "lat": 28.608599,
+    "lng": 77.427368,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ16558",
+    "lat": 28.588791,
+    "lng": 77.380348,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ1050",
+    "lat": 28.611914,
+    "lng": 77.440857,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9325",
+    "lat": 28.506523,
+    "lng": 77.582909,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5670",
+    "lat": 28.506523,
+    "lng": 77.582909,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6032",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ6486",
+    "lat": 28.561653,
+    "lng": 77.451889,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6238",
+    "lat": 28.438417,
+    "lng": 77.482384,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9101",
+    "lat": 28.499775,
+    "lng": 77.519508,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8828",
+    "lat": 28.292036,
+    "lng": 77.55761,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4487",
+    "lat": 28.339925,
+    "lng": 77.54912,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6455",
+    "lat": 28.561653,
+    "lng": 77.451889,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4287",
+    "lat": 28.571486,
+    "lng": 77.384392,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5520",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ15643",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ8704",
+    "lat": 28.324791,
+    "lng": 77.535194,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8725",
+    "lat": 28.324791,
+    "lng": 77.535194,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8437",
+    "lat": 28.557615,
+    "lng": 77.388886,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4783",
+    "lat": 28.484808,
+    "lng": 77.542168,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9195",
+    "lat": 28.56926,
+    "lng": 77.47612,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10111",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ8847",
+    "lat": 28.576183,
+    "lng": 77.376472,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7473",
+    "lat": 28.60939,
+    "lng": 77.4384,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7136",
+    "lat": 28.60939,
+    "lng": 77.4384,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ16087",
+    "lat": 28.306467,
+    "lng": 77.563461,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5685",
+    "lat": 28.517488,
+    "lng": 77.573364,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9841",
+    "lat": 28.517817,
+    "lng": 77.573601,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ248777/03/2025",
+    "lat": 28.326401,
+    "lng": 77.547989,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6734",
+    "lat": 28.575338,
+    "lng": 77.433167,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ442226/10/2024",
+    "lat": 28.311798,
+    "lng": 77.542778,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4514",
+    "lat": 28.432264,
+    "lng": 77.481659,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ677294",
+    "lat": 28.445139,
+    "lng": 77.471428,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ683816/04/2024",
+    "lat": 28.292036,
+    "lng": 77.55761,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ913692/03/2025",
+    "lat": 28.334639,
+    "lng": 77.545837,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8647",
+    "lat": 28.343521,
+    "lng": 77.517639,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ902517",
+    "lat": 28.555502,
+    "lng": 77.443443,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ958972",
+    "lat": 28.569439,
+    "lng": 77.437065,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ17394",
+    "lat": 28.555502,
+    "lng": 77.443443,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ309036",
+    "lat": 28.563059,
+    "lng": 77.43853,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6895",
+    "lat": 28.576511,
+    "lng": 77.380737,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6952",
+    "lat": 28.576511,
+    "lng": 77.380737,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7002",
+    "lat": 28.576511,
+    "lng": 77.380737,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7262",
+    "lat": 28.60939,
+    "lng": 77.4384,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10333",
+    "lat": 28.620893,
+    "lng": 77.421822,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4999",
+    "lat": 28.556978,
+    "lng": 77.476204,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4207",
+    "lat": 28.607904,
+    "lng": 77.445343,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4273",
+    "lat": 28.607904,
+    "lng": 77.445343,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4539",
+    "lat": 28.607904,
+    "lng": 77.445343,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2605",
+    "lat": 28.324791,
+    "lng": 77.535194,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2990",
+    "lat": 28.324791,
+    "lng": 77.535194,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3058",
+    "lat": 28.324791,
+    "lng": 77.535194,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ913592/01/2026",
+    "lat": 28.560036,
+    "lng": 77.4664,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4569",
+    "lat": 28.565283,
+    "lng": 77.442131,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4249",
+    "lat": 28.576183,
+    "lng": 77.376472,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5814",
+    "lat": 28.581015,
+    "lng": 77.405899,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5823",
+    "lat": 28.580257,
+    "lng": 77.403976,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5833",
+    "lat": 28.562031,
+    "lng": 77.437195,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ888243",
+    "lat": 28.580257,
+    "lng": 77.403976,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ16440",
+    "lat": 28.590128,
+    "lng": 77.381035,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15168",
+    "lat": 28.470741,
+    "lng": 77.592804,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ745377",
+    "lat": 28.423145,
+    "lng": 77.486908,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6971",
+    "lat": 28.429508,
+    "lng": 77.479958,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6978",
+    "lat": 28.429508,
+    "lng": 77.479958,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6984",
+    "lat": 28.429508,
+    "lng": 77.479958,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6994",
+    "lat": 28.429508,
+    "lng": 77.479958,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6911",
+    "lat": 28.429508,
+    "lng": 77.479958,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10913",
+    "lat": 28.557987,
+    "lng": 77.439018,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10510",
+    "lat": 28.557987,
+    "lng": 77.439018,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10360",
+    "lat": 28.557987,
+    "lng": 77.439018,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10944",
+    "lat": 28.558893,
+    "lng": 77.386246,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10343",
+    "lat": 28.557947,
+    "lng": 77.386368,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10857",
+    "lat": 28.559563,
+    "lng": 77.389481,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7097",
+    "lat": 28.559563,
+    "lng": 77.389481,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11308",
+    "lat": 28.557947,
+    "lng": 77.386368,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7509",
+    "lat": 28.423571,
+    "lng": 77.485939,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6048",
+    "lat": 28.423571,
+    "lng": 77.485939,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10833",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ5929",
+    "lat": 28.426847,
+    "lng": 77.487762,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7818",
+    "lat": 28.584463,
+    "lng": 77.430313,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10394",
+    "lat": 28.576317,
+    "lng": 77.383049,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8960",
+    "lat": 28.560566,
+    "lng": 77.482475,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8585",
+    "lat": 28.582621,
+    "lng": 77.433083,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15792",
+    "lat": 28.574507,
+    "lng": 77.4832,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8415",
+    "lat": 28.57793,
+    "lng": 77.44178,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ723911",
+    "lat": 28.564236,
+    "lng": 77.448624,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ974543/02/2026",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ746615/10/2025",
+    "lat": 28.564123,
+    "lng": 77.485252,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6098",
+    "lat": 28.560457,
+    "lng": 77.338058,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6078",
+    "lat": 28.56048,
+    "lng": 77.387085,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ417134",
+    "lat": 28.5581,
+    "lng": 77.439102,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3774",
+    "lat": 28.49699,
+    "lng": 77.521942,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ180413",
+    "lat": 28.419201,
+    "lng": 77.493202,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3574",
+    "lat": 28.549051,
+    "lng": 77.328743,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14316",
+    "lat": 28.425867,
+    "lng": 77.487846,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3250",
+    "lat": 28.425867,
+    "lng": 77.487846,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ396176",
+    "lat": 28.444839,
+    "lng": 77.47673,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ631",
+    "lat": 28.444839,
+    "lng": 77.47673,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3796",
+    "lat": 28.440779,
+    "lng": 77.484856,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2875",
+    "lat": 28.441183,
+    "lng": 77.485535,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7336",
+    "lat": 28.566889,
+    "lng": 77.392303,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11260",
+    "lat": 28.569736,
+    "lng": 77.388824,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4197",
+    "lat": 28.446882,
+    "lng": 77.509552,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3914",
+    "lat": 28.520748,
+    "lng": 77.356499,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6312",
+    "lat": 28.577162,
+    "lng": 77.430916,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6938",
+    "lat": 28.344757,
+    "lng": 77.516182,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7022",
+    "lat": 28.344757,
+    "lng": 77.516182,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14205",
+    "lat": 28.48122,
+    "lng": 77.480644,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4480",
+    "lat": 28.557615,
+    "lng": 77.388886,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4397",
+    "lat": 28.557615,
+    "lng": 77.388886,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9728",
+    "lat": 28.494135,
+    "lng": 77.537621,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10006",
+    "lat": 28.456068,
+    "lng": 77.562218,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9632",
+    "lat": 28.458044,
+    "lng": 77.565613,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9565",
+    "lat": 28.458044,
+    "lng": 77.565613,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8764",
+    "lat": 28.458044,
+    "lng": 77.565613,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ335396/01/2026",
+    "lat": 28.515833,
+    "lng": 77.364723,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8301",
+    "lat": 28.556738,
+    "lng": 77.451477,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4466",
+    "lat": 28.509521,
+    "lng": 77.412132,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4411",
+    "lat": 28.509521,
+    "lng": 77.412132,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4243",
+    "lat": 28.500633,
+    "lng": 77.424202,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4264",
+    "lat": 28.500633,
+    "lng": 77.424202,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4186",
+    "lat": 28.500633,
+    "lng": 77.424202,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4218",
+    "lat": 28.500633,
+    "lng": 77.424202,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4766",
+    "lat": 28.500633,
+    "lng": 77.424202,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5597",
+    "lat": 28.501036,
+    "lng": 77.425728,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4834",
+    "lat": 28.501036,
+    "lng": 77.425728,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4870",
+    "lat": 28.501036,
+    "lng": 77.425728,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4903",
+    "lat": 28.501036,
+    "lng": 77.425728,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5771",
+    "lat": 28.552898,
+    "lng": 77.554558,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5838",
+    "lat": 28.545843,
+    "lng": 77.551361,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5548",
+    "lat": 28.570313,
+    "lng": 77.476936,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ16402",
+    "lat": 28.569561,
+    "lng": 77.47805,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ16437",
+    "lat": 28.570313,
+    "lng": 77.476936,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4967",
+    "lat": 28.616325,
+    "lng": 77.425026,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6310",
+    "lat": 28.574219,
+    "lng": 77.428017,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6377",
+    "lat": 28.574219,
+    "lng": 77.428017,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10265",
+    "lat": 28.428402,
+    "lng": 77.504608,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4491",
+    "lat": 28.428402,
+    "lng": 77.504608,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ391718/03/2026",
+    "lat": 28.428402,
+    "lng": 77.504608,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3708",
+    "lat": 28.616049,
+    "lng": 77.463661,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4689",
+    "lat": 28.576363,
+    "lng": 77.434631,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2855",
+    "lat": 28.620531,
+    "lng": 77.423637,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ13904",
+    "lat": 28.343521,
+    "lng": 77.517639,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ646272",
+    "lat": 28.564495,
+    "lng": 77.479576,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2369",
+    "lat": 28.6015,
+    "lng": 77.401382,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2437",
+    "lat": 28.598055,
+    "lng": 77.391594,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5931",
+    "lat": 28.6015,
+    "lng": 77.401382,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ696539/11/2025",
+    "lat": 28.44746,
+    "lng": 77.463417,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ958386",
+    "lat": 28.569469,
+    "lng": 77.481178,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ837374",
+    "lat": 28.546869,
+    "lng": 77.377167,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ613747",
+    "lat": 28.585997,
+    "lng": 77.433838,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ724518/07/2024",
+    "lat": 28.571352,
+    "lng": 77.436958,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15180",
+    "lat": 28.575613,
+    "lng": 77.430923,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10126",
+    "lat": 28.499811,
+    "lng": 77.42173,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14041",
+    "lat": 28.307507,
+    "lng": 77.549057,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11424",
+    "lat": 28.507414,
+    "lng": 77.408936,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5398",
+    "lat": 28.57169,
+    "lng": 77.445007,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3601",
+    "lat": 28.621634,
+    "lng": 77.421371,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8174",
+    "lat": 28.621634,
+    "lng": 77.421371,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ120773/08/2025",
+    "lat": 28.477087,
+    "lng": 77.537865,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ13810",
+    "lat": 28.598089,
+    "lng": 77.397804,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ1440",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ9893",
+    "lat": 28.575024,
+    "lng": 77.42942,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10012",
+    "lat": 28.565523,
+    "lng": 77.450684,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4112",
+    "lat": 28.61079,
+    "lng": 77.441391,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ510056/09/2025",
+    "lat": 28.542391,
+    "lng": 77.372101,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ106523/01/2026",
+    "lat": 28.456068,
+    "lng": 77.562218,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ1916",
+    "lat": 28.586245,
+    "lng": 77.403275,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ921261/05/2025",
+    "lat": 28.318001,
+    "lng": 77.529999,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ125342/02/2026",
+    "lat": 28.320951,
+    "lng": 77.533508,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ136219/04/2024",
+    "lat": 28.56456,
+    "lng": 77.48568,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15172",
+    "lat": 28.418846,
+    "lng": 77.488014,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ575706",
+    "lat": 28.41828,
+    "lng": 77.48764,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ121123",
+    "lat": 28.418846,
+    "lng": 77.488014,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ752382/09/2025",
+    "lat": 28.320456,
+    "lng": 77.534592,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10243",
+    "lat": 28.594187,
+    "lng": 77.440346,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10279",
+    "lat": 28.594187,
+    "lng": 77.440346,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10120",
+    "lat": 28.592937,
+    "lng": 77.441223,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10224",
+    "lat": 28.592937,
+    "lng": 77.441223,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10234",
+    "lat": 28.592937,
+    "lng": 77.441223,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4654",
+    "lat": 28.562889,
+    "lng": 77.393768,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ916631/02/2024",
+    "lat": 28.571785,
+    "lng": 77.483933,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11733",
+    "lat": 28.422909,
+    "lng": 77.485977,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ828955",
+    "lat": 28.422323,
+    "lng": 77.490265,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ301564",
+    "lat": 28.587608,
+    "lng": 77.457733,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ512436/07/2024",
+    "lat": 28.589214,
+    "lng": 77.456314,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ972907",
+    "lat": 28.58927,
+    "lng": 77.457565,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ446459",
+    "lat": 28.522537,
+    "lng": 77.356171,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ294911/12/2024",
+    "lat": 28.522537,
+    "lng": 77.356171,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ469983",
+    "lat": 28.419924,
+    "lng": 77.483635,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5448",
+    "lat": 28.427691,
+    "lng": 77.487503,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5563",
+    "lat": 28.518644,
+    "lng": 77.573486,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5561",
+    "lat": 28.518644,
+    "lng": 77.573486,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5606",
+    "lat": 28.518644,
+    "lng": 77.573486,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9577",
+    "lat": 28.615192,
+    "lng": 77.421379,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5545",
+    "lat": 28.615192,
+    "lng": 77.421379,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ120027/04/2024",
+    "lat": 28.550983,
+    "lng": 77.345757,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ953234/04/2024",
+    "lat": 28.55098,
+    "lng": 77.345772,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ747628/01/2026",
+    "lat": 28.445534,
+    "lng": 77.457451,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ479698",
+    "lat": 28.578745,
+    "lng": 77.43309,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ229234",
+    "lat": 28.578745,
+    "lng": 77.43309,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3393",
+    "lat": 28.570099,
+    "lng": 77.393013,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ980703/04/2024",
+    "lat": 28.570099,
+    "lng": 77.393013,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7115",
+    "lat": 28.355484,
+    "lng": 77.528854,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7173",
+    "lat": 28.355484,
+    "lng": 77.528854,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7195",
+    "lat": 28.355484,
+    "lng": 77.528854,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3983",
+    "lat": 28.495077,
+    "lng": 77.583092,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4526",
+    "lat": 28.495077,
+    "lng": 77.583092,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4814",
+    "lat": 28.553986,
+    "lng": 77.554283,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4863",
+    "lat": 28.505503,
+    "lng": 77.582001,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5677",
+    "lat": 28.505505,
+    "lng": 77.582001,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ13277",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ3680",
+    "lat": 28.547857,
+    "lng": 77.488022,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3777",
+    "lat": 28.547857,
+    "lng": 77.488022,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2744",
+    "lat": 28.605976,
+    "lng": 77.450478,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3302",
+    "lat": 28.599926,
+    "lng": 77.444702,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7361",
+    "lat": 28.55537,
+    "lng": 77.443954,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7399",
+    "lat": 28.554491,
+    "lng": 77.444511,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7386",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ7369",
+    "lat": 28.554491,
+    "lng": 77.444511,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6157",
+    "lat": 28.514977,
+    "lng": 77.391075,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5458",
+    "lat": 28.614803,
+    "lng": 77.426735,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4506",
+    "lat": 28.620016,
+    "lng": 77.425102,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5806",
+    "lat": 28.620581,
+    "lng": 77.424408,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5836",
+    "lat": 28.620581,
+    "lng": 77.424408,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4890",
+    "lat": 28.592472,
+    "lng": 77.455414,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7346",
+    "lat": 28.573715,
+    "lng": 77.381973,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11023",
+    "lat": 28.556068,
+    "lng": 77.385025,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11037",
+    "lat": 28.573717,
+    "lng": 77.382034,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6838",
+    "lat": 28.462034,
+    "lng": 77.558403,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ622344/11/2025",
+    "lat": 28.281506,
+    "lng": 77.549103,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7057",
+    "lat": 28.567715,
+    "lng": 77.426903,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4897",
+    "lat": 28.556593,
+    "lng": 77.434677,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6335",
+    "lat": 28.605398,
+    "lng": 77.434624,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3528",
+    "lat": 28.562555,
+    "lng": 77.399605,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7084",
+    "lat": 28.576773,
+    "lng": 77.432678,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7360",
+    "lat": 28.614805,
+    "lng": 77.461441,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9384",
+    "lat": 28.309984,
+    "lng": 77.54213,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7234",
+    "lat": 28.572889,
+    "lng": 77.379959,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11463",
+    "lat": 28.323242,
+    "lng": 77.221512,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11479",
+    "lat": 28.323336,
+    "lng": 77.221436,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11481",
+    "lat": 28.323298,
+    "lng": 77.221535,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11485",
+    "lat": 28.578024,
+    "lng": 77.379364,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11547",
+    "lat": 28.578014,
+    "lng": 77.379356,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11557",
+    "lat": 28.578032,
+    "lng": 77.379356,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11563",
+    "lat": 28.572889,
+    "lng": 77.379959,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11573",
+    "lat": 28.549473,
+    "lng": 77.361404,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11594",
+    "lat": 28.323412,
+    "lng": 77.221489,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11598",
+    "lat": 28.323345,
+    "lng": 77.221481,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11608",
+    "lat": 28.323322,
+    "lng": 77.221535,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11614",
+    "lat": 28.548628,
+    "lng": 77.362114,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11626",
+    "lat": 28.323303,
+    "lng": 77.221588,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11633",
+    "lat": 28.548628,
+    "lng": 77.362114,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6586",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ110163/08/2025",
+    "lat": 28.448799,
+    "lng": 77.551193,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ13521",
+    "lat": 28.424047,
+    "lng": 77.490601,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14252",
+    "lat": 28.424047,
+    "lng": 77.490601,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ17861",
+    "lat": 28.424189,
+    "lng": 77.490845,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ745601",
+    "lat": 28.422995,
+    "lng": 77.494141,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ124632",
+    "lat": 28.433296,
+    "lng": 77.484535,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ704730",
+    "lat": 28.559681,
+    "lng": 77.350319,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ773536",
+    "lat": 28.558701,
+    "lng": 77.351097,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10635",
+    "lat": 28.57855,
+    "lng": 77.379143,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ403642",
+    "lat": 28.301125,
+    "lng": 77.540276,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9984",
+    "lat": 28.355795,
+    "lng": 77.53421,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ12358",
+    "lat": 28.36762,
+    "lng": 77.544121,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9966",
+    "lat": 28.543039,
+    "lng": 77.374275,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ874478",
+    "lat": 28.541765,
+    "lng": 77.37471,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3606",
+    "lat": 28.406694,
+    "lng": 77.354721,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ459796/09/2025",
+    "lat": 28.522593,
+    "lng": 77.356133,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ794300/09/2025",
+    "lat": 28.522758,
+    "lng": 77.356194,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ17009",
+    "lat": 28.594646,
+    "lng": 77.41703,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9720",
+    "lat": 28.476435,
+    "lng": 77.536118,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7198",
+    "lat": 28.601364,
+    "lng": 77.449097,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7289",
+    "lat": 28.601364,
+    "lng": 77.449097,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7342",
+    "lat": 28.601364,
+    "lng": 77.449097,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9320",
+    "lat": 28.313648,
+    "lng": 77.551285,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ1005",
+    "lat": 28.533073,
+    "lng": 77.388794,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ674438/02/2024",
+    "lat": 28.443604,
+    "lng": 77.516586,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ860880",
+    "lat": 28.60989,
+    "lng": 77.446205,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6332",
+    "lat": 28.608467,
+    "lng": 77.45488,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5857",
+    "lat": 28.497526,
+    "lng": 77.441101,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ950870",
+    "lat": 28.494534,
+    "lng": 77.435204,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8806",
+    "lat": 28.50314,
+    "lng": 77.427994,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15574",
+    "lat": 28.56806,
+    "lng": 77.476501,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9299",
+    "lat": 28.576769,
+    "lng": 77.443085,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8973",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ8479",
+    "lat": 28.596262,
+    "lng": 77.438576,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9750",
+    "lat": 28.40518,
+    "lng": 77.513214,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ848586",
+    "lat": 28.573709,
+    "lng": 77.444977,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5655",
+    "lat": 28.576042,
+    "lng": 77.437004,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ17726",
+    "lat": 28.484976,
+    "lng": 77.511848,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6819",
+    "lat": 28.556698,
+    "lng": 77.394424,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11498",
+    "lat": 28.556698,
+    "lng": 77.394424,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8836",
+    "lat": 28.598341,
+    "lng": 77.451187,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8888",
+    "lat": 28.598341,
+    "lng": 77.451187,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8898",
+    "lat": 28.598341,
+    "lng": 77.451187,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14516",
+    "lat": 28.534473,
+    "lng": 77.412781,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10246",
+    "lat": 28.430578,
+    "lng": 77.504509,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10096",
+    "lat": 28.432434,
+    "lng": 77.507088,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9947",
+    "lat": 28.432434,
+    "lng": 77.507088,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9689",
+    "lat": 28.562429,
+    "lng": 77.390846,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10533",
+    "lat": 28.431597,
+    "lng": 77.502876,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9214",
+    "lat": 28.562429,
+    "lng": 77.390846,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ504323",
+    "lat": 28.638165,
+    "lng": 77.387291,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9318",
+    "lat": 28.273088,
+    "lng": 77.593559,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10087",
+    "lat": 28.578465,
+    "lng": 77.382652,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11522",
+    "lat": 28.591213,
+    "lng": 77.440247,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11493",
+    "lat": 28.591213,
+    "lng": 77.440247,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11448",
+    "lat": 28.591213,
+    "lng": 77.440247,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6473",
+    "lat": 28.520401,
+    "lng": 77.415527,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ494753",
+    "lat": 28.583271,
+    "lng": 77.432617,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ503189/03/2024",
+    "lat": 28.573059,
+    "lng": 77.482262,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ256314",
+    "lat": 28.566566,
+    "lng": 77.40184,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ115902",
+    "lat": 28.566566,
+    "lng": 77.40184,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ507062",
+    "lat": 28.566566,
+    "lng": 77.40184,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ757529",
+    "lat": 28.57793,
+    "lng": 77.386009,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ267958/06/2025",
+    "lat": 28.640802,
+    "lng": 77.509102,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ639770/06/2025",
+    "lat": 28.639557,
+    "lng": 77.50769,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ479060/09/2025",
+    "lat": 28.333496,
+    "lng": 77.282158,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6753",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ4895",
+    "lat": 28.444544,
+    "lng": 77.465897,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3824",
+    "lat": 28.444544,
+    "lng": 77.465897,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3872",
+    "lat": 28.526802,
+    "lng": 77.357002,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5436",
+    "lat": 28.346521,
+    "lng": 77.523499,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4818",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ4848",
+    "lat": 28.34523,
+    "lng": 77.535324,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5440",
+    "lat": 28.334982,
+    "lng": 77.53051,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5443",
+    "lat": 28.334982,
+    "lng": 77.53051,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3784",
+    "lat": 28.505251,
+    "lng": 77.375992,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5446",
+    "lat": 28.332565,
+    "lng": 77.517868,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4695",
+    "lat": 28.525932,
+    "lng": 77.352371,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3843",
+    "lat": 28.50625,
+    "lng": 77.387329,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3879",
+    "lat": 28.527246,
+    "lng": 77.360283,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4716",
+    "lat": 28.220732,
+    "lng": 77.315018,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4751",
+    "lat": 28.349568,
+    "lng": 77.527243,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4668",
+    "lat": 28.511454,
+    "lng": 77.36499,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4954",
+    "lat": 28.508221,
+    "lng": 77.371307,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3901",
+    "lat": 28.50359,
+    "lng": 77.380852,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3683",
+    "lat": 28.506241,
+    "lng": 77.380913,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3618",
+    "lat": 28.503393,
+    "lng": 77.387482,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3890",
+    "lat": 28.517178,
+    "lng": 77.358818,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3853",
+    "lat": 28.503242,
+    "lng": 77.381821,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3900",
+    "lat": 28.503242,
+    "lng": 77.381821,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3894",
+    "lat": 28.503242,
+    "lng": 77.381821,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4777",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ3709",
+    "lat": 28.507042,
+    "lng": 77.384842,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3876",
+    "lat": 28.525557,
+    "lng": 77.360832,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5445",
+    "lat": 28.330221,
+    "lng": 77.531158,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3571",
+    "lat": 28.514462,
+    "lng": 77.358612,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4875",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ3820",
+    "lat": 28.513725,
+    "lng": 77.363182,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5424",
+    "lat": 28.336153,
+    "lng": 77.511078,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4358",
+    "lat": 28.462334,
+    "lng": 77.51944,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5428",
+    "lat": 28.325655,
+    "lng": 77.559166,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5447",
+    "lat": 28.462807,
+    "lng": 77.521339,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4921",
+    "lat": 28.325655,
+    "lng": 77.559166,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5415",
+    "lat": 28.46887,
+    "lng": 77.528015,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5048",
+    "lat": 28.338909,
+    "lng": 77.519432,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5431",
+    "lat": 28.46887,
+    "lng": 77.528015,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5435",
+    "lat": 28.321383,
+    "lng": 77.541367,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5742",
+    "lat": 28.522552,
+    "lng": 77.356133,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5600",
+    "lat": 28.47332,
+    "lng": 77.527863,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5495",
+    "lat": 28.47332,
+    "lng": 77.527863,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5549",
+    "lat": 28.47332,
+    "lng": 77.527863,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5751",
+    "lat": 28.468699,
+    "lng": 77.523537,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5760",
+    "lat": 28.473209,
+    "lng": 77.527657,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5722",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ5679",
+    "lat": 28.473364,
+    "lng": 77.528046,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5694",
+    "lat": 28.473297,
+    "lng": 77.527603,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5743",
+    "lat": 28.47332,
+    "lng": 77.527863,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5014",
+    "lat": 28.522551,
+    "lng": 77.356125,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5605",
+    "lat": 28.522554,
+    "lng": 77.35614,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5565",
+    "lat": 28.522558,
+    "lng": 77.356133,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15897",
+    "lat": 28.522552,
+    "lng": 77.35614,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5662",
+    "lat": 28.522552,
+    "lng": 77.35614,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15914",
+    "lat": 28.522554,
+    "lng": 77.35614,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5609",
+    "lat": 28.522552,
+    "lng": 77.356133,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5665",
+    "lat": 28.469158,
+    "lng": 77.515167,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5699",
+    "lat": 28.473364,
+    "lng": 77.528046,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5638",
+    "lat": 28.522549,
+    "lng": 77.356148,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6966",
+    "lat": 28.616304,
+    "lng": 77.424103,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7088",
+    "lat": 28.616304,
+    "lng": 77.424103,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8757",
+    "lat": 28.592812,
+    "lng": 77.45295,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5617",
+    "lat": 28.589981,
+    "lng": 77.312416,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9204",
+    "lat": 28.615025,
+    "lng": 77.423256,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14980",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ4527",
+    "lat": 28.612551,
+    "lng": 77.45993,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4752",
+    "lat": 28.537783,
+    "lng": 77.495483,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4934",
+    "lat": 28.537783,
+    "lng": 77.495483,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3149",
+    "lat": 28.4569,
+    "lng": 77.51564,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3375",
+    "lat": 28.609253,
+    "lng": 77.461708,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3122",
+    "lat": 28.593077,
+    "lng": 77.451386,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6050",
+    "lat": 28.512543,
+    "lng": 77.52005,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6069",
+    "lat": 28.591713,
+    "lng": 77.450897,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9357",
+    "lat": 28.592283,
+    "lng": 77.442802,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2733",
+    "lat": 28.611977,
+    "lng": 77.45607,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4460",
+    "lat": 28.611977,
+    "lng": 77.45607,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3817",
+    "lat": 28.607403,
+    "lng": 77.455414,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3828",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ3852",
+    "lat": 28.60733,
+    "lng": 77.454987,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4600",
+    "lat": 28.607403,
+    "lng": 77.455414,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7486",
+    "lat": 28.607403,
+    "lng": 77.455414,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ688396/10/2024",
+    "lat": 28.508036,
+    "lng": 77.408524,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5578",
+    "lat": 28.518045,
+    "lng": 77.574387,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5491",
+    "lat": 28.518045,
+    "lng": 77.574387,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10636",
+    "lat": 28.564417,
+    "lng": 77.396088,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6828",
+    "lat": 28.544548,
+    "lng": 77.374489,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5409",
+    "lat": 28.55755,
+    "lng": 77.392113,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5388",
+    "lat": 28.55755,
+    "lng": 77.392113,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9290",
+    "lat": 28.544041,
+    "lng": 77.368416,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9295",
+    "lat": 28.545069,
+    "lng": 77.368011,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6450",
+    "lat": 28.54421,
+    "lng": 77.369148,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9679",
+    "lat": 28.332451,
+    "lng": 77.544373,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5442",
+    "lat": 28.531376,
+    "lng": 77.361877,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9275",
+    "lat": 28.531544,
+    "lng": 77.382164,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5968",
+    "lat": 28.55718,
+    "lng": 77.394806,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7064",
+    "lat": 28.49704,
+    "lng": 77.410461,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2051",
+    "lat": 28.52504,
+    "lng": 77.360565,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ1846",
+    "lat": 28.571333,
+    "lng": 77.474525,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ1870",
+    "lat": 28.570719,
+    "lng": 77.472786,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ1670",
+    "lat": 28.436581,
+    "lng": 77.482643,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ125561",
+    "lat": 28.547453,
+    "lng": 77.375587,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3306",
+    "lat": 28.563391,
+    "lng": 77.382988,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ1866",
+    "lat": 28.564434,
+    "lng": 77.397217,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ999197/09/2024",
+    "lat": 28.560709,
+    "lng": 77.485802,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3330",
+    "lat": 28.621662,
+    "lng": 77.425804,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6418",
+    "lat": 28.556404,
+    "lng": 77.450241,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6258",
+    "lat": 28.611485,
+    "lng": 77.456352,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4737",
+    "lat": 28.574881,
+    "lng": 77.380524,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4675",
+    "lat": 28.575176,
+    "lng": 77.379936,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7418",
+    "lat": 28.574522,
+    "lng": 77.38266,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9906",
+    "lat": 28.574923,
+    "lng": 77.381447,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ852",
+    "lat": 28.589241,
+    "lng": 77.445679,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8057",
+    "lat": 28.578243,
+    "lng": 77.434204,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9784",
+    "lat": 28.507071,
+    "lng": 77.519829,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15474",
+    "lat": 28.476288,
+    "lng": 77.529274,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2769",
+    "lat": 28.494135,
+    "lng": 77.537621,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2679",
+    "lat": 28.47303,
+    "lng": 77.551582,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ16612",
+    "lat": 28.495981,
+    "lng": 77.539063,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3142",
+    "lat": 28.346565,
+    "lng": 77.522614,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4008",
+    "lat": 28.346565,
+    "lng": 77.522614,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11705",
+    "lat": 28.612659,
+    "lng": 77.437973,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7881",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ4790",
+    "lat": 28.563507,
+    "lng": 77.451485,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7003",
+    "lat": 28.589258,
+    "lng": 77.440796,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7256",
+    "lat": 28.589258,
+    "lng": 77.440796,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7327",
+    "lat": 28.589258,
+    "lng": 77.440796,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4124",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ4612",
+    "lat": 28.422524,
+    "lng": 77.487465,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ558356/04/2024",
+    "lat": 28.118513,
+    "lng": 77.555061,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4730",
+    "lat": 28.610703,
+    "lng": 77.455894,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ783018",
+    "lat": 28.610703,
+    "lng": 77.455894,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ508551",
+    "lat": 28.610703,
+    "lng": 77.455894,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ519100",
+    "lat": 28.586538,
+    "lng": 77.440651,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ265789",
+    "lat": 28.586538,
+    "lng": 77.440651,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ617209",
+    "lat": 28.586538,
+    "lng": 77.440651,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ788191",
+    "lat": 28.587311,
+    "lng": 77.44294,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4975",
+    "lat": 28.580114,
+    "lng": 77.445053,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ120088",
+    "lat": 28.579796,
+    "lng": 77.444397,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ707952",
+    "lat": 28.593525,
+    "lng": 77.446556,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ284035",
+    "lat": 28.609699,
+    "lng": 77.4375,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11643",
+    "lat": 28.514156,
+    "lng": 77.411499,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ798312/05/2025",
+    "lat": 28.480982,
+    "lng": 77.546455,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8646",
+    "lat": 28.596033,
+    "lng": 77.43972,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ199977/02/2025",
+    "lat": 28.601069,
+    "lng": 77.448318,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6908",
+    "lat": 28.290815,
+    "lng": 77.559479,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ585804/01/2025",
+    "lat": 28.290815,
+    "lng": 77.559479,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ1646",
+    "lat": 28.514772,
+    "lng": 77.496239,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ483588",
+    "lat": 28.460278,
+    "lng": 77.508331,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ376920",
+    "lat": 28.460278,
+    "lng": 77.508331,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ12539",
+    "lat": 28.47735,
+    "lng": 77.48082,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ819615/01/2026",
+    "lat": 28.523233,
+    "lng": 77.360428,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ16264",
+    "lat": 28.466866,
+    "lng": 77.523804,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15563",
+    "lat": 28.56315,
+    "lng": 77.444885,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ308567",
+    "lat": 28.617975,
+    "lng": 77.421791,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ409115/09/2024",
+    "lat": 28.617352,
+    "lng": 77.420525,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15466",
+    "lat": 28.563986,
+    "lng": 77.445549,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4386",
+    "lat": 28.609467,
+    "lng": 77.444893,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8592",
+    "lat": 28.60762,
+    "lng": 77.45826,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8595",
+    "lat": 28.60762,
+    "lng": 77.45826,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8574",
+    "lat": 28.60762,
+    "lng": 77.45826,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8547",
+    "lat": 28.60762,
+    "lng": 77.45826,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8832",
+    "lat": 28.60762,
+    "lng": 77.45826,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8584",
+    "lat": 28.60762,
+    "lng": 77.45826,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8533",
+    "lat": 28.578913,
+    "lng": 77.438217,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8545",
+    "lat": 28.422342,
+    "lng": 77.490318,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8538",
+    "lat": 28.578913,
+    "lng": 77.438217,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8845",
+    "lat": 28.611218,
+    "lng": 77.445465,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8855",
+    "lat": 28.611218,
+    "lng": 77.445465,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8603",
+    "lat": 28.57403,
+    "lng": 77.384377,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8612",
+    "lat": 28.573633,
+    "lng": 77.384346,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8614",
+    "lat": 28.57403,
+    "lng": 77.384377,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6339",
+    "lat": 28.592396,
+    "lng": 77.453674,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4884",
+    "lat": 28.505388,
+    "lng": 77.574661,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5001",
+    "lat": 28.514526,
+    "lng": 77.573929,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3950",
+    "lat": 28.570845,
+    "lng": 77.447372,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6511",
+    "lat": 28.6136,
+    "lng": 77.425812,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6091",
+    "lat": 28.473991,
+    "lng": 77.545494,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6095",
+    "lat": 28.473991,
+    "lng": 77.545494,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6060",
+    "lat": 28.481623,
+    "lng": 77.537224,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6067",
+    "lat": 28.481623,
+    "lng": 77.537224,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6076",
+    "lat": 28.481623,
+    "lng": 77.537224,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6081",
+    "lat": 28.481623,
+    "lng": 77.537224,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5998",
+    "lat": 28.525064,
+    "lng": 77.371956,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2623",
+    "lat": 28.518078,
+    "lng": 77.360657,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ13913",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ12190",
+    "lat": 28.54863,
+    "lng": 77.379089,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ442430",
+    "lat": 28.423531,
+    "lng": 77.487877,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ183246",
+    "lat": 28.4223,
+    "lng": 77.490303,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10475",
+    "lat": 28.508759,
+    "lng": 77.57856,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11035",
+    "lat": 28.500038,
+    "lng": 77.577446,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11033",
+    "lat": 28.509052,
+    "lng": 77.580772,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10851",
+    "lat": 28.520315,
+    "lng": 77.5812,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ591510",
+    "lat": 28.420366,
+    "lng": 77.492821,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2683",
+    "lat": 28.545582,
+    "lng": 77.376587,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ17502",
+    "lat": 28.513266,
+    "lng": 77.377747,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10984",
+    "lat": 28.347507,
+    "lng": 77.523613,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ545875",
+    "lat": 28.360199,
+    "lng": 77.532921,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14530",
+    "lat": 28.607403,
+    "lng": 77.455414,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6684",
+    "lat": 28.621107,
+    "lng": 77.422585,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ556048/03/2025",
+    "lat": 28.285238,
+    "lng": 77.555084,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3137",
+    "lat": 28.431431,
+    "lng": 77.5047,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ295195",
+    "lat": 28.431431,
+    "lng": 77.5047,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ746863/04/2025",
+    "lat": 28.312338,
+    "lng": 77.543709,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6440",
+    "lat": 28.572954,
+    "lng": 77.444176,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6497",
+    "lat": 28.621826,
+    "lng": 77.42054,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8629",
+    "lat": 28.61034,
+    "lng": 77.463013,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15192",
+    "lat": 28.61034,
+    "lng": 77.463013,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4182",
+    "lat": 28.617264,
+    "lng": 77.425842,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4363",
+    "lat": 28.617264,
+    "lng": 77.425842,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ742692/09/2024",
+    "lat": 28.572617,
+    "lng": 77.476456,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4815",
+    "lat": 28.605013,
+    "lng": 77.451904,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4723",
+    "lat": 28.605013,
+    "lng": 77.451904,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4850",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ4909",
+    "lat": 28.605013,
+    "lng": 77.451904,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ766232",
+    "lat": 28.587799,
+    "lng": 77.397903,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ158423",
+    "lat": 28.587799,
+    "lng": 77.397903,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6255",
+    "lat": 28.587648,
+    "lng": 77.397324,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ17786",
+    "lat": 28.605219,
+    "lng": 77.45192,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ17776",
+    "lat": 28.3617,
+    "lng": 77.2659,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ124816/09/2025",
+    "lat": 28.561195,
+    "lng": 77.44072,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ415309/09/2025",
+    "lat": 28.561335,
+    "lng": 77.439407,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ357325/09/2025",
+    "lat": 28.561157,
+    "lng": 77.440651,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ374938/09/2025",
+    "lat": 28.561214,
+    "lng": 77.440956,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7347",
+    "lat": 28.554483,
+    "lng": 77.444504,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7371",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ7321",
+    "lat": 28.554483,
+    "lng": 77.444504,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3075",
+    "lat": 28.496452,
+    "lng": 77.399742,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ343832",
+    "lat": 28.583588,
+    "lng": 77.430336,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7561",
+    "lat": 28.580128,
+    "lng": 77.436241,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ295718",
+    "lat": 28.580147,
+    "lng": 77.436241,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ621633",
+    "lat": 28.566893,
+    "lng": 77.436844,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15115",
+    "lat": 28.579588,
+    "lng": 77.384537,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3386",
+    "lat": 28.608433,
+    "lng": 77.452843,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11617",
+    "lat": 28.569107,
+    "lng": 77.533951,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9608",
+    "lat": 28.593199,
+    "lng": 77.455147,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7023",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ10056",
+    "lat": 28.331573,
+    "lng": 77.569145,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ282078",
+    "lat": 28.331573,
+    "lng": 77.569145,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10826",
+    "lat": 28.515179,
+    "lng": 77.534355,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8756",
+    "lat": 28.242603,
+    "lng": 77.618942,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ205883",
+    "lat": 28.331573,
+    "lng": 77.569145,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6649",
+    "lat": 28.613535,
+    "lng": 77.461014,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7895",
+    "lat": 28.563869,
+    "lng": 77.450439,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7180",
+    "lat": 28.427389,
+    "lng": 77.484001,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7228",
+    "lat": 28.430166,
+    "lng": 77.502945,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ16456",
+    "lat": 28.559633,
+    "lng": 77.37796,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ155408",
+    "lat": 28.423082,
+    "lng": 77.487358,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2634",
+    "lat": 28.594469,
+    "lng": 77.455154,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ1746",
+    "lat": 28.422323,
+    "lng": 77.490273,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ869",
+    "lat": 28.611395,
+    "lng": 77.423889,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6357",
+    "lat": 28.434599,
+    "lng": 77.481094,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5819",
+    "lat": 28.610266,
+    "lng": 77.462189,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7477",
+    "lat": 28.609175,
+    "lng": 77.452599,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7482",
+    "lat": 28.606876,
+    "lng": 77.447952,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ12851",
+    "lat": 28.607872,
+    "lng": 77.450462,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ12436",
+    "lat": 28.564245,
+    "lng": 77.448914,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ12432",
+    "lat": 28.513382,
+    "lng": 77.40741,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5596",
+    "lat": 28.503506,
+    "lng": 77.426338,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5790",
+    "lat": 28.569033,
+    "lng": 77.478737,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4452",
+    "lat": 28.56138,
+    "lng": 77.384277,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5764",
+    "lat": 28.499773,
+    "lng": 77.421249,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5697",
+    "lat": 28.560852,
+    "lng": 77.398354,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7474",
+    "lat": 28.457561,
+    "lng": 77.545876,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ783951/04/2024",
+    "lat": 28.496981,
+    "lng": 77.521111,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ658704",
+    "lat": 28.619745,
+    "lng": 77.424957,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ768147/03/2025",
+    "lat": 28.496275,
+    "lng": 77.540726,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ16460",
+    "lat": 28.497126,
+    "lng": 77.537521,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ186008",
+    "lat": 28.500874,
+    "lng": 77.421745,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3377",
+    "lat": 28.60132,
+    "lng": 77.449471,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6664",
+    "lat": 28.572809,
+    "lng": 77.475174,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ361748/06/2025",
+    "lat": 28.461361,
+    "lng": 77.541267,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ313638/03/2026",
+    "lat": 28.576132,
+    "lng": 77.430595,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6811",
+    "lat": 28.358065,
+    "lng": 77.531105,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6856",
+    "lat": 28.358065,
+    "lng": 77.531105,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6887",
+    "lat": 28.358065,
+    "lng": 77.531105,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6634",
+    "lat": 28.358065,
+    "lng": 77.531105,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6721",
+    "lat": 28.358065,
+    "lng": 77.531105,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6766",
+    "lat": 28.358065,
+    "lng": 77.531105,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ12103",
+    "lat": 28.343872,
+    "lng": 77.521606,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ12128",
+    "lat": 28.343872,
+    "lng": 77.521606,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ408",
+    "lat": 28.541422,
+    "lng": 77.493919,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ565",
+    "lat": 28.541422,
+    "lng": 77.493919,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6815",
+    "lat": 28.583464,
+    "lng": 77.431778,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ743918",
+    "lat": 28.583464,
+    "lng": 77.431778,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ742412",
+    "lat": 28.586638,
+    "lng": 77.435715,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6831",
+    "lat": 28.588835,
+    "lng": 77.444603,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6209",
+    "lat": 28.576668,
+    "lng": 77.435928,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ923780",
+    "lat": 28.576668,
+    "lng": 77.435928,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ564504/08/2024",
+    "lat": 28.582439,
+    "lng": 77.435188,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9345",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ7280",
+    "lat": 28.391041,
+    "lng": 77.523796,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7325",
+    "lat": 28.391041,
+    "lng": 77.523796,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6444",
+    "lat": 28.493658,
+    "lng": 77.408447,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11587",
+    "lat": 28.494001,
+    "lng": 77.40815,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11625",
+    "lat": 28.49357,
+    "lng": 77.406418,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11577",
+    "lat": 28.549669,
+    "lng": 77.376511,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14910",
+    "lat": 28.590409,
+    "lng": 77.381801,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7223",
+    "lat": 28.545361,
+    "lng": 77.32431,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5720",
+    "lat": 28.552689,
+    "lng": 77.322426,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5017",
+    "lat": 28.574509,
+    "lng": 77.390503,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ17551",
+    "lat": 28.574509,
+    "lng": 77.390503,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8319",
+    "lat": 28.607323,
+    "lng": 77.453278,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4318",
+    "lat": 28.580488,
+    "lng": 77.44072,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4830",
+    "lat": 28.568111,
+    "lng": 77.434746,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4878",
+    "lat": 28.580488,
+    "lng": 77.44072,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8334",
+    "lat": 28.580488,
+    "lng": 77.44072,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4917",
+    "lat": 28.61079,
+    "lng": 77.441391,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4939",
+    "lat": 28.61079,
+    "lng": 77.441391,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4968",
+    "lat": 28.610033,
+    "lng": 77.443901,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8337",
+    "lat": 28.610575,
+    "lng": 77.44281,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ604",
+    "lat": 28.607323,
+    "lng": 77.453278,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4714",
+    "lat": 28.607323,
+    "lng": 77.453278,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ9744",
+    "lat": 28.5112,
+    "lng": 77.410789,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5848",
+    "lat": 28.301125,
+    "lng": 77.540276,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5854",
+    "lat": 28.301125,
+    "lng": 77.540276,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5863",
+    "lat": 28.301125,
+    "lng": 77.540276,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5539",
+    "lat": 28.572933,
+    "lng": 77.388123,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7324",
+    "lat": 28.574215,
+    "lng": 77.387421,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5551",
+    "lat": 28.574141,
+    "lng": 77.387466,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8267",
+    "lat": 28.370935,
+    "lng": 77.547897,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5582",
+    "lat": 28.374018,
+    "lng": 77.543564,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8249",
+    "lat": 28.374018,
+    "lng": 77.543564,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8263",
+    "lat": 28.374018,
+    "lng": 77.543564,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8859",
+    "lat": 28.49917,
+    "lng": 77.544014,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ8951",
+    "lat": 28.49917,
+    "lng": 77.544014,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4938",
+    "lat": 28.499851,
+    "lng": 77.54097,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4969",
+    "lat": 28.499832,
+    "lng": 77.540443,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15276",
+    "lat": 28.453236,
+    "lng": 77.521461,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14120",
+    "lat": 28.4956,
+    "lng": 77.4347,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6846",
+    "lat": 28.590006,
+    "lng": 77.404533,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6974",
+    "lat": 28.590006,
+    "lng": 77.404533,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ228846",
+    "lat": 28.543072,
+    "lng": 77.438576,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ535539/09/2024",
+    "lat": 28.56118,
+    "lng": 77.482002,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ969677/03/2024",
+    "lat": 28.58987,
+    "lng": 77.446152,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ555694",
+    "lat": 28.430578,
+    "lng": 77.504509,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10240",
+    "lat": 28.497095,
+    "lng": 77.408707,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10275",
+    "lat": 28.497095,
+    "lng": 77.408707,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6522",
+    "lat": 28.424736,
+    "lng": 77.490692,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4232",
+    "lat": 28.47654,
+    "lng": 77.521362,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15465",
+    "lat": 28.47654,
+    "lng": 77.521362,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ734569",
+    "lat": 28.466702,
+    "lng": 77.512878,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4327",
+    "lat": 28.575399,
+    "lng": 77.381401,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4350",
+    "lat": 28.575554,
+    "lng": 77.381668,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ498423",
+    "lat": 28.575634,
+    "lng": 77.381935,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ710489/10/2025",
+    "lat": 28.312302,
+    "lng": 77.542908,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5667",
+    "lat": 28.594337,
+    "lng": 77.380989,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ298067/05/2025",
+    "lat": 28.5152,
+    "lng": 77.484848,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ987428",
+    "lat": 28.427637,
+    "lng": 77.487694,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ145736",
+    "lat": 28.559614,
+    "lng": 77.483765,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5748",
+    "lat": 28.583796,
+    "lng": 77.407188,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5705",
+    "lat": 28.583796,
+    "lng": 77.407188,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ761382/10/2025",
+    "lat": 28.360054,
+    "lng": 77.531364,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ513636",
+    "lat": 28.605013,
+    "lng": 77.451904,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ448790",
+    "lat": 28.605219,
+    "lng": 77.45192,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ283531",
+    "lat": 28.462145,
+    "lng": 77.520813,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6457",
+    "lat": 28.570992,
+    "lng": 77.445564,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6476",
+    "lat": 28.570992,
+    "lng": 77.445564,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6492",
+    "lat": 28.570992,
+    "lng": 77.445564,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ785019",
+    "lat": 28.571611,
+    "lng": 77.436432,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3627",
+    "lat": 28.635082,
+    "lng": 77.510506,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3716",
+    "lat": 28.679451,
+    "lng": 77.5186,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15830",
+    "lat": 28.549299,
+    "lng": 77.438599,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2537",
+    "lat": 28.553635,
+    "lng": 77.445198,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11339",
+    "lat": 28.57966,
+    "lng": 77.399071,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11352",
+    "lat": 28.57966,
+    "lng": 77.399071,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11251",
+    "lat": 28.56321,
+    "lng": 77.405014,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11280",
+    "lat": 28.545418,
+    "lng": 77.350929,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11291",
+    "lat": 28.541025,
+    "lng": 77.356873,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11104",
+    "lat": 28.48114,
+    "lng": 77.545219,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11471",
+    "lat": 28.579968,
+    "lng": 77.399818,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11443",
+    "lat": 28.426298,
+    "lng": 77.039063,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11153",
+    "lat": 28.482994,
+    "lng": 77.544693,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11368",
+    "lat": 28.547056,
+    "lng": 77.346764,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11300",
+    "lat": 28.547056,
+    "lng": 77.346764,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ11357",
+    "lat": 28.578707,
+    "lng": 77.397034,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ10929",
+    "lat": 28.493097,
+    "lng": 77.435379,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ2779",
+    "lat": 28.611088,
+    "lng": 77.463669,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7416",
+    "lat": 28.49889,
+    "lng": 77.532036,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7699",
+    "lat": 28.61418,
+    "lng": 77.421669,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7730",
+    "lat": 28.61418,
+    "lng": 77.421669,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7738",
+    "lat": 28.61418,
+    "lng": 77.421669,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ332663",
+    "lat": 28.501448,
+    "lng": 77.425682,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ6187",
+    "lat": 28.613789,
+    "lng": 77.458328,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5889",
+    "lat": 28.562344,
+    "lng": 77.481667,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14566",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "UPRERAPRJ11932",
+    "lat": 28.559374,
+    "lng": 77.440926,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14841",
+    "lat": 28.514626,
+    "lng": 77.367775,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ14359",
+    "lat": 28.57025,
+    "lng": 77.400383,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ600767/11/2024",
+    "lat": 28.562582,
+    "lng": 77.485092,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3390",
+    "lat": 28.62134,
+    "lng": 77.420273,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3977",
+    "lat": 28.62134,
+    "lng": 77.420273,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ677791/02/2026",
+    "lat": 28.315517,
+    "lng": 77.531334,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ7722",
+    "lat": 28.478262,
+    "lng": 77.536911,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ4198",
+    "lat": 28.619564,
+    "lng": 77.424187,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ5489",
+    "lat": 28.579378,
+    "lng": 77.350494,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3011",
+    "lat": 28.579378,
+    "lng": 77.350494,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ15804",
+    "lat": 28.551443,
+    "lng": 77.351112,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "UPRERAPRJ3357",
+    "lat": 28.386019,
+    "lng": 77.516853,
+    "method": "housing.com"
+  },
+  {
+    "rera_id": "MANUAL_PRATEEK_LAUREL",
+    "lat": 28.5687,
+    "lng": 77.3828,
+    "method": "manual"
+  },
+  {
+    "rera_id": "UPRERAPRJ11256",
+    "lat": 28.58929,
+    "lng": 77.44605,
+    "method": "sector_centroid"
+  },
+  {
+    "rera_id": "MANUAL_AAMBESTEN_TWIN_CELESTIAL",
+    "lat": 28.58929,
+    "lng": 77.44605,
+    "method": "sector_centroid"
+  },
+  {
+    "rera_id": "MANUAL_HARK_SAI_HOMES_4",
+    "lat": 28.55963,
+    "lng": 77.37796,
+    "method": "sector_centroid"
+  },
+  {
+    "rera_id": "MANUAL_JMD_107",
+    "lat": 28.54555,
+    "lng": 77.37561,
+    "method": "sector_centroid"
+  },
+  {
+    "rera_id": "MANUAL_JMD_SIDDH_APPARTMENT",
+    "lat": 28.58702,
+    "lng": 77.38297,
+    "method": "sector_centroid"
+  },
+  {
+    "rera_id": "MANUAL_MALIK_HINDUSTAN_APARTMENT",
+    "lat": 28.53,
+    "lng": 77.38,
+    "method": "sector_centroid"
+  },
+  {
+    "rera_id": "MANUAL_SGP_WOW_MONK_PHASE_2",
+    "lat": 28.58929,
+    "lng": 77.44605,
+    "method": "sector_centroid"
+  },
+  {
+    "rera_id": "MANUAL_VIHAAN_107",
+    "lat": 28.54555,
+    "lng": 77.37561,
+    "method": "sector_centroid"
+  },
+  {
+    "rera_id": "MANUAL_AVENUE_1",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "MANUAL_HOMEKRAFT_WONDER_HOMES_3",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "MANUAL_JMD_A1_HEIGHT",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "MANUAL_MUDGAL_VED_RESIDENCY",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "MANUAL_SARASWATI_LANDMARK_2",
+    "lat": null,
+    "lng": null,
+    "method": null
+  },
+  {
+    "rera_id": "MANUAL_TRINITY_PRIMUS",
+    "lat": null,
+    "lng": null,
+    "method": null
+  }
+]

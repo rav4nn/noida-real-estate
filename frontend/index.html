@@ -1,0 +1,1096 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Noida Real Estate · 3D Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --panel:    rgba(255, 255, 255, 0.72);
+      --border:   rgba(0,0,0,0.08);
+      --text:     #111827;
+      --muted:    #4b5563;
+      --xmuted:   #9ca3af;
+      --subtle:   rgba(249, 250, 251, 0.5);
+      --accent:   #2563eb;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+      --shadow-md: 0 4px 12px -1px rgba(0,0,0,0.1), 0 2px 6px -1px rgba(0,0,0,0.06);
+      --shadow-lg: 0 10px 30px -4px rgba(0,0,0,0.12), 0 4px 12px -2px rgba(0,0,0,0.06);
+      --r: 16px;
+      --entry:   #10b981;
+      --mid:     #f59e0b;
+      --premium: #ef4444;
+      --luxury:  #8b5cf6;
+      --glass:   saturate(180%) blur(12px);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      height: 100%;
+      font-family: "Space Grotesk", sans-serif;
+      background: #dde1e7;
+      color: var(--text);
+      overflow: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    #app { position: relative; width: 100%; height: 100%; }
+    #map { position: absolute; inset: 0; }
+    #deck-canvas { width: 100%; height: 100%; display: block; }
+
+    /* ── Topbar ─────────────────────────────────────────────────────────── */
+    .topbar {
+      position: absolute;
+      top: 16px; left: 16px; right: 16px;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 16px;
+      background: var(--panel);
+      backdrop-filter: var(--glass);
+      -webkit-backdrop-filter: var(--glass);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      box-shadow: var(--shadow-md);
+      transition: all 0.3s ease;
+    }
+
+    .brand {
+      font-size: 13px;
+      font-weight: 700;
+      white-space: nowrap;
+      letter-spacing: -0.01em;
+    }
+
+    .vr {
+      width: 1px;
+      height: 18px;
+      background: var(--border);
+      flex-shrink: 0;
+    }
+
+    .search {
+      flex: 1;
+      min-width: 0;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 6px 11px;
+      font: inherit;
+      font-size: 13px;
+      background: var(--subtle);
+      color: var(--text);
+      outline: none;
+      transition: border-color 120ms, box-shadow 120ms;
+    }
+    .search:focus {
+      border-color: #93c5fd;
+      box-shadow: 0 0 0 3px rgba(37,99,235,0.10);
+      background: #fff;
+    }
+    .search::placeholder { color: var(--xmuted); }
+
+    /* Price band pills */
+    .band-filters { display: flex; gap: 5px; flex-shrink: 0; }
+
+    .pill {
+      padding: 4px 10px;
+      border-radius: 99px;
+      border: 1.5px solid var(--border);
+      background: transparent;
+      font: inherit;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 120ms;
+      white-space: nowrap;
+      line-height: 1.4;
+    }
+    .pill:hover { border-color: #d1d5db; color: var(--text); }
+    .pill.entry   { --c: var(--entry);   }
+    .pill.mid     { --c: var(--mid);     }
+    .pill.premium { --c: var(--premium); }
+    .pill.luxury  { --c: var(--luxury);  }
+    .pill.active  { background: var(--c, var(--text)); border-color: var(--c, var(--text)); color: #fff; }
+
+    /* BHK dropdown */
+    .bhk-wrap { position: relative; flex-shrink: 0; }
+
+    .btn-bhk {
+      padding: 5px 11px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--subtle);
+      font: inherit;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 120ms;
+    }
+    .btn-bhk:hover { color: var(--text); border-color: #d1d5db; }
+    .btn-bhk.has-filter { color: var(--accent); border-color: var(--accent); background: rgba(37,99,235,0.06); }
+
+    .bhk-dropdown {
+      position: absolute;
+      top: calc(100% + 6px);
+      right: 0;
+      min-width: 150px;
+      max-height: 260px;
+      overflow-y: auto;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      box-shadow: var(--shadow-lg);
+      padding: 6px;
+      z-index: 30;
+    }
+    .bhk-dropdown.hidden { display: none; }
+
+    .bhk-opt {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 10px;
+      border-radius: 7px;
+      font-size: 13px;
+      cursor: pointer;
+      user-select: none;
+      transition: background 80ms;
+    }
+    .bhk-opt:hover { background: var(--subtle); }
+    .bhk-opt input[type="checkbox"] { cursor: pointer; width: 14px; height: 14px; flex-shrink: 0; }
+
+    /* Buttons */
+    .btn-icon {
+      padding: 5px 11px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--subtle);
+      font: inherit;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 120ms;
+      flex-shrink: 0;
+    }
+    .btn-icon:hover { color: var(--text); border-color: #d1d5db; }
+
+    /* File load wrapper */
+    .load-wrap { position: relative; flex-shrink: 0; }
+    .load-wrap .btn-icon { position: relative; pointer-events: none; }
+    .load-wrap input[type="file"] {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      cursor: pointer;
+      width: 100%;
+      z-index: 2;
+    }
+    .load-wrap:hover .btn-icon { color: var(--text); border-color: #d1d5db; }
+
+    /* ── Bottom-left: stats + legend ──────────────────────────────────── */
+    .bottom-left {
+      position: absolute;
+      left: 14px;
+      bottom: 14px;
+      z-index: 10;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .stats-bar {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 16px;
+      background: var(--panel);
+      backdrop-filter: var(--glass);
+      -webkit-backdrop-filter: var(--glass);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: var(--shadow-sm);
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .stats-bar strong { color: var(--text); font-weight: 700; }
+    .stats-bar .sep   { color: var(--xmuted); }
+
+    .legend {
+      display: flex;
+      gap: 12px;
+      padding: 8px 16px;
+      background: var(--panel);
+      backdrop-filter: var(--glass);
+      -webkit-backdrop-filter: var(--glass);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: var(--shadow-sm);
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 11px;
+      font-weight: 500;
+      color: var(--muted);
+    }
+    .swatch {
+      width: 8px;
+      height: 8px;
+      border-radius: 99px;
+      flex-shrink: 0;
+    }
+
+    /* ── Attribution ─────────────────────────────────────────────────── */
+    .attr {
+      position: absolute;
+      right: 14px;
+      bottom: 14px;
+      z-index: 5;
+      font-size: 10px;
+      color: rgba(0,0,0,0.38);
+      pointer-events: none;
+    }
+    .attr a { color: inherit; pointer-events: auto; }
+
+    /* ── Tooltip ─────────────────────────────────────────────────────── */
+    #tooltip {
+      position: fixed;
+      z-index: 40;
+      pointer-events: none;
+      padding: 10px 14px;
+      background: rgba(17,24,39,0.93);
+      color: #fff;
+      border-radius: 10px;
+      box-shadow: var(--shadow-lg);
+      font-size: 13px;
+      line-height: 1.5;
+      max-width: 240px;
+      backdrop-filter: blur(8px);
+      transition: opacity 80ms;
+    }
+    #tooltip.hidden { opacity: 0; }
+    .tt-name  { font-weight: 700; font-size: 13px; margin-bottom: 3px; }
+    .tt-price { color: rgba(255,255,255,0.75); font-size: 12px; }
+    .tt-meta  { color: rgba(255,255,255,0.50); font-size: 11px; margin-top: 2px; }
+
+    /* ── Detail card ─────────────────────────────────────────────────── */
+    #detailCard {
+      position: absolute;
+      right: 14px;
+      top: 58px;
+      bottom: 14px;
+      width: 300px;
+      z-index: 10;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      box-shadow: var(--shadow-lg);
+      overflow-y: auto;
+      overflow-x: hidden;
+      transform: translateX(330px);
+      transition: transform 280ms cubic-bezier(0.4, 0, 0.2, 1);
+      pointer-events: none;
+    }
+    #detailCard.open { transform: translateX(0); pointer-events: auto; }
+
+    #detailCard::-webkit-scrollbar { width: 4px; }
+    #detailCard::-webkit-scrollbar-track { background: transparent; }
+    #detailCard::-webkit-scrollbar-thumb { background: #e5e7eb; border-radius: 99px; }
+
+    .dc-header {
+      position: sticky;
+      top: 0;
+      background: var(--panel);
+      padding: 16px 16px 14px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 10px;
+      z-index: 1;
+    }
+
+    /* ── Compass ─────────────────────────────────────────────────────── */
+    .compass-wrap {
+      position: absolute;
+      right: 18px;
+      top: 74px;
+      width: 44px;
+      height: 44px;
+      background: rgba(255, 255, 255, 0.85);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--border);
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      cursor: pointer;
+      z-index: 100;
+      box-shadow: var(--shadow-lg);
+      transition: all 200ms;
+    }
+    .compass-wrap:hover { background: #fff; transform: scale(1.05); }
+    .compass-needle {
+      width: 24px;
+      height: 24px;
+      position: relative;
+      transition: transform 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .compass-needle::before, .compass-needle::after {
+      content: '';
+      position: absolute;
+      left: 50%; transform: translateX(-50%);
+      width: 0; height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+    }
+    .compass-needle::before { /* North (Red) */
+      top: 0;
+      border-bottom: 12px solid #ef4444;
+    }
+    .compass-needle::after { /* South (Blue/Grey) */
+      bottom: 0;
+      border-top: 12px solid #94a3b8;
+    }
+    .compass-n {
+      position: absolute;
+      top: -14px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 10px;
+      font-weight: 800;
+      color: #ef4444;
+    }
+
+    .dc-eyebrow {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.10em;
+      text-transform: uppercase;
+      color: var(--xmuted);
+      margin-bottom: 4px;
+    }
+
+    .dc-name {
+      font-size: 15px;
+      font-weight: 700;
+      line-height: 1.25;
+      color: var(--text);
+    }
+
+    .dc-sub {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 4px;
+    }
+
+    .dc-band {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      margin-top: 8px;
+      padding: 3px 9px;
+      border-radius: 99px;
+      font-size: 11px;
+      font-weight: 700;
+    }
+
+    .btn-close {
+      width: 28px;
+      height: 28px;
+      border-radius: 7px;
+      border: 1px solid var(--border);
+      background: var(--subtle);
+      font-size: 18px;
+      line-height: 1;
+      color: var(--muted);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      padding: 0;
+      transition: all 120ms;
+    }
+    .btn-close:hover { color: var(--text); border-color: #d1d5db; }
+
+    .dc-section { padding: 14px 16px; }
+    .dc-section + .dc-section { border-top: 1px solid var(--border); }
+
+    .dc-section-title {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.10em;
+      text-transform: uppercase;
+      color: var(--xmuted);
+      margin-bottom: 10px;
+    }
+
+    .dc-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+      padding: 5px 0;
+      font-size: 13px;
+    }
+    .dc-row + .dc-row { border-top: 1px solid rgba(0,0,0,0.04); }
+    .dc-row .key { color: var(--muted); flex-shrink: 0; }
+    .dc-row .val { color: var(--text); font-weight: 500; text-align: right; word-break: break-word; }
+    .dc-row .mono { font-family: "SF Mono","Fira Code",monospace; font-size: 11px; }
+
+    /* ── Toast ───────────────────────────────────────────────────────── */
+    #toast {
+      position: absolute;
+      top: 86px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 200;
+      padding: 8px 18px;
+      background: rgba(17,24,39,0.88);
+      backdrop-filter: blur(8px);
+      color: #fff;
+      border-radius: 99px;
+      font-size: 12px;
+      font-weight: 500;
+      pointer-events: none;
+      white-space: nowrap;
+      opacity: 1;
+      transition: all 400ms cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: var(--shadow-lg);
+    }
+    #toast.fade { opacity: 0; }
+    #toast.hidden { display: none; }
+
+    /* ── Responsive ──────────────────────────────────────────────────── */
+    @media (max-width: 960px) {
+      .band-filters { gap: 4px; }
+      .pill { padding: 4px 8px; font-size: 11px; }
+    }
+    @media (max-width: 860px) {
+      .band-filters { display: none; }
+    }
+    @media (max-width: 680px) {
+      .brand { font-size: 12px; }
+      .bhk-wrap { display: none; }
+    }
+    @media (max-width: 600px) {
+      .topbar { 
+        top: 10px; left: 10px; right: 10px;
+        padding: 8px 12px;
+        gap: 8px;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+      }
+      .search { font-size: 12px; padding: 6px 10px; min-width: 100%; order: 1; }
+      .brand { display: none; }
+      .vr { display: none; }
+      .band-filters { display: none; }
+      .bhk-wrap { display: none; }
+      #resetBtn { order: 2; padding: 6px 12px; font-size: 11px; }
+      .load-wrap { order: 3; padding: 6px 12px; font-size: 11px; }
+      
+      .bottom-left { left: 10px; bottom: 10px; right: 10px; gap: 6px; }
+      .stats-bar, .legend { width: 100%; justify-content: center; padding: 6px 12px; }
+
+      #detailCard {
+        right: 0; left: 0; width: auto;
+        bottom: 0; top: auto; height: 65vh;
+        border-radius: var(--r) var(--r) 0 0;
+        transform: translateY(100%);
+        transition: transform 400ms cubic-bezier(0.4, 0, 0.2, 1);
+        z-index: 1500;
+        background: #fff;
+        backdrop-filter: none;
+        pointer-events: none;
+      }
+      #detailCard.open { transform: translateY(0); pointer-events: auto; }
+      
+      .compass-wrap { top: auto; bottom: 85px; right: 10px; width: 40px; height: 40px; }
+    }
+  </style>
+</head>
+<body>
+<div id="app">
+  <div id="map">
+    <canvas id="deck-canvas"></canvas>
+  </div>
+
+  <!-- Topbar -->
+  <div class="topbar">
+    <span class="brand">Noida Atlas</span>
+    <div class="vr"></div>
+    <input id="searchInput" class="search" type="search" placeholder="Search project or developer…" aria-label="Search project or developer">
+    <div class="vr"></div>
+    <div class="band-filters">
+      <button class="pill entry   active" data-band="entry">Entry</button>
+      <button class="pill mid     active" data-band="mid">Mid</button>
+      <button class="pill premium active" data-band="premium">Premium</button>
+      <button class="pill luxury  active" data-band="luxury">Luxury</button>
+    </div>
+    <div class="bhk-wrap">
+      <button class="btn-bhk" id="bhkBtn">BHK ▾</button>
+      <div class="bhk-dropdown hidden" id="bhkDropdown"></div>
+    </div>
+    <div class="vr"></div>
+    <button class="btn-icon" id="resetBtn">↺ Reset view</button>
+    <div class="load-wrap">
+      <button class="btn-icon" aria-hidden="true">Load JSON</button>
+      <input type="file" id="fileInput" accept=".json" aria-label="Load project data from JSON">
+    </div>
+  </div>
+
+  <!-- Bottom-left: stats + legend -->
+  <div class="bottom-left">
+    <div class="stats-bar">
+      <span><strong id="statTowers">0</strong> towers</span>
+      <span class="sep">·</span>
+      <span><strong id="statProjects">0</strong> projects</span>
+      <span class="sep">·</span>
+      <span><strong id="statUnits">0</strong> units</span>
+    </div>
+    <div class="legend">
+      <div class="legend-item"><span class="swatch" style="background:var(--entry)"></span>Under 1 Cr</div>
+      <div class="legend-item"><span class="swatch" style="background:var(--mid)"></span>1–2 Cr</div>
+      <div class="legend-item"><span class="swatch" style="background:var(--premium)"></span>2–4 Cr</div>
+      <div class="legend-item"><span class="swatch" style="background:var(--luxury)"></span>4 Cr+</div>
+    </div>
+  </div>
+
+  <!-- Attribution -->
+  <div class="attr">
+    © <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors ·
+    © <a href="https://carto.com/attributions" target="_blank">CARTO</a>
+  </div>
+
+  <!-- Hover tooltip -->
+  <div id="tooltip" class="hidden"></div>
+
+  <!-- Detail card -->
+  <div id="detailCard">
+    <div class="dc-header">
+      <div>
+        <div class="dc-eyebrow" id="dcEyebrow">Tower 1 of 1</div>
+        <div class="dc-name" id="dcName">—</div>
+        <div class="dc-sub"  id="dcSub">—</div>
+        <div class="dc-band" id="dcBand"></div>
+      </div>
+      <button class="btn-close" id="closeCard">×</button>
+    </div>
+    <div class="dc-section">
+      <div class="dc-section-title">This Tower</div>
+      <div class="dc-row"><span class="key">Floors</span>     <span class="val" id="dcFloors">—</span></div>
+      <div class="dc-row"><span class="key">Est. units</span> <span class="val" id="dcUnits">—</span></div>
+    </div>
+    <div class="dc-section">
+      <div class="dc-section-title">Project</div>
+      <div class="dc-row"><span class="key">Price range</span><span class="val" id="dcPrice">—</span></div>
+      <div class="dc-row"><span class="key">BHK types</span>  <span class="val" id="dcBhk">—</span></div>
+      <div class="dc-row"><span class="key">Possession</span> <span class="val" id="dcPossession">—</span></div>
+      <div class="dc-row"><span class="key">Status</span>     <span class="val" id="dcStatus">—</span></div>
+      <div class="dc-row"><span class="key">Zone</span>       <span class="val" id="dcZone">—</span></div>
+      <div class="dc-row"><span class="key">Land area</span>  <span class="val" id="dcLand">—</span></div>
+      <div class="dc-row"><span class="key">RERA</span>       <span class="val mono" id="dcRera">—</span></div>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast" class="hidden"></div>
+  
+  <div class="compass-wrap" id="compass" title="Reset to North">
+    <div class="compass-needle" id="needle">
+      <div class="compass-n">N</div>
+    </div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/deck.gl@9.0.13/dist.min.js"></script>
+<script>
+'use strict';
+const { Deck, MapView, FlyToInterpolator, TileLayer, BitmapLayer, PolygonLayer } = deck;
+
+// ── Constants ───────────────────────────────────────────────────────────────
+const DEFAULT_VIEW = {
+  latitude:  28.5355,
+  longitude: 77.3910,
+  zoom:      10.8,
+  pitch:     48,
+  bearing:   18
+};
+
+const DEG_PER_METER = 1 / 111320;
+
+const BANDS = {
+  entry:   { key: 'entry',   label: 'Under 1 Cr', color: [16,  185, 129] },
+  mid:     { key: 'mid',     label: '1–2 Cr',     color: [245, 158,  11] },
+  premium: { key: 'premium', label: '2–4 Cr',     color: [239,  68,  68] },
+  luxury:  { key: 'luxury',  label: '4 Cr+',      color: [139,  92, 246] },
+  unknown: { key: 'unknown', label: 'Unknown',    color: [156, 163, 175] }
+};
+
+// ── Helpers ─────────────────────────────────────────────────────────────────
+function parseNum(v, fallback = 0) {
+  if (typeof v === 'number' && isFinite(v)) return v;
+  const m = String(v ?? '').match(/[\d.]+/);
+  return m ? parseFloat(m[0]) : fallback;
+}
+
+function getPriceBand(priceRange) {
+  const text = String(priceRange || '').toLowerCase().replace(/[^\d.a-z\s]/g, ' ');
+  const crM = text.match(/([\d.]+)\s*cr/);
+  if (crM) {
+    const v = parseFloat(crM[1]);
+    if (v < 1) return BANDS.entry;
+    if (v < 2) return BANDS.mid;
+    if (v < 4) return BANDS.premium;
+    return BANDS.luxury;
+  }
+  const lM = text.match(/([\d.]+)\s*l(?:akh)?/);
+  if (lM) {
+    const v = parseFloat(lM[1]) / 100;
+    return v < 1 ? BANDS.entry : BANDS.mid;
+  }
+  return BANDS.unknown;
+}
+
+function normBhk(val) {
+  if (Array.isArray(val)) return val.join(', ') || '—';
+  return val || '—';
+}
+
+// ── Tower geometry ──────────────────────────────────────────────────────────
+// Returns a 4-point rectangle polygon centered at (cx, cy) in [lng, lat] coords,
+// with half-widths hwLng and hhLat (in degrees), rotated by angleDeg.
+function rectPolygon(cx, cy, hwLng, hhLat, angleDeg) {
+  const a = angleDeg * Math.PI / 180;
+  const cos = Math.cos(a), sin = Math.sin(a);
+  return [[-hwLng,-hhLat],[hwLng,-hhLat],[hwLng,hhLat],[-hwLng,hhLat]]
+    .map(([dx, dy]) => [cx + dx*cos - dy*sin, cy + dx*sin + dy*cos]);
+}
+
+// ── Tower generation ────────────────────────────────────────────────────────
+function generateTowers(projects) {
+  const towers = [];
+
+  for (const p of projects) {
+    const lat = Number(p.lat), lng = Number(p.lng);
+    if (!isFinite(lat) || !isFinite(lng)) continue;
+
+    const n          = Math.max(1, parseInt(p.number_of_towers || p.buildings || 1) || 1);
+    const totalUnits = parseNum(p.total_units, 0);
+    const unitsEach  = n > 0 ? Math.round(totalUnits / n) : 0;
+    const cosLat     = Math.cos(lat * Math.PI / 180);
+
+    // Footprint: 24 m wide × 36 m deep
+    const hwLng = 12 / (111320 * cosLat);
+    const hhLat = 18 * DEG_PER_METER;
+
+    // Precompute ring layout: concentric rings with spacing = 38m (14m gap between 24m towers).
+    // Ring k has radius (k+1)*42m; capacity = floor(2π*R / 38).
+    // This cleanly handles N from 1 to 80+ without overlap.
+    const RING_BASE_R  = 42;   // metres
+    const RING_SPACING = 38;   // metres between tower centres
+    const ringStarts = [];     // ringStarts[k] = first tower index assigned to ring k
+    {
+      let assigned = 0, k = 0;
+      while (assigned < n) {
+        ringStarts.push(assigned);
+        const R   = RING_BASE_R * (k + 1);
+        const cap = Math.max(1, Math.floor(2 * Math.PI * R / RING_SPACING));
+        assigned += cap;
+        k++;
+      }
+    }
+
+    for (let i = 0; i < n; i++) {
+      let dlat = 0, dlng = 0;
+
+      if (n > 1) {
+        // Find which ring this tower belongs to
+        let ring = 0;
+        for (let k = ringStarts.length - 1; k >= 0; k--) {
+          if (i >= ringStarts[k]) { ring = k; break; }
+        }
+        const R      = RING_BASE_R * (ring + 1);
+        const ringI  = i - ringStarts[ring];
+        // Capacity for this ring
+        const ringCap = ring + 1 < ringStarts.length
+          ? (ringStarts[ring + 1] - ringStarts[ring])
+          : (n - ringStarts[ring]);
+        const angle  = (ringI / ringCap) * 2 * Math.PI - Math.PI / 2;
+        dlat = R * DEG_PER_METER * Math.sin(angle);
+        dlng = R * DEG_PER_METER / cosLat * Math.cos(angle);
+      }
+
+      // Floor count: explicit field → estimate from units/tower (4 units per floor)
+      const floors = parseInt(p.number_of_floors || 0) ||
+                     Math.max(8, Math.min(42, unitsEach > 0 ? Math.round(unitsEach / 4) : 15));
+
+      const tLat = lat + dlat;
+      const tLng = lng + dlng;
+
+      towers.push({
+        ...p,
+        _ti:     i + 1,      // tower index (1-based)
+        _tn:     n,           // total tower count
+        _floors: floors,
+        _units:  unitsEach,
+        _lat:    tLat,
+        _lng:    tLng,
+        polygon: rectPolygon(tLng, tLat, hwLng, hhLat, i * 20 + 5)
+      });
+    }
+  }
+
+  return towers;
+}
+
+// ── Filter state ────────────────────────────────────────────────────────────
+const F = {
+  search: '',
+  bands:  new Set(['entry', 'mid', 'premium', 'luxury', 'unknown']),
+  bhk:    new Set()   // empty = all
+};
+
+function passes(t) {
+  if (F.search) {
+    const hay = `${t.project_name||''} ${t.developer_housing||''} ${t.promoter_name||''}`.toLowerCase();
+    if (!hay.includes(F.search)) return false;
+  }
+  if (!F.bands.has(getPriceBand(t.price_range).key)) return false;
+  if (F.bhk.size > 0) {
+    const bhks = Array.isArray(t.bhk_types) ? t.bhk_types : (t.bhk_types ? [t.bhk_types] : []);
+    if (!bhks.some(b => F.bhk.has(b))) return false;
+  }
+  return true;
+}
+
+// ── App state ────────────────────────────────────────────────────────────────
+let allTowers = [];
+
+// ── Base tile layer (created once so tile cache is preserved across renders) ──
+const BASE_TILE_LAYER = new TileLayer({
+  id: 'base',
+  data: 'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
+  minZoom: 0, maxZoom: 19, tileSize: 256,
+  pickable: false,
+  renderSubLayers(props) {
+    if (!props.data) return null;
+    const { bbox: { west, south, east, north } } = props.tile;
+    return new BitmapLayer({
+      ...props,
+      data: null,
+      image: props.data,
+      bounds: [west, south, east, north],
+      pickable: false
+    });
+  }
+});
+
+// ── DeckGL ───────────────────────────────────────────────────────────────────
+const deckgl = new Deck({
+  canvas: 'deck-canvas',
+  initialViewState: DEFAULT_VIEW,
+  controller: true,
+  layers: [BASE_TILE_LAYER],
+  parameters: { clearColor: [221, 225, 231, 255] },
+  pickingRadius: 8,
+  onViewStateChange: ({viewState}) => {
+    // Sync compass needle rotation
+    const needle = document.getElementById('needle');
+    if (needle) needle.style.transform = `rotate(${-viewState.bearing}deg)`;
+    deckgl.setProps({viewState});
+  },
+  onHover: info => handleHover(info),
+  onClick: info => handleClick(info)
+});
+
+// ── Compass Click ────────────────────────────────────────────────────────────
+document.getElementById('compass').onclick = () => {
+  const current = deckgl.props.viewState || DEFAULT_VIEW;
+  deckgl.setProps({
+    viewState: {
+      ...current,
+      bearing: 0,
+      pitch: 0,
+      transitionDuration: 800,
+      transitionInterpolator: new FlyToInterpolator()
+    }
+  });
+  // Reset needle manually for the animation start
+  document.getElementById('needle').style.transform = `rotate(0deg)`;
+};
+
+// ── Layer builders ───────────────────────────────────────────────────────────
+function render() {
+  const visible = allTowers.filter(passes);
+  updateStats(visible);
+
+  deckgl.setProps({
+    layers: [
+      BASE_TILE_LAYER,
+
+      // Solid extruded block — pickable
+      new PolygonLayer({
+        id: 'towers-solid',
+        data: visible,
+        getPolygon:   d => d.polygon,
+        getElevation: d => d._floors * 3,
+        elevationScale: 8,
+        getFillColor: d => {
+          const [r, g, b] = getPriceBand(d.price_range).color;
+          // Subtle per-tower lightness variation so adjacent towers are distinguishable
+          const v = (d._ti % 3) * 8;
+          return [Math.min(255, r+v), Math.min(255, g+v), Math.min(255, b+v), 215];
+        },
+        extruded: true, filled: true, wireframe: false,
+        pickable: true,
+        autoHighlight: true,
+        highlightColor: [255, 255, 255, 90],
+        material: { ambient: 0.35, diffuse: 0.65, shininess: 28, specularColor: [255,255,255] },
+        onHover: handleHover,
+        onClick: handleClick,
+        transitions: { getElevation: 450, getFillColor: 220 }
+      }),
+
+      // Wireframe edges — gives the building outline / corner-line look
+      new PolygonLayer({
+        id: 'towers-wire',
+        data: visible,
+        getPolygon:    d => d.polygon,
+        getElevation:  d => d._floors * 3,
+        elevationScale: 8,
+        getLineColor:  [255, 255, 255, 90],
+        extruded: true, filled: false, wireframe: true,
+        pickable: false,
+        lineWidthMinPixels: 1,
+        transitions: { getElevation: 450 }
+      })
+    ]
+  });
+}
+
+// ── Stats ────────────────────────────────────────────────────────────────────
+function updateStats(visible) {
+  const seen = new Set();
+  let projects = 0, units = 0;
+  for (const t of visible) {
+    const key = t.rera_id || t.project_name;
+    if (!seen.has(key)) {
+      seen.add(key);
+      projects++;
+      units += parseNum(t.total_units, 0);
+    }
+  }
+  document.getElementById('statTowers').textContent   = visible.length.toLocaleString();
+  document.getElementById('statProjects').textContent = projects.toLocaleString();
+  document.getElementById('statUnits').textContent    = units.toLocaleString();
+}
+
+// ── Tooltip ──────────────────────────────────────────────────────────────────
+const tooltipEl = document.getElementById('tooltip');
+
+function handleHover(info) {
+  if (!info.object) { tooltipEl.classList.add('hidden'); return; }
+  const { object: t, x, y } = info;
+  tooltipEl.innerHTML = `
+    <div class="tt-name">${t.project_name || 'Unknown'}</div>
+    <div class="tt-price">${t.price_range || '—'}</div>
+    <div class="tt-meta">Possession: ${t.possession_date || '—'} &nbsp;·&nbsp; Tower ${t._ti}/${t._tn}</div>
+  `;
+  tooltipEl.classList.remove('hidden');
+
+  // Clamp so tooltip never goes off-screen
+  const tw = tooltipEl.offsetWidth  || 220;
+  const th = tooltipEl.offsetHeight || 72;
+  const mg = 14;
+  tooltipEl.style.left = Math.max(mg, Math.min(x + 16, window.innerWidth  - tw - mg)) + 'px';
+  tooltipEl.style.top  = Math.max(mg, Math.min(y + 16, window.innerHeight - th - mg)) + 'px';
+}
+
+// ── Detail card ──────────────────────────────────────────────────────────────
+const detailCard = document.getElementById('detailCard');
+
+function openCard(t) {
+  const band = getPriceBand(t.price_range);
+  const sub  = [t.developer_housing || t.promoter_name, t.zone || t.district].filter(Boolean).join(' · ');
+
+  document.getElementById('dcEyebrow').textContent  = `Tower ${t._ti} of ${t._tn}`;
+  document.getElementById('dcName').textContent     = t.project_name || 'Unknown project';
+  document.getElementById('dcSub').textContent      = sub || '—';
+  document.getElementById('dcFloors').textContent   = `~${t._floors} floors`;
+  document.getElementById('dcUnits').textContent    = t._units
+    ? `~${t._units.toLocaleString()} (of ${parseNum(t.total_units,0).toLocaleString()} total)`
+    : '—';
+  document.getElementById('dcPrice').textContent      = t.price_range      || '—';
+  document.getElementById('dcBhk').textContent        = normBhk(t.bhk_types);
+  document.getElementById('dcPossession').textContent = t.possession_date   || '—';
+  document.getElementById('dcStatus').textContent     = t.project_status    || '—';
+  document.getElementById('dcZone').textContent       = t.zone || t.district || '—';
+  document.getElementById('dcLand').textContent       = t.land_area || (t.land_area_acres ? `${t.land_area_acres} acres` : '—');
+  document.getElementById('dcRera').textContent       = t.rera_id           || '—';
+
+  const badge = document.getElementById('dcBand');
+  badge.textContent        = band.label;
+  badge.style.background   = `rgba(${band.color.join(',')},0.12)`;
+  badge.style.color        = `rgb(${band.color.join(',')})`;
+
+  detailCard.classList.add('open');
+  tooltipEl.classList.add('hidden');
+}
+
+function closeCard() {
+  detailCard.classList.remove('open');
+}
+
+function handleClick(info) {
+  if (!info.object) { closeCard(); return; }
+  openCard(info.object);
+
+  deckgl.setProps({
+    initialViewState: {
+      latitude:  info.object._lat,
+      longitude: info.object._lng,
+      zoom:      14.5,
+      pitch:     52,
+      bearing:   DEFAULT_VIEW.bearing,
+      transitionDuration: 900,
+      transitionInterpolator: new FlyToInterpolator({ speed: 1.6 })
+    }
+  });
+}
+
+document.getElementById('closeCard').addEventListener('click', closeCard);
+
+// ── BHK dropdown ─────────────────────────────────────────────────────────────
+function populateBhk(towers) {
+  const all = new Set();
+  for (const t of towers) {
+    if (Array.isArray(t.bhk_types)) t.bhk_types.forEach(b => all.add(b));
+    else if (t.bhk_types)           all.add(String(t.bhk_types));
+  }
+  const sorted = [...all].sort((a, b) => parseFloat(a) - parseFloat(b));
+  const dd = document.getElementById('bhkDropdown');
+  dd.innerHTML = sorted.map(v =>
+    `<label class="bhk-opt"><input type="checkbox" class="bhk-cb" value="${v}"> ${v}</label>`
+  ).join('');
+  dd.querySelectorAll('.bhk-cb').forEach(cb => {
+    cb.addEventListener('change', () => {
+      if (cb.checked) F.bhk.add(cb.value);
+      else            F.bhk.delete(cb.value);
+      refreshBhkBtn();
+      render();
+    });
+  });
+}
+
+function refreshBhkBtn() {
+  const btn = document.getElementById('bhkBtn');
+  btn.classList.toggle('has-filter', F.bhk.size > 0);
+  btn.textContent = F.bhk.size > 0 ? `BHK (${F.bhk.size}) ▾` : 'BHK ▾';
+}
+
+document.getElementById('bhkBtn').addEventListener('click', e => {
+  e.stopPropagation();
+  document.getElementById('bhkDropdown').classList.toggle('hidden');
+});
+document.addEventListener('click', e => {
+  if (!e.target.closest('.bhk-wrap'))
+    document.getElementById('bhkDropdown').classList.add('hidden');
+});
+
+// ── Price band pills ──────────────────────────────────────────────────────────
+document.querySelectorAll('.pill[data-band]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const band = btn.dataset.band;
+    if (F.bands.has(band)) { F.bands.delete(band); btn.classList.remove('active'); }
+    else                   { F.bands.add(band);    btn.classList.add('active');    }
+    render();
+  });
+});
+
+// ── Search ────────────────────────────────────────────────────────────────────
+document.getElementById('searchInput').addEventListener('input', e => {
+  F.search = e.target.value.trim().toLowerCase();
+  render();
+});
+
+// ── Reset view ────────────────────────────────────────────────────────────────
+document.getElementById('resetBtn').addEventListener('click', () => {
+  deckgl.setProps({
+    initialViewState: {
+      ...DEFAULT_VIEW,
+      transitionDuration: 800,
+      transitionInterpolator: new FlyToInterpolator({ speed: 1.4 })
+    }
+  });
+});
+
+// ── File load ─────────────────────────────────────────────────────────────────
+document.getElementById('fileInput').addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = ev => {
+    try {
+      const data = JSON.parse(ev.target.result);
+      if (!Array.isArray(data)) throw new Error('Expected array');
+      loadProjects(data, file.name);
+    } catch {
+      toast('Could not parse JSON. Expected an array of project objects.');
+    }
+  };
+  reader.readAsText(file);
+});
+
+// ── Toast ─────────────────────────────────────────────────────────────────────
+let _toastTimer;
+function toast(msg, duration = 3500) {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.classList.remove('hidden', 'fade');
+  clearTimeout(_toastTimer);
+  _toastTimer = setTimeout(() => {
+    el.classList.add('fade');
+    setTimeout(() => el.classList.add('hidden'), 520);
+  }, duration);
+}
+
+// ── Load & init ───────────────────────────────────────────────────────────────
+function loadProjects(projects, label) {
+  allTowers = generateTowers(projects);
+  populateBhk(allTowers);
+  render();
+  toast(`Loaded ${projects.length.toLocaleString()} projects → ${allTowers.length.toLocaleString()} towers`);
+}
+
+async function init() {
+  // Base tile layer is already set in the DeckGL constructor; nothing to do here.
+
+  try {
+    const res = await fetch('/data/projects_final.json');
+    if (!res.ok) throw new Error('Not found');
+    const data = await res.json();
+    loadProjects(data, 'projects_final.json');
+  } catch (err) {
+    console.error('Fetch error:', err);
+    toast('Auto-load failed. Use "Load JSON" to pick the file.', 6000);
+    allTowers = [];
+    render();
+  }
+}
+
+init();
+</script>
+</body>
+</html>

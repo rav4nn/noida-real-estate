@@ -1,0 +1,36 @@
+{
+  "avg_price_by_zone": {
+    "Noida": 210.33,
+    "Greater Noida": 919.64,
+    "Noida Extension": 0,
+    "Yamuna Expressway": 222.67
+  },
+  "top_developers": {
+    "Jaypee Greens": 38,
+    "Supertech Limited": 30,
+    "Ajnara India Ltd": 24,
+    "Jaiprakash Associates Limited": 20,
+    "Gaurs Group": 17,
+    "ATS Infrastructure Limited": 16,
+    "Panchsheel Group": 15,
+    "The Antriksh Group": 14,
+    "Logix Group": 13,
+    "Ansal API": 12
+  },
+  "bhk_distribution": {
+    "1 BHK": 741,
+    "1.5 BHK": 27,
+    "2 BHK": 741,
+    "3 BHK": 741,
+    "4 BHK": 734,
+    "6 BHK": 134,
+    "2.5 BHK": 444,
+    "3.5 BHK": 460,
+    "5 BHK": 360,
+    "8 BHK": 4,
+    "4.5 BHK": 290,
+    "5.5 BHK": 21,
+    "6.5 BHK": 2,
+    "7 BHK": 1
+  }
+}

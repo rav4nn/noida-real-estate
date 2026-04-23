@@ -1,0 +1,380 @@
+[
+  {
+    "rera_id": "MANUAL_PRATEEK_LAUREL",
+    "project_name": "Prateek Laurel",
+    "promoter_name": "Prateek Group",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/1991-prateek-laurel-by-prateek-group-in-sector-120",
+    "manual_entry": true,
+    "manual_lat": 28.5687,
+    "manual_lng": 77.3828,
+    "notes": "Sector 120 Noida - pre-RERA project, not registered with UP RERA"
+  },
+  {
+    "rera_id": "UPRERAPRJ11256",
+    "project_name": "Ashiyana Villas",
+    "promoter_name": "Dagar Builders & Developers",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/282299-ashiyana-villas-by-dagar-builders-developers-in-noida-extension",
+    "buildings": null,
+    "total_units": null,
+    "land_area_acres": "4.94",
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "3.5 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "885",
+      "2.5 BHK": "1070",
+      "3 BHK": "1700",
+      "3.5 BHK": "1600",
+      "4 BHK": "2100"
+    },
+    "possession_date": "Jul, 2023",
+    "price_range": "1.53 Cr - 1.84 Cr",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper, not in UP RERA dataset"
+  },
+  {
+    "rera_id": "MANUAL_AAMBESTEN_TWIN_CELESTIAL",
+    "project_name": "Aambesten Twin Celestial",
+    "promoter_name": "Ambesten Homes Pvt Ltd",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/272777-aambesten-twin-celestial-by-ambesten-homes-pvt-ltd-in-noida-extension",
+    "buildings": null,
+    "total_units": "84",
+    "land_area_acres": "0.12",
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "680"
+    },
+    "possession_date": "Jan, 2022",
+    "price_range": "₹37.5 L - ₹76.54 L",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper, not in UP RERA dataset"
+  },
+  {
+    "rera_id": "MANUAL_HARK_SAI_HOMES_4",
+    "project_name": "Hark Sai Homes 4",
+    "promoter_name": "Hark Infrastructure Developers Private Limited",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/294783-hark-sai-homes-4-by-hark-infrastructure-developers-private-limited-in-sector-49",
+    "buildings": "1",
+    "total_units": "12",
+    "land_area_acres": null,
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "1 BHK": "550",
+      "2 BHK": "850",
+      "3 BHK": "1400"
+    },
+    "possession_date": "Oct, 2023",
+    "price_range": "18.00 L - 35.00 L",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper, not in UP RERA dataset"
+  },
+  {
+    "rera_id": "MANUAL_JMD_107",
+    "project_name": "JMD 107",
+    "promoter_name": "JMD Construction",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/328679-jmd-107-by-jmd-construction-in-sector-107",
+    "buildings": "1",
+    "total_units": "25",
+    "land_area_acres": null,
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "3.5 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "1095",
+      "3 BHK": "1840",
+      "4 BHK": "2450"
+    },
+    "possession_date": "Dec, 2024",
+    "price_range": "59.08 L - 1.73 Cr",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper, not in UP RERA dataset"
+  },
+  {
+    "rera_id": "MANUAL_JMD_SIDDH_APPARTMENT",
+    "project_name": "JMD Siddh Appartment",
+    "promoter_name": "JMD Construction",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/326098-jmd-siddh-appartment-by-jmd-construction-in-sector-73",
+    "buildings": "4",
+    "total_units": "201",
+    "land_area_acres": null,
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "1 BHK": "700",
+      "2 BHK": "1050",
+      "3 BHK": "1400"
+    },
+    "possession_date": "Jan, 2025",
+    "price_range": "₹58.0 L - ₹72.0 L",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper, not in UP RERA dataset"
+  },
+  {
+    "rera_id": "MANUAL_MALIK_HINDUSTAN_APARTMENT",
+    "project_name": "Malik Hindustan Apartment",
+    "promoter_name": "Malik Infrahomes India Pvt Ltd",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/347172-malik-hindustan-apartment-by-malik-infrahomes-india-pvt-ltd-in-sector-104",
+    "buildings": "1",
+    "total_units": "54",
+    "land_area_acres": null,
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "3.5 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "1095",
+      "3 BHK": "1395",
+      "4 BHK": "2295"
+    },
+    "possession_date": "Jan, 2027",
+    "price_range": "76.50 L - 1.02 Cr",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper, not in UP RERA dataset"
+  },
+  {
+    "rera_id": "MANUAL_SGP_WOW_MONK_PHASE_2",
+    "project_name": "SGP Wow Monk Phase 2",
+    "promoter_name": "SGP Infra",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/357694-sgp-wow-monk-phase-2-by-sgp-infra-in-noida-extension",
+    "buildings": null,
+    "total_units": null,
+    "land_area_acres": null,
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "1100",
+      "3 BHK": "1700",
+      "4 BHK": "2200"
+    },
+    "possession_date": "Dec, 2025",
+    "price_range": "72.00 L - 96.99 L",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper, not in UP RERA dataset"
+  },
+  {
+    "rera_id": "MANUAL_VIHAAN_107",
+    "project_name": "Vihaan 107",
+    "promoter_name": "Vihaan Group",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/347641-vihaan-107-by-vihaan-group-in-sector-107",
+    "buildings": "2",
+    "total_units": "64",
+    "land_area_acres": "4",
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "1050",
+      "3 BHK": "1840",
+      "4 BHK": "2450"
+    },
+    "possession_date": "Sep, 2025",
+    "price_range": "56.56 L - 86.52 L",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper, not in UP RERA dataset"
+  },
+  {
+    "rera_id": "MANUAL_AVENUE_1",
+    "project_name": "Avenue 1",
+    "promoter_name": null,
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/345410-avenue-1-by-investwell-homes-in-sector-74",
+    "buildings": null,
+    "total_units": null,
+    "land_area_acres": null,
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "1 BHK": "600",
+      "2 BHK": "1000"
+    },
+    "possession_date": "Jun, 2025",
+    "price_range": "22.00 L - 55.00 L",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper"
+  },
+  {
+    "rera_id": "MANUAL_HOMEKRAFT_WONDER_HOMES_3",
+    "project_name": "Homekraft Wonder Homes 3",
+    "promoter_name": "Homekraft Construction Pvt Ltd",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/287618-homekraft-wonder-homes-3-by-homekraft-construction-pvt-ltd-in-sector-104",
+    "buildings": "1",
+    "total_units": "35",
+    "land_area_acres": "0.11",
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "3.5 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "1010",
+      "3 BHK": "1395",
+      "4 BHK": "1970"
+    },
+    "possession_date": "May, 2023",
+    "price_range": "₹63.11 L - ₹1.8 Cr",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper"
+  },
+  {
+    "rera_id": "MANUAL_JMD_A1_HEIGHT",
+    "project_name": "JMD A1 Height",
+    "promoter_name": "JMD Construction",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/335558-jmd-a1-height-by-jmd-construction-in-sector-73",
+    "buildings": "1",
+    "total_units": null,
+    "land_area_acres": null,
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "1 BHK": "550",
+      "2 BHK": "1000"
+    },
+    "possession_date": "Apr, 2025",
+    "price_range": "₹25.5 L - ₹72.0 L",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper"
+  },
+  {
+    "rera_id": "MANUAL_MUDGAL_VED_RESIDENCY",
+    "project_name": "Mudgal Ved Residency",
+    "promoter_name": "Mudgal Homes Pvt Ltd",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/361481-mudgal-ved-residency-by-mudgal-homes-pvt-ltd-in-noida-extension",
+    "buildings": null,
+    "total_units": null,
+    "land_area_acres": "0.12",
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "680",
+      "3 BHK": "1160"
+    },
+    "possession_date": "May, 2026",
+    "price_range": null,
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper"
+  },
+  {
+    "rera_id": "MANUAL_SARASWATI_LANDMARK_2",
+    "project_name": "Saraswati Landmark 2",
+    "promoter_name": null,
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/346159-saraswati-landmark-2-by-saraswati-group-in-noida-extension",
+    "buildings": null,
+    "total_units": null,
+    "land_area_acres": null,
+    "bhk_types": null,
+    "bhk_areas_sqft": null,
+    "possession_date": null,
+    "price_range": null,
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper"
+  },
+  {
+    "rera_id": "MANUAL_TRINITY_PRIMUS",
+    "project_name": "Trinity Primus",
+    "promoter_name": "Trinity Ventures",
+    "project_type": "Residential",
+    "district": "Gautam Buddha Nagar",
+    "housing_url": "https://housing.com/in/buy/projects/page/313959-trinity-primus-by-trinity-ventures-in-noida-extension",
+    "buildings": null,
+    "total_units": "70",
+    "land_area_acres": "1",
+    "bhk_types": [
+      "1 BHK",
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "bhk_areas_sqft": {
+      "2 BHK": "1015",
+      "2.5 BHK": "1105",
+      "3 BHK": "1600",
+      "4 BHK": "2100"
+    },
+    "possession_date": "Mar, 2024",
+    "price_range": "76.34 L - 82.43 L",
+    "manual_entry": true,
+    "notes": "Discovered via housing.com sector scraper"
+  }
+]
